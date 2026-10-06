@@ -1,0 +1,12 @@
+# Archivos locales de sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Artefactos temporales de Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Power BI crea copias de respaldo locales
+*.pbix.~*

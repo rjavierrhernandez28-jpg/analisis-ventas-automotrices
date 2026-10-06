@@ -1,0 +1,1501 @@
+id,fecha,sucursal,region,vendedor,canal,marca,modelo,segmento,precio_lista,descuento,precio_venta,costo_total,utilidad
+1,2024-07-12,Xalapa,Centro,Camila Reyes,Flotilla,BYD,Dolphin,Eléctrico,535000,11080.84,523919.16,444638.38,79280.78
+2,2025-01-10,Minatitlán,Sur,Valeria Cruz,Referido,Toyota,Hilux,Pickup,590000,20708.93,569291.07,491308.11,77982.96
+3,2024-09-30,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Corolla,Sedán,455000,12076.6,442923.4,381560.5,61362.9
+4,2025-08-17,Minatitlán,Sur,Pedro García,Referido,BYD,Dolphin,Eléctrico,535000,4243.72,530756.28,453244.76,77511.52
+5,2025-07-03,Minatitlán,Sur,Valeria Cruz,Referido,Mazda,CX-5,SUV,610000,18983.61,591016.39,499616.97,91399.42
+6,2024-09-04,Xalapa,Centro,Luis Mendoza,Digital,Suzuki,Swift,Hatchback,340000,14430.67,325569.33,294099.84,31469.49
+7,2024-12-18,Minatitlán,Sur,Valeria Cruz,Flotilla,BYD,Seal,Eléctrico,780000,4681.44,775318.56,625172.03,150146.53
+8,2025-06-09,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Corolla,Sedán,455000,3957.76,451042.24,407449.3,43592.94
+9,2025-07-20,Acayucan,Sur,Sofía Martínez,Digital,Nissan,Versa,Sedán,390000,16109.96,373890.04,332924.04,40966.0
+10,2025-04-12,Xalapa,Centro,Luis Mendoza,Digital,Suzuki,Swift,Hatchback,340000,1503.45,338496.55,294715.51,43781.04
+11,2025-06-14,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Hilux,Pickup,590000,885.87,589114.13,497575.96,91538.17
+12,2025-07-07,Veracruz,Centro,Diego Torres,Referido,BYD,Dolphin,Eléctrico,535000,15617.07,519382.93,435555.39,83827.54
+13,2025-04-18,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,Toyota,Hilux,Pickup,590000,4816.84,585183.16,496988.63,88194.53
+14,2024-03-01,Minatitlán,Sur,Pedro García,Piso de venta,BYD,Dolphin,Eléctrico,535000,3078.35,531921.65,454273.17,77648.48
+15,2025-08-11,Veracruz,Centro,Mariana Flores,Referido,BYD,Dolphin,Eléctrico,535000,37022.19,497977.81,419329.75,78648.06
+16,2024-10-21,Xalapa,Centro,Camila Reyes,Flotilla,Suzuki,Swift,Hatchback,340000,10512.39,329487.61,292410.02,37077.59
+17,2024-10-18,Veracruz,Centro,Mariana Flores,Digital,BYD,Dolphin,Eléctrico,535000,13631.67,521368.33,447017.06,74351.27
+18,2025-05-01,Veracruz,Centro,Mariana Flores,Referido,Nissan,Versa,Sedán,390000,2373.28,387626.72,353937.34,33689.38
+19,2025-05-01,Veracruz,Centro,Mariana Flores,Piso de venta,Toyota,Avanza,SUV,378000,2222.11,375777.89,327302.69,48475.2
+20,2025-10-17,Coatzacoalcos,Sur,Ana López,Piso de venta,BYD,Seal,Eléctrico,780000,42116.88,737883.12,612843.98,125039.14
+21,2025-08-04,Acayucan,Sur,Sofía Martínez,Flotilla,Toyota,Hilux,Pickup,590000,38302.05,551697.95,459455.09,92242.86
+22,2025-09-20,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Toyota,Hilux,Pickup,590000,16994.49,573005.51,478983.08,94022.43
+23,2025-08-13,Minatitlán,Sur,Valeria Cruz,Flotilla,Nissan,Versa,Sedán,390000,9277.51,380722.49,350693.8,30028.69
+24,2024-12-26,Acayucan,Sur,Sofía Martínez,Piso de venta,BYD,Seal,Eléctrico,780000,34721.8,745278.2,606942.31,138335.89
+25,2024-03-19,Coatzacoalcos,Sur,Jorge Ramírez,Digital,BYD,Dolphin,Eléctrico,535000,32332.8,502667.2,427478.1,75189.1
+26,2025-06-23,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Toyota,Hilux,Pickup,590000,11404.56,578595.44,502377.12,76218.32
+27,2025-08-03,Minatitlán,Sur,Valeria Cruz,Flotilla,BYD,Dolphin,Eléctrico,535000,13681.54,521318.46,448785.62,72532.84
+28,2024-12-01,Xalapa,Centro,Luis Mendoza,Referido,Toyota,Hilux,Pickup,590000,16696.98,573303.02,498083.64,75219.38
+29,2024-07-25,Acayucan,Sur,Sofía Martínez,Referido,Toyota,Hilux,Pickup,590000,2436.44,587563.56,496338.71,91224.85
+30,2025-12-02,Veracruz,Centro,Diego Torres,Referido,BYD,Dolphin,Eléctrico,535000,30462.51,504537.49,432513.36,72024.13
+31,2024-04-26,Veracruz,Centro,Mariana Flores,Referido,Toyota,Hilux,Pickup,590000,37049.35,552950.65,466471.35,86479.3
+32,2024-04-17,Acayucan,Sur,Carlos Hernández,Digital,Toyota,Corolla,Sedán,455000,7996.04,447003.96,397024.71,49979.25
+33,2024-11-02,Minatitlán,Sur,Pedro García,Flotilla,Nissan,Versa,Sedán,390000,14809.94,375190.06,344287.62,30902.44
+34,2025-04-06,Xalapa,Centro,Luis Mendoza,Flotilla,Mazda,CX-5,SUV,610000,28039.85,581960.15,502891.57,79068.58
+35,2024-05-04,Veracruz,Centro,Mariana Flores,Digital,BYD,Dolphin,Eléctrico,535000,5303.92,529696.08,443481.61,86214.47
+36,2025-10-25,Acayucan,Sur,Sofía Martínez,Flotilla,Toyota,Avanza,SUV,378000,10092.53,367907.47,325107.07,42800.4
+37,2024-05-28,Acayucan,Sur,Sofía Martínez,Digital,Nissan,Versa,Sedán,390000,25448.1,364551.9,335667.54,28884.36
+38,2025-10-09,Veracruz,Centro,Diego Torres,Piso de venta,BYD,Dolphin,Eléctrico,535000,4226.8,530773.2,445070.44,85702.76
+39,2024-06-16,Xalapa,Centro,Camila Reyes,Flotilla,Toyota,Hilux,Pickup,590000,27084.66,562915.34,469232.19,93683.15
+40,2024-08-21,Acayucan,Sur,Carlos Hernández,Referido,Nissan,Versa,Sedán,390000,183.99,389816.01,353454.38,36361.63
+41,2024-08-01,Minatitlán,Sur,Valeria Cruz,Piso de venta,Toyota,Avanza,SUV,378000,18677.48,359322.52,309555.22,49767.3
+42,2024-02-16,Minatitlán,Sur,Pedro García,Digital,BYD,Seal,Eléctrico,780000,38254.71,741745.29,616004.3,125740.99
+43,2025-09-04,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,BYD,Seal,Eléctrico,780000,11344.76,768655.24,632382.43,136272.81
+44,2025-06-14,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Mazda,CX-5,SUV,610000,18962.54,591037.46,516103.69,74933.77
+45,2024-04-20,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Nissan,Versa,Sedán,390000,13188.01,376811.99,343316.75,33495.24
+46,2025-10-07,Veracruz,Centro,Diego Torres,Flotilla,Suzuki,Swift,Hatchback,340000,18911.74,321088.26,281906.68,39181.58
+47,2025-07-29,Xalapa,Centro,Camila Reyes,Referido,BYD,Dolphin,Eléctrico,535000,9785.25,525214.75,436979.78,88234.97
+48,2024-06-25,Acayucan,Sur,Carlos Hernández,Piso de venta,Mazda,CX-5,SUV,610000,29345.97,580654.03,513232.86,67421.17
+49,2024-11-21,Acayucan,Sur,Carlos Hernández,Flotilla,Toyota,Corolla,Sedán,455000,27288.52,427711.48,368442.33,59269.15
+50,2025-05-27,Xalapa,Centro,Luis Mendoza,Piso de venta,Nissan,Versa,Sedán,390000,12709.0,377291.0,345246.66,32044.34
+51,2024-09-19,Coatzacoalcos,Sur,Ana López,Flotilla,Nissan,Versa,Sedán,390000,24372.73,365627.27,324989.75,40637.52
+52,2024-08-12,Acayucan,Sur,Sofía Martínez,Digital,BYD,Seal,Eléctrico,780000,19761.44,760238.56,622091.84,138146.72
+53,2024-01-05,Acayucan,Sur,Sofía Martínez,Flotilla,BYD,Dolphin,Eléctrico,535000,32452.57,502547.43,420930.9,81616.53
+54,2024-09-08,Minatitlán,Sur,Pedro García,Digital,Toyota,Hilux,Pickup,590000,12781.3,577218.7,498136.47,79082.23
+55,2024-04-12,Xalapa,Centro,Luis Mendoza,Digital,Suzuki,Swift,Hatchback,340000,4642.21,335357.79,298015.92,37341.87
+56,2024-11-01,Veracruz,Centro,Diego Torres,Piso de venta,Suzuki,Swift,Hatchback,340000,23229.85,316770.15,279958.72,36811.43
+57,2024-02-28,Veracruz,Centro,Diego Torres,Piso de venta,Suzuki,Swift,Hatchback,340000,19746.62,320253.38,285376.5,34876.88
+58,2024-11-16,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,Toyota,Corolla,Sedán,455000,11476.6,443523.4,399493.51,44029.89
+59,2025-01-12,Xalapa,Centro,Camila Reyes,Piso de venta,Suzuki,Swift,Hatchback,340000,8467.32,331532.68,292252.0,39280.68
+60,2025-04-29,Xalapa,Centro,Luis Mendoza,Flotilla,Toyota,Corolla,Sedán,455000,15406.66,439593.34,389573.2,50020.14
+61,2024-06-23,Coatzacoalcos,Sur,Jorge Ramírez,Referido,BYD,Dolphin,Eléctrico,535000,12127.06,522872.94,449464.37,73408.57
+62,2025-01-16,Xalapa,Centro,Camila Reyes,Flotilla,Mazda,CX-5,SUV,610000,5080.6,604919.4,530677.7,74241.7
+63,2025-03-07,Veracruz,Centro,Mariana Flores,Referido,Toyota,Corolla,Sedán,455000,22584.4,432415.6,384676.05,47739.55
+64,2024-11-06,Xalapa,Centro,Camila Reyes,Digital,BYD,Dolphin,Eléctrico,535000,1508.49,533491.51,458364.15,75127.36
+65,2024-05-27,Veracruz,Centro,Mariana Flores,Referido,Toyota,Avanza,SUV,378000,14739.42,363260.58,320314.39,42946.19
+66,2025-10-28,Veracruz,Centro,Mariana Flores,Digital,Toyota,Avanza,SUV,378000,9961.58,368038.42,320893.15,47145.27
+67,2025-01-26,Veracruz,Centro,Mariana Flores,Flotilla,BYD,Dolphin,Eléctrico,535000,22627.36,512372.64,439734.18,72638.46
+68,2024-01-26,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,BYD,Dolphin,Eléctrico,535000,31679.48,503320.52,430522.6,72797.92
+69,2024-02-12,Xalapa,Centro,Camila Reyes,Digital,BYD,Seal,Eléctrico,780000,7371.42,772628.58,652233.88,120394.7
+70,2024-08-05,Xalapa,Centro,Camila Reyes,Digital,Nissan,Versa,Sedán,390000,26830.23,363169.77,327224.26,35945.51
+71,2025-05-09,Veracruz,Centro,Diego Torres,Flotilla,Nissan,Versa,Sedán,390000,19516.91,370483.09,338527.97,31955.12
+72,2025-10-06,Acayucan,Sur,Carlos Hernández,Referido,Suzuki,Swift,Hatchback,340000,3983.37,336016.63,305617.09,30399.54
+73,2025-01-25,Minatitlán,Sur,Valeria Cruz,Piso de venta,Suzuki,Swift,Hatchback,340000,7590.19,332409.81,291788.2,40621.61
+74,2025-05-05,Xalapa,Centro,Camila Reyes,Piso de venta,Nissan,Versa,Sedán,390000,19411.51,370588.49,331273.43,39315.06
+75,2024-06-19,Minatitlán,Sur,Pedro García,Digital,Toyota,Avanza,SUV,378000,19400.22,358599.78,303155.37,55444.41
+76,2025-06-08,Acayucan,Sur,Sofía Martínez,Piso de venta,Toyota,Avanza,SUV,378000,22284.04,355715.96,309670.97,46044.99
+77,2024-11-17,Coatzacoalcos,Sur,Ana López,Digital,BYD,Dolphin,Eléctrico,535000,10278.11,524721.89,427875.0,96846.89
+78,2024-10-06,Xalapa,Centro,Camila Reyes,Referido,Suzuki,Swift,Hatchback,340000,23251.08,316748.92,284029.51,32719.41
+79,2024-11-10,Acayucan,Sur,Carlos Hernández,Referido,Mazda,CX-5,SUV,610000,21880.04,588119.96,509843.15,78276.81
+80,2024-08-16,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Corolla,Sedán,455000,8603.79,446396.21,386238.92,60157.29
+81,2025-08-04,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Avanza,SUV,378000,6873.89,371126.11,328228.27,42897.84
+82,2024-12-20,Minatitlán,Sur,Valeria Cruz,Flotilla,BYD,Seal,Eléctrico,780000,30419.93,749580.07,616914.01,132666.06
+83,2024-02-17,Minatitlán,Sur,Pedro García,Flotilla,Toyota,Corolla,Sedán,455000,7575.71,447424.29,392733.11,54691.18
+84,2024-07-02,Xalapa,Centro,Luis Mendoza,Piso de venta,Mazda,CX-5,SUV,610000,7433.65,602566.35,512696.62,89869.73
+85,2025-06-17,Minatitlán,Sur,Pedro García,Referido,BYD,Dolphin,Eléctrico,535000,5540.85,529459.15,441512.52,87946.63
+86,2024-11-03,Xalapa,Centro,Luis Mendoza,Flotilla,Toyota,Hilux,Pickup,590000,24907.65,565092.35,488549.95,76542.4
+87,2024-08-28,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Toyota,Hilux,Pickup,590000,35755.45,554244.55,483569.02,70675.53
+88,2024-08-30,Veracruz,Centro,Diego Torres,Referido,Mazda,CX-5,SUV,610000,32638.2,577361.8,498273.95,79087.85
+89,2025-05-04,Minatitlán,Sur,Valeria Cruz,Digital,Nissan,Versa,Sedán,390000,17003.5,372996.5,331554.83,41441.67
+90,2024-07-24,Veracruz,Centro,Mariana Flores,Flotilla,Toyota,Corolla,Sedán,455000,22494.8,432505.2,385384.91,47120.29
+91,2025-09-12,Xalapa,Centro,Luis Mendoza,Referido,BYD,Dolphin,Eléctrico,535000,30439.02,504560.98,436171.97,68389.01
+92,2024-01-20,Coatzacoalcos,Sur,Ana López,Flotilla,BYD,Seal,Eléctrico,780000,16547.74,763452.26,649618.09,113834.17
+93,2025-11-25,Minatitlán,Sur,Valeria Cruz,Flotilla,Nissan,Versa,Sedán,390000,17704.87,372295.13,333079.81,39215.32
+94,2024-11-12,Coatzacoalcos,Sur,Jorge Ramírez,Digital,BYD,Dolphin,Eléctrico,535000,33897.85,501102.15,414208.57,86893.58
+95,2025-10-22,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,Toyota,Hilux,Pickup,590000,20312.38,569687.62,471262.4,98425.22
+96,2025-03-01,Minatitlán,Sur,Valeria Cruz,Piso de venta,Toyota,Hilux,Pickup,590000,13806.18,576193.82,481033.07,95160.75
+97,2024-07-15,Veracruz,Centro,Diego Torres,Digital,BYD,Dolphin,Eléctrico,535000,23758.66,511241.34,424327.03,86914.31
+98,2025-09-29,Acayucan,Sur,Sofía Martínez,Digital,BYD,Dolphin,Eléctrico,535000,7942.56,527057.44,455019.79,72037.65
+99,2024-01-14,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Hilux,Pickup,590000,10523.03,579476.97,487042.97,92434.0
+100,2024-04-18,Minatitlán,Sur,Valeria Cruz,Piso de venta,Toyota,Avanza,SUV,378000,17497.03,360502.97,309832.02,50670.95
+101,2025-11-09,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Corolla,Sedán,455000,1194.79,453805.21,389547.79,64257.42
+102,2024-10-07,Minatitlán,Sur,Pedro García,Flotilla,BYD,Dolphin,Eléctrico,535000,27397.84,507602.16,425553.61,82048.55
+103,2024-08-29,Xalapa,Centro,Camila Reyes,Flotilla,Suzuki,Swift,Hatchback,340000,2698.52,337301.48,294440.28,42861.2
+104,2024-05-25,Acayucan,Sur,Carlos Hernández,Referido,BYD,Dolphin,Eléctrico,535000,8269.73,526730.27,438273.85,88456.42
+105,2024-02-17,Acayucan,Sur,Carlos Hernández,Digital,Nissan,Versa,Sedán,390000,20405.52,369594.48,335891.11,33703.37
+106,2025-03-03,Xalapa,Centro,Luis Mendoza,Digital,BYD,Dolphin,Eléctrico,535000,29736.21,505263.79,431799.75,73464.04
+107,2025-01-14,Acayucan,Sur,Sofía Martínez,Flotilla,Nissan,Versa,Sedán,390000,3414.28,386585.72,346581.15,40004.57
+108,2025-09-02,Coatzacoalcos,Sur,Ana López,Piso de venta,Mazda,CX-5,SUV,610000,7993.63,602006.37,522540.61,79465.76
+109,2025-12-11,Minatitlán,Sur,Valeria Cruz,Flotilla,Toyota,Corolla,Sedán,455000,10546.25,444453.75,396377.37,48076.38
+110,2024-04-28,Veracruz,Centro,Diego Torres,Piso de venta,Suzuki,Swift,Hatchback,340000,19313.33,320686.67,282139.71,38546.96
+111,2024-01-07,Acayucan,Sur,Carlos Hernández,Piso de venta,Toyota,Corolla,Sedán,455000,20373.31,434626.69,389625.07,45001.62
+112,2025-05-29,Veracruz,Centro,Mariana Flores,Flotilla,Toyota,Hilux,Pickup,590000,40331.6,549668.4,454356.82,95311.58
+113,2025-01-16,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Suzuki,Swift,Hatchback,340000,11871.33,328128.67,283841.71,44286.96
+114,2024-01-30,Acayucan,Sur,Carlos Hernández,Piso de venta,Suzuki,Swift,Hatchback,340000,2813.29,337186.71,299832.13,37354.58
+115,2025-01-02,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Avanza,SUV,378000,22985.93,355014.07,314163.68,40850.39
+116,2025-11-25,Minatitlán,Sur,Pedro García,Referido,Nissan,Versa,Sedán,390000,21857.61,368142.39,322515.32,45627.07
+117,2025-11-04,Minatitlán,Sur,Valeria Cruz,Digital,BYD,Seal,Eléctrico,780000,20281.48,759718.52,624727.63,134990.89
+118,2025-09-05,Acayucan,Sur,Sofía Martínez,Flotilla,Nissan,Versa,Sedán,390000,26523.0,363477.0,321411.17,42065.83
+119,2024-02-06,Veracruz,Centro,Diego Torres,Piso de venta,BYD,Seal,Eléctrico,780000,27866.02,752133.98,642795.59,109338.39
+120,2024-01-10,Veracruz,Centro,Mariana Flores,Referido,Toyota,Avanza,SUV,378000,4913.95,373086.05,317082.4,56003.65
+121,2024-12-26,Minatitlán,Sur,Valeria Cruz,Piso de venta,Suzuki,Swift,Hatchback,340000,22851.8,317148.2,288548.78,28599.42
+122,2025-08-31,Acayucan,Sur,Sofía Martínez,Digital,BYD,Dolphin,Eléctrico,535000,19161.41,515838.59,427123.68,88714.91
+123,2025-05-18,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Avanza,SUV,378000,2108.33,375891.67,326771.44,49120.23
+124,2025-12-21,Xalapa,Centro,Camila Reyes,Referido,BYD,Seal,Eléctrico,780000,52146.11,727853.89,597008.98,130844.91
+125,2024-08-30,Acayucan,Sur,Sofía Martínez,Referido,Mazda,CX-5,SUV,610000,27368.4,582631.6,494085.43,88546.17
+126,2025-10-25,Acayucan,Sur,Sofía Martínez,Piso de venta,BYD,Dolphin,Eléctrico,535000,27263.21,507736.79,417780.13,89956.66
+127,2024-10-13,Acayucan,Sur,Carlos Hernández,Digital,Toyota,Avanza,SUV,378000,14354.29,363645.71,317245.23,46400.48
+128,2024-02-10,Coatzacoalcos,Sur,Ana López,Piso de venta,BYD,Seal,Eléctrico,780000,42830.22,737169.78,618424.63,118745.15
+129,2024-06-07,Minatitlán,Sur,Valeria Cruz,Piso de venta,Toyota,Avanza,SUV,378000,3069.71,374930.29,326472.39,48457.9
+130,2024-06-09,Veracruz,Centro,Diego Torres,Referido,Nissan,Versa,Sedán,390000,27262.3,362737.7,325617.16,37120.54
+131,2024-10-12,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Hilux,Pickup,590000,32840.17,557159.83,474889.57,82270.26
+132,2025-08-16,Acayucan,Sur,Sofía Martínez,Referido,BYD,Seal,Eléctrico,780000,53244.45,726755.55,588990.77,137764.78
+133,2025-09-29,Acayucan,Sur,Sofía Martínez,Flotilla,Toyota,Avanza,SUV,378000,11357.56,366642.44,318763.13,47879.31
+134,2024-08-12,Veracruz,Centro,Mariana Flores,Flotilla,Toyota,Corolla,Sedán,455000,19288.05,435711.95,374633.89,61078.06
+135,2025-12-16,Acayucan,Sur,Sofía Martínez,Piso de venta,BYD,Seal,Eléctrico,780000,33438.72,746561.28,606306.21,140255.07
+136,2024-08-22,Veracruz,Centro,Diego Torres,Piso de venta,BYD,Seal,Eléctrico,780000,45726.34,734273.66,599954.26,134319.4
+137,2024-05-02,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Mazda,CX-5,SUV,610000,35477.77,574522.23,501058.01,73464.22
+138,2025-03-11,Minatitlán,Sur,Valeria Cruz,Piso de venta,Suzuki,Swift,Hatchback,340000,19010.53,320989.47,278283.53,42705.94
+139,2024-08-19,Coatzacoalcos,Sur,Ana López,Referido,Nissan,Versa,Sedán,390000,4208.22,385791.78,347837.4,37954.38
+140,2024-09-15,Acayucan,Sur,Sofía Martínez,Digital,Toyota,Hilux,Pickup,590000,26879.19,563120.81,466722.32,96398.49
+141,2024-04-12,Minatitlán,Sur,Valeria Cruz,Piso de venta,BYD,Seal,Eléctrico,780000,25802.14,754197.86,636138.92,118058.94
+142,2024-08-09,Veracruz,Centro,Diego Torres,Flotilla,Mazda,CX-5,SUV,610000,37750.7,572249.3,501750.19,70499.11
+143,2024-03-31,Acayucan,Sur,Carlos Hernández,Piso de venta,Mazda,CX-5,SUV,610000,38532.46,571467.54,504490.38,66977.16
+144,2025-06-07,Minatitlán,Sur,Pedro García,Referido,Nissan,Versa,Sedán,390000,17336.78,372663.22,337162.48,35500.74
+145,2025-06-28,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Corolla,Sedán,455000,26238.5,428761.5,387615.52,41145.98
+146,2024-02-08,Xalapa,Centro,Camila Reyes,Flotilla,Mazda,CX-5,SUV,610000,32076.55,577923.45,485625.63,92297.82
+147,2025-06-17,Coatzacoalcos,Sur,Ana López,Flotilla,Nissan,Versa,Sedán,390000,17523.07,372476.93,328111.66,44365.27
+148,2024-08-27,Coatzacoalcos,Sur,Ana López,Piso de venta,BYD,Seal,Eléctrico,780000,42644.51,737355.49,596454.56,140900.93
+149,2024-12-14,Veracruz,Centro,Diego Torres,Referido,Nissan,Versa,Sedán,390000,11087.23,378912.77,338257.31,40655.46
+150,2024-07-03,Minatitlán,Sur,Pedro García,Referido,Toyota,Hilux,Pickup,590000,15136.76,574863.24,480632.41,94230.83
+151,2024-10-22,Veracruz,Centro,Diego Torres,Referido,Suzuki,Swift,Hatchback,340000,3699.36,336300.64,306258.86,30041.78
+152,2024-07-23,Minatitlán,Sur,Pedro García,Referido,BYD,Dolphin,Eléctrico,535000,17918.27,517081.73,429969.59,87112.14
+153,2024-01-08,Xalapa,Centro,Luis Mendoza,Digital,BYD,Dolphin,Eléctrico,535000,8822.41,526177.59,448416.48,77761.11
+154,2025-09-27,Xalapa,Centro,Luis Mendoza,Referido,Toyota,Hilux,Pickup,590000,18476.75,571523.25,475876.25,95647.0
+155,2025-11-01,Minatitlán,Sur,Valeria Cruz,Referido,Toyota,Avanza,SUV,378000,3551.7,374448.3,325705.13,48743.17
+156,2025-04-03,Veracruz,Centro,Mariana Flores,Piso de venta,Toyota,Hilux,Pickup,590000,39180.44,550819.56,469697.02,81122.54
+157,2024-10-24,Minatitlán,Sur,Pedro García,Digital,Mazda,CX-5,SUV,610000,1477.08,608522.92,515318.96,93203.96
+158,2024-09-06,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Hilux,Pickup,590000,3900.58,586099.42,484042.35,102057.07
+159,2025-09-27,Veracruz,Centro,Mariana Flores,Digital,Nissan,Versa,Sedán,390000,26316.23,363683.77,320386.26,43297.51
+160,2024-09-16,Coatzacoalcos,Sur,Ana López,Digital,Mazda,CX-5,SUV,610000,31286.84,578713.16,505728.1,72985.06
+161,2024-11-24,Acayucan,Sur,Sofía Martínez,Piso de venta,BYD,Seal,Eléctrico,780000,3251.06,776748.94,653262.07,123486.87
+162,2024-11-29,Xalapa,Centro,Camila Reyes,Referido,BYD,Dolphin,Eléctrico,535000,24032.87,510967.13,424592.06,86375.07
+163,2024-01-16,Veracruz,Centro,Mariana Flores,Referido,Toyota,Avanza,SUV,378000,24741.54,353258.46,306521.21,46737.25
+164,2024-11-05,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Toyota,Corolla,Sedán,455000,21285.1,433714.9,373723.6,59991.3
+165,2024-05-06,Veracruz,Centro,Diego Torres,Flotilla,Toyota,Avanza,SUV,378000,14979.83,363020.17,310737.42,52282.75
+166,2024-05-04,Veracruz,Centro,Diego Torres,Digital,Toyota,Hilux,Pickup,590000,29853.97,560146.03,481275.58,78870.45
+167,2025-03-05,Veracruz,Centro,Mariana Flores,Referido,Toyota,Hilux,Pickup,590000,26220.24,563779.76,472054.83,91724.93
+168,2025-06-10,Coatzacoalcos,Sur,Jorge Ramírez,Referido,BYD,Seal,Eléctrico,780000,3800.76,776199.24,659148.95,117050.29
+169,2025-08-10,Xalapa,Centro,Luis Mendoza,Flotilla,BYD,Dolphin,Eléctrico,535000,36500.24,498499.76,416805.64,81694.12
+170,2025-12-17,Coatzacoalcos,Sur,Ana López,Piso de venta,Suzuki,Swift,Hatchback,340000,543.62,339456.38,308649.82,30806.56
+171,2024-06-04,Acayucan,Sur,Carlos Hernández,Referido,BYD,Dolphin,Eléctrico,535000,4395.06,530604.94,436858.2,93746.74
+172,2025-09-03,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Hilux,Pickup,590000,39443.25,550556.75,458324.98,92231.77
+173,2024-04-11,Xalapa,Centro,Camila Reyes,Digital,Nissan,Versa,Sedán,390000,10280.38,379719.62,334691.93,45027.69
+174,2024-08-16,Veracruz,Centro,Mariana Flores,Digital,Nissan,Versa,Sedán,390000,18616.2,371383.8,330607.94,40775.86
+175,2024-12-26,Minatitlán,Sur,Valeria Cruz,Referido,Suzuki,Swift,Hatchback,340000,5440.06,334559.94,304433.56,30126.38
+176,2025-05-08,Acayucan,Sur,Sofía Martínez,Piso de venta,Toyota,Avanza,SUV,378000,1012.28,376987.72,326998.96,49988.76
+177,2025-06-08,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Hilux,Pickup,590000,19069.53,570930.47,474780.91,96149.56
+178,2024-07-19,Minatitlán,Sur,Pedro García,Referido,BYD,Seal,Eléctrico,780000,7426.12,772573.88,627495.46,145078.42
+179,2024-02-28,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Suzuki,Swift,Hatchback,340000,5490.24,334509.76,298121.88,36387.88
+180,2024-04-24,Minatitlán,Sur,Pedro García,Referido,BYD,Dolphin,Eléctrico,535000,28891.65,506108.35,424815.77,81292.58
+181,2024-08-06,Acayucan,Sur,Carlos Hernández,Flotilla,Toyota,Avanza,SUV,378000,5517.54,372482.46,324055.55,48426.91
+182,2025-10-20,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Corolla,Sedán,455000,27973.05,427026.95,368896.3,58130.65
+183,2025-01-04,Acayucan,Sur,Carlos Hernández,Piso de venta,Nissan,Versa,Sedán,390000,16721.75,373278.25,334695.72,38582.53
+184,2025-05-01,Xalapa,Centro,Camila Reyes,Digital,Toyota,Corolla,Sedán,455000,26718.76,428281.24,366392.09,61889.15
+185,2025-09-24,Minatitlán,Sur,Pedro García,Piso de venta,Suzuki,Swift,Hatchback,340000,9459.14,330540.86,289456.69,41084.17
+186,2025-06-25,Veracruz,Centro,Diego Torres,Piso de venta,Mazda,CX-5,SUV,610000,1813.11,608186.89,528469.47,79717.42
+187,2024-06-16,Xalapa,Centro,Luis Mendoza,Digital,BYD,Dolphin,Eléctrico,535000,29805.0,505195.0,435383.06,69811.94
+188,2024-05-16,Coatzacoalcos,Sur,Ana López,Flotilla,Toyota,Avanza,SUV,378000,18267.6,359732.4,308342.17,51390.23
+189,2024-07-30,Veracruz,Centro,Mariana Flores,Digital,Toyota,Hilux,Pickup,590000,18759.65,571240.35,492015.47,79224.88
+190,2025-08-28,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Mazda,CX-5,SUV,610000,813.29,609186.71,515669.34,93517.37
+191,2025-10-24,Veracruz,Centro,Mariana Flores,Piso de venta,Toyota,Avanza,SUV,378000,12648.68,365351.32,312060.25,53291.07
+192,2025-03-20,Minatitlán,Sur,Valeria Cruz,Referido,Toyota,Corolla,Sedán,455000,27568.58,427431.42,371260.93,56170.49
+193,2025-11-07,Coatzacoalcos,Sur,Jorge Ramírez,Referido,BYD,Seal,Eléctrico,780000,7061.06,772938.94,630940.01,141998.93
+194,2024-06-24,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Toyota,Hilux,Pickup,590000,13548.2,576451.8,485168.7,91283.1
+195,2025-08-17,Xalapa,Centro,Camila Reyes,Flotilla,Toyota,Corolla,Sedán,455000,17022.5,437977.5,376482.5,61495.0
+196,2024-03-05,Veracruz,Centro,Diego Torres,Digital,BYD,Seal,Eléctrico,780000,51961.79,728038.21,605593.07,122445.14
+197,2024-06-19,Coatzacoalcos,Sur,Ana López,Digital,Toyota,Avanza,SUV,378000,20171.87,357828.13,310151.22,47676.91
+198,2025-08-08,Veracruz,Centro,Mariana Flores,Flotilla,Mazda,CX-5,SUV,610000,18874.75,591125.25,498095.45,93029.8
+199,2024-12-23,Acayucan,Sur,Sofía Martínez,Digital,Suzuki,Swift,Hatchback,340000,2500.22,337499.78,299020.79,38478.99
+200,2025-05-14,Veracruz,Centro,Mariana Flores,Flotilla,Mazda,CX-5,SUV,610000,35972.93,574027.07,481404.08,92622.99
+201,2024-05-17,Coatzacoalcos,Sur,Ana López,Flotilla,Nissan,Versa,Sedán,390000,14967.46,375032.54,336492.95,38539.59
+202,2025-05-28,Veracruz,Centro,Mariana Flores,Referido,BYD,Dolphin,Eléctrico,535000,30237.31,504762.69,431416.95,73345.74
+203,2025-04-11,Coatzacoalcos,Sur,Ana López,Referido,Suzuki,Swift,Hatchback,340000,10636.97,329363.03,292818.35,36544.68
+204,2025-07-25,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Toyota,Avanza,SUV,378000,17444.86,360555.14,318014.12,42541.02
+205,2025-03-30,Veracruz,Centro,Mariana Flores,Flotilla,BYD,Seal,Eléctrico,780000,40977.57,739022.43,614046.0,124976.43
+206,2024-05-31,Xalapa,Centro,Luis Mendoza,Referido,BYD,Seal,Eléctrico,780000,10406.33,769593.67,645853.65,123740.02
+207,2025-03-25,Xalapa,Centro,Camila Reyes,Flotilla,BYD,Dolphin,Eléctrico,535000,16585.71,518414.29,423031.69,95382.6
+208,2024-07-16,Minatitlán,Sur,Pedro García,Referido,Mazda,CX-5,SUV,610000,21416.7,588583.3,519045.24,69538.06
+209,2024-11-14,Xalapa,Centro,Luis Mendoza,Flotilla,Suzuki,Swift,Hatchback,340000,16123.1,323876.9,292487.21,31389.69
+210,2024-10-12,Veracruz,Centro,Diego Torres,Flotilla,Suzuki,Swift,Hatchback,340000,2194.37,337805.63,307448.57,30357.06
+211,2025-04-10,Veracruz,Centro,Diego Torres,Flotilla,BYD,Seal,Eléctrico,780000,23264.69,756735.31,645027.33,111707.98
+212,2025-02-16,Veracruz,Centro,Mariana Flores,Digital,Nissan,Versa,Sedán,390000,6407.73,383592.27,354388.4,29203.87
+213,2025-01-04,Acayucan,Sur,Sofía Martínez,Digital,BYD,Dolphin,Eléctrico,535000,31713.79,503286.21,419419.65,83866.56
+214,2025-07-16,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Suzuki,Swift,Hatchback,340000,16298.41,323701.59,291696.22,32005.37
+215,2024-06-13,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Suzuki,Swift,Hatchback,340000,552.59,339447.41,310348.09,29099.32
+216,2025-05-15,Xalapa,Centro,Luis Mendoza,Flotilla,BYD,Seal,Eléctrico,780000,10949.01,769050.99,622485.49,146565.5
+217,2024-10-21,Veracruz,Centro,Diego Torres,Referido,Nissan,Versa,Sedán,390000,7356.83,382643.17,344787.49,37855.68
+218,2024-04-21,Coatzacoalcos,Sur,Ana López,Referido,Toyota,Corolla,Sedán,455000,19670.52,435329.48,384199.86,51129.62
+219,2024-01-19,Acayucan,Sur,Carlos Hernández,Referido,Mazda,CX-5,SUV,610000,2427.64,607572.36,513220.21,94352.15
+220,2025-04-25,Xalapa,Centro,Camila Reyes,Digital,Suzuki,Swift,Hatchback,340000,8107.6,331892.4,301202.66,30689.74
+221,2024-12-14,Acayucan,Sur,Carlos Hernández,Referido,Mazda,CX-5,SUV,610000,22985.82,587014.18,499453.78,87560.4
+222,2024-12-31,Acayucan,Sur,Sofía Martínez,Digital,Nissan,Versa,Sedán,390000,15449.9,374550.1,327871.28,46678.82
+223,2024-03-05,Xalapa,Centro,Camila Reyes,Flotilla,Suzuki,Swift,Hatchback,340000,18563.55,321436.45,282365.57,39070.88
+224,2025-09-26,Veracruz,Centro,Mariana Flores,Digital,BYD,Dolphin,Eléctrico,535000,6257.55,528742.45,441880.05,86862.4
+225,2025-03-03,Veracruz,Centro,Mariana Flores,Flotilla,Toyota,Avanza,SUV,378000,13733.95,364266.05,319419.45,44846.6
+226,2024-11-01,Acayucan,Sur,Sofía Martínez,Piso de venta,BYD,Dolphin,Eléctrico,535000,27247.58,507752.42,437140.29,70612.13
+227,2025-12-15,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,BYD,Dolphin,Eléctrico,535000,8725.91,526274.09,436450.76,89823.33
+228,2025-10-23,Veracruz,Centro,Diego Torres,Digital,Toyota,Hilux,Pickup,590000,39212.32,550787.68,475343.63,75444.05
+229,2024-02-12,Coatzacoalcos,Sur,Ana López,Referido,BYD,Dolphin,Eléctrico,535000,5305.74,529694.26,438819.12,90875.14
+230,2025-09-04,Acayucan,Sur,Carlos Hernández,Referido,Nissan,Versa,Sedán,390000,14050.62,375949.38,343443.88,32505.5
+231,2025-01-25,Acayucan,Sur,Carlos Hernández,Referido,BYD,Dolphin,Eléctrico,535000,32722.55,502277.45,430785.31,71492.14
+232,2024-08-19,Xalapa,Centro,Luis Mendoza,Flotilla,Mazda,CX-5,SUV,610000,17134.81,592865.19,519751.11,73114.08
+233,2025-12-15,Minatitlán,Sur,Valeria Cruz,Referido,Toyota,Hilux,Pickup,590000,23421.51,566578.49,475263.43,91315.06
+234,2025-02-13,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Avanza,SUV,378000,2782.52,375217.48,322815.94,52401.54
+235,2025-08-27,Acayucan,Sur,Carlos Hernández,Digital,Toyota,Avanza,SUV,378000,4367.97,373632.03,324580.63,49051.4
+236,2024-01-23,Acayucan,Sur,Carlos Hernández,Digital,Suzuki,Swift,Hatchback,340000,1070.41,338929.59,304587.78,34341.81
+237,2025-05-01,Xalapa,Centro,Luis Mendoza,Piso de venta,BYD,Dolphin,Eléctrico,535000,12716.28,522283.72,437174.75,85108.97
+238,2024-01-27,Veracruz,Centro,Diego Torres,Referido,BYD,Seal,Eléctrico,780000,10030.24,769969.76,623306.22,146663.54
+239,2024-02-10,Xalapa,Centro,Luis Mendoza,Referido,Mazda,CX-5,SUV,610000,40356.15,569643.85,492918.96,76724.89
+240,2025-03-11,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Toyota,Avanza,SUV,378000,26257.91,351742.09,300111.38,51630.71
+241,2024-11-22,Xalapa,Centro,Camila Reyes,Referido,Toyota,Corolla,Sedán,455000,2123.03,452876.97,401229.02,51647.95
+242,2024-08-07,Acayucan,Sur,Carlos Hernández,Digital,Suzuki,Swift,Hatchback,340000,17301.39,322698.61,279363.93,43334.68
+243,2024-12-24,Minatitlán,Sur,Pedro García,Digital,Nissan,Versa,Sedán,390000,13824.74,376175.26,341026.18,35149.08
+244,2025-01-20,Acayucan,Sur,Sofía Martínez,Flotilla,Toyota,Avanza,SUV,378000,2110.32,375889.68,335329.29,40560.39
+245,2025-06-14,Minatitlán,Sur,Valeria Cruz,Piso de venta,Suzuki,Swift,Hatchback,340000,11863.94,328136.06,288472.91,39663.15
+246,2024-03-10,Xalapa,Centro,Camila Reyes,Flotilla,BYD,Dolphin,Eléctrico,535000,32380.82,502619.18,411673.13,90946.05
+247,2024-06-06,Veracruz,Centro,Mariana Flores,Referido,Toyota,Corolla,Sedán,455000,7181.65,447818.35,388739.66,59078.69
+248,2025-10-12,Minatitlán,Sur,Pedro García,Referido,Mazda,CX-5,SUV,610000,35204.35,574795.65,480503.94,94291.71
+249,2025-06-04,Minatitlán,Sur,Pedro García,Piso de venta,Mazda,CX-5,SUV,610000,18351.25,591648.75,513019.51,78629.24
+250,2025-11-15,Minatitlán,Sur,Pedro García,Flotilla,Toyota,Avanza,SUV,378000,21680.03,356319.97,309835.29,46484.68
+251,2025-04-24,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Hilux,Pickup,590000,4611.49,585388.51,492894.28,92494.23
+252,2024-07-19,Acayucan,Sur,Sofía Martínez,Digital,Toyota,Hilux,Pickup,590000,1376.83,588623.17,500374.54,88248.63
+253,2025-07-04,Acayucan,Sur,Carlos Hernández,Referido,BYD,Dolphin,Eléctrico,535000,15186.21,519813.79,430188.0,89625.79
+254,2024-05-26,Minatitlán,Sur,Pedro García,Referido,Toyota,Corolla,Sedán,455000,20200.34,434799.66,376001.35,58798.31
+255,2024-01-14,Veracruz,Centro,Mariana Flores,Digital,BYD,Dolphin,Eléctrico,535000,14445.79,520554.21,431406.85,89147.36
+256,2024-07-26,Veracruz,Centro,Mariana Flores,Flotilla,BYD,Seal,Eléctrico,780000,34451.11,745548.89,622421.03,123127.86
+257,2024-08-25,Minatitlán,Sur,Valeria Cruz,Flotilla,Toyota,Avanza,SUV,378000,8825.21,369174.79,319291.67,49883.12
+258,2024-03-03,Minatitlán,Sur,Pedro García,Piso de venta,Mazda,CX-5,SUV,610000,30398.05,579601.95,502949.3,76652.65
+259,2024-06-06,Veracruz,Centro,Diego Torres,Referido,Suzuki,Swift,Hatchback,340000,6817.38,333182.62,290452.48,42730.14
+260,2024-08-21,Minatitlán,Sur,Valeria Cruz,Referido,BYD,Dolphin,Eléctrico,535000,8117.3,526882.7,448514.87,78367.83
+261,2024-12-13,Acayucan,Sur,Sofía Martínez,Flotilla,Toyota,Corolla,Sedán,455000,18773.33,436226.67,387707.79,48518.88
+262,2024-08-08,Coatzacoalcos,Sur,Ana López,Digital,Toyota,Corolla,Sedán,455000,26607.68,428392.32,373966.22,54426.1
+263,2025-08-26,Minatitlán,Sur,Valeria Cruz,Piso de venta,Toyota,Hilux,Pickup,590000,23564.62,566435.38,490122.62,76312.76
+264,2024-05-21,Xalapa,Centro,Luis Mendoza,Piso de venta,Mazda,CX-5,SUV,610000,23750.31,586249.69,497881.95,88367.74
+265,2024-01-27,Acayucan,Sur,Sofía Martínez,Flotilla,Mazda,CX-5,SUV,610000,14030.72,595969.28,504779.79,91189.49
+266,2024-11-15,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,BYD,Dolphin,Eléctrico,535000,21042.59,513957.41,434293.21,79664.2
+267,2025-11-16,Acayucan,Sur,Sofía Martínez,Flotilla,Mazda,CX-5,SUV,610000,30061.84,579938.16,498881.57,81056.59
+268,2025-03-27,Minatitlán,Sur,Pedro García,Referido,BYD,Dolphin,Eléctrico,535000,37411.13,497588.87,421424.87,76164.0
+269,2024-11-18,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Suzuki,Swift,Hatchback,340000,15344.43,324655.57,286730.91,37924.66
+270,2024-09-13,Acayucan,Sur,Carlos Hernández,Digital,Suzuki,Swift,Hatchback,340000,14573.76,325426.24,296216.01,29210.23
+271,2025-05-19,Acayucan,Sur,Carlos Hernández,Referido,Suzuki,Swift,Hatchback,340000,14112.8,325887.2,288162.15,37725.05
+272,2024-10-31,Coatzacoalcos,Sur,Ana López,Piso de venta,Nissan,Versa,Sedán,390000,17966.0,372034.0,332891.14,39142.86
+273,2025-02-08,Xalapa,Centro,Camila Reyes,Piso de venta,Toyota,Avanza,SUV,378000,11605.8,366394.2,313756.71,52637.49
+274,2025-08-26,Minatitlán,Sur,Pedro García,Flotilla,BYD,Seal,Eléctrico,780000,18779.62,761220.38,629586.0,131634.38
+275,2025-07-15,Coatzacoalcos,Sur,Ana López,Piso de venta,Nissan,Versa,Sedán,390000,24701.32,365298.68,335733.13,29565.55
+276,2024-06-29,Veracruz,Centro,Diego Torres,Piso de venta,Mazda,CX-5,SUV,610000,28409.99,581590.01,492195.98,89394.03
+277,2025-08-21,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,Nissan,Versa,Sedán,390000,9413.73,380586.27,340776.85,39809.42
+278,2024-08-17,Veracruz,Centro,Mariana Flores,Piso de venta,Nissan,Versa,Sedán,390000,26942.79,363057.21,329069.65,33987.56
+279,2024-03-31,Xalapa,Centro,Luis Mendoza,Referido,Toyota,Corolla,Sedán,455000,26746.75,428253.25,369852.75,58400.5
+280,2024-11-09,Xalapa,Centro,Camila Reyes,Piso de venta,Suzuki,Swift,Hatchback,340000,3939.29,336060.71,296823.64,39237.07
+281,2024-04-10,Acayucan,Sur,Sofía Martínez,Flotilla,Nissan,Versa,Sedán,390000,19986.22,370013.78,328716.8,41296.98
+282,2025-08-02,Coatzacoalcos,Sur,Ana López,Digital,Toyota,Hilux,Pickup,590000,35495.58,554504.42,466937.87,87566.55
+283,2025-04-08,Acayucan,Sur,Sofía Martínez,Piso de venta,Toyota,Avanza,SUV,378000,2456.26,375543.74,332525.91,43017.83
+284,2025-01-22,Acayucan,Sur,Sofía Martínez,Flotilla,Toyota,Hilux,Pickup,590000,29665.23,560334.77,465275.49,95059.28
+285,2024-02-02,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Corolla,Sedán,455000,8607.53,446392.47,392989.25,53403.22
+286,2024-06-13,Veracruz,Centro,Diego Torres,Piso de venta,Nissan,Versa,Sedán,390000,630.13,389369.87,352970.73,36399.14
+287,2025-08-14,Acayucan,Sur,Sofía Martínez,Flotilla,Suzuki,Swift,Hatchback,340000,19768.07,320231.93,278783.71,41448.22
+288,2024-07-30,Acayucan,Sur,Sofía Martínez,Flotilla,BYD,Seal,Eléctrico,780000,49446.33,730553.67,620627.62,109926.05
+289,2025-05-20,Xalapa,Centro,Luis Mendoza,Digital,Nissan,Versa,Sedán,390000,17140.77,372859.23,328248.81,44610.42
+290,2025-09-12,Xalapa,Centro,Luis Mendoza,Flotilla,Toyota,Hilux,Pickup,590000,17787.89,572212.11,477350.77,94861.34
+291,2025-10-23,Minatitlán,Sur,Valeria Cruz,Piso de venta,Mazda,CX-5,SUV,610000,31632.46,578367.54,499574.63,78792.91
+292,2025-06-08,Acayucan,Sur,Sofía Martínez,Piso de venta,Toyota,Corolla,Sedán,455000,3168.48,451831.52,396234.1,55597.42
+293,2024-04-27,Minatitlán,Sur,Pedro García,Digital,Suzuki,Swift,Hatchback,340000,7629.18,332370.82,289522.02,42848.8
+294,2024-02-03,Acayucan,Sur,Sofía Martínez,Flotilla,Nissan,Versa,Sedán,390000,6782.15,383217.85,344300.89,38916.96
+295,2025-04-28,Xalapa,Centro,Luis Mendoza,Piso de venta,BYD,Seal,Eléctrico,780000,7334.59,772665.41,641742.82,130922.59
+296,2025-03-13,Veracruz,Centro,Mariana Flores,Referido,Toyota,Avanza,SUV,378000,12599.92,365400.08,325397.74,40002.34
+297,2024-01-06,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Avanza,SUV,378000,8797.11,369202.89,321449.6,47753.29
+298,2024-03-27,Minatitlán,Sur,Pedro García,Flotilla,Suzuki,Swift,Hatchback,340000,7509.45,332490.55,290425.28,42065.27
+299,2024-09-03,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Mazda,CX-5,SUV,610000,14270.39,595729.61,512798.24,82931.37
+300,2024-04-14,Minatitlán,Sur,Valeria Cruz,Digital,BYD,Seal,Eléctrico,780000,3078.41,776921.59,639407.39,137514.2
+301,2025-02-27,Xalapa,Centro,Camila Reyes,Referido,Toyota,Hilux,Pickup,590000,26464.32,563535.68,474939.99,88595.69
+302,2024-06-29,Minatitlán,Sur,Valeria Cruz,Flotilla,Suzuki,Swift,Hatchback,340000,12836.72,327163.28,299043.91,28119.37
+303,2025-02-03,Veracruz,Centro,Diego Torres,Piso de venta,BYD,Seal,Eléctrico,780000,25151.22,754848.78,640627.63,114221.15
+304,2024-11-07,Xalapa,Centro,Luis Mendoza,Piso de venta,Nissan,Versa,Sedán,390000,26563.59,363436.41,335526.57,27909.84
+305,2024-06-18,Minatitlán,Sur,Pedro García,Referido,Toyota,Avanza,SUV,378000,13430.67,364569.33,319946.07,44623.26
+306,2024-07-01,Veracruz,Centro,Mariana Flores,Digital,Toyota,Avanza,SUV,378000,1155.65,376844.35,334292.98,42551.37
+307,2025-08-29,Minatitlán,Sur,Pedro García,Referido,BYD,Seal,Eléctrico,780000,1347.07,778652.93,643064.33,135588.6
+308,2024-09-24,Xalapa,Centro,Luis Mendoza,Referido,Mazda,CX-5,SUV,610000,33655.58,576344.42,508006.0,68338.42
+309,2024-04-06,Xalapa,Centro,Camila Reyes,Piso de venta,Suzuki,Swift,Hatchback,340000,23721.92,316278.08,288441.44,27836.64
+310,2024-08-13,Coatzacoalcos,Sur,Ana López,Flotilla,BYD,Dolphin,Eléctrico,535000,12741.56,522258.44,448221.3,74037.14
+311,2024-07-04,Minatitlán,Sur,Pedro García,Piso de venta,Mazda,CX-5,SUV,610000,14825.43,595174.57,512528.94,82645.63
+312,2025-02-20,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Avanza,SUV,378000,20610.49,357389.51,313509.43,43880.08
+313,2024-05-31,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,BYD,Dolphin,Eléctrico,535000,33641.02,501358.98,413127.51,88231.47
+314,2025-05-14,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Hilux,Pickup,590000,8028.81,581971.19,484952.52,97018.67
+315,2024-10-01,Coatzacoalcos,Sur,Ana López,Flotilla,Mazda,CX-5,SUV,610000,28722.05,581277.95,500010.65,81267.3
+316,2025-01-06,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Nissan,Versa,Sedán,390000,19861.37,370138.63,331793.78,38344.85
+317,2024-02-18,Veracruz,Centro,Mariana Flores,Piso de venta,Toyota,Hilux,Pickup,590000,9866.99,580133.01,504413.89,75719.12
+318,2024-01-29,Minatitlán,Sur,Valeria Cruz,Piso de venta,Toyota,Hilux,Pickup,590000,35749.68,554250.32,478441.34,75808.98
+319,2025-10-12,Acayucan,Sur,Sofía Martínez,Flotilla,BYD,Seal,Eléctrico,780000,52744.19,727255.81,591845.99,135409.82
+320,2024-02-21,Veracruz,Centro,Mariana Flores,Digital,BYD,Seal,Eléctrico,780000,24496.49,755503.51,609611.21,145892.3
+321,2025-10-04,Xalapa,Centro,Luis Mendoza,Digital,BYD,Dolphin,Eléctrico,535000,24364.7,510635.3,435828.83,74806.47
+322,2024-04-06,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,Toyota,Hilux,Pickup,590000,4515.19,585484.81,485831.55,99653.26
+323,2025-03-24,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Suzuki,Swift,Hatchback,340000,16131.97,323868.03,281982.48,41885.55
+324,2024-04-21,Acayucan,Sur,Carlos Hernández,Digital,BYD,Seal,Eléctrico,780000,52336.18,727663.82,609449.2,118214.62
+325,2024-07-14,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Hilux,Pickup,590000,4615.41,585384.59,488410.29,96974.3
+326,2024-07-21,Minatitlán,Sur,Valeria Cruz,Piso de venta,BYD,Dolphin,Eléctrico,535000,10828.62,524171.38,442616.28,81555.1
+327,2025-05-27,Acayucan,Sur,Sofía Martínez,Piso de venta,Mazda,CX-5,SUV,610000,37589.85,572410.15,489010.95,83399.2
+328,2024-05-14,Xalapa,Centro,Camila Reyes,Digital,BYD,Seal,Eléctrico,780000,42689.56,737310.44,609585.38,127725.06
+329,2024-09-25,Xalapa,Centro,Camila Reyes,Piso de venta,BYD,Dolphin,Eléctrico,535000,16383.94,518616.06,442560.31,76055.75
+330,2025-03-31,Veracruz,Centro,Mariana Flores,Referido,Nissan,Versa,Sedán,390000,14963.92,375036.08,341219.01,33817.07
+331,2025-08-21,Acayucan,Sur,Carlos Hernández,Referido,Toyota,Hilux,Pickup,590000,29064.38,560935.62,486787.99,74147.63
+332,2024-03-24,Veracruz,Centro,Mariana Flores,Digital,Nissan,Versa,Sedán,390000,6475.02,383524.98,338656.33,44868.65
+333,2024-01-31,Xalapa,Centro,Camila Reyes,Piso de venta,Suzuki,Swift,Hatchback,340000,1850.51,338149.49,298739.2,39410.29
+334,2025-06-27,Acayucan,Sur,Carlos Hernández,Piso de venta,BYD,Dolphin,Eléctrico,535000,22777.41,512222.59,429903.48,82319.11
+335,2024-05-10,Acayucan,Sur,Carlos Hernández,Digital,Mazda,CX-5,SUV,610000,34624.22,575375.78,500691.41,74684.37
+336,2024-12-03,Minatitlán,Sur,Valeria Cruz,Flotilla,Mazda,CX-5,SUV,610000,9868.13,600131.87,527033.42,73098.45
+337,2024-12-31,Acayucan,Sur,Sofía Martínez,Referido,BYD,Seal,Eléctrico,780000,13414.88,766585.12,642846.23,123738.89
+338,2025-09-25,Minatitlán,Sur,Pedro García,Digital,Mazda,CX-5,SUV,610000,17225.47,592774.53,517501.08,75273.45
+339,2025-05-21,Acayucan,Sur,Sofía Martínez,Flotilla,Nissan,Versa,Sedán,390000,13155.11,376844.89,344173.36,32671.53
+340,2024-01-13,Acayucan,Sur,Sofía Martínez,Piso de venta,Suzuki,Swift,Hatchback,340000,5217.95,334782.05,306147.36,28634.69
+341,2025-11-12,Acayucan,Sur,Carlos Hernández,Referido,Suzuki,Swift,Hatchback,340000,4849.84,335150.16,305586.23,29563.93
+342,2024-07-06,Coatzacoalcos,Sur,Ana López,Digital,BYD,Seal,Eléctrico,780000,46144.51,733855.49,603098.25,130757.24
+343,2024-12-23,Xalapa,Centro,Camila Reyes,Flotilla,Nissan,Versa,Sedán,390000,25040.38,364959.62,321492.45,43467.17
+344,2025-03-13,Minatitlán,Sur,Pedro García,Digital,Toyota,Hilux,Pickup,590000,20903.17,569096.83,483351.1,85745.73
+345,2024-11-08,Minatitlán,Sur,Pedro García,Piso de venta,Suzuki,Swift,Hatchback,340000,3597.81,336402.19,302634.45,33767.74
+346,2024-08-31,Veracruz,Centro,Diego Torres,Referido,Mazda,CX-5,SUV,610000,2487.71,607512.29,518944.95,88567.34
+347,2024-02-29,Xalapa,Centro,Camila Reyes,Referido,Toyota,Avanza,SUV,378000,5705.31,372294.69,317650.97,54643.72
+348,2024-01-16,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Toyota,Hilux,Pickup,590000,30167.16,559832.84,477468.88,82363.96
+349,2024-05-27,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Avanza,SUV,378000,17119.59,360880.41,321945.41,38935.0
+350,2024-06-17,Acayucan,Sur,Sofía Martínez,Piso de venta,Toyota,Hilux,Pickup,590000,12323.95,577676.05,480034.82,97641.23
+351,2025-09-19,Acayucan,Sur,Sofía Martínez,Referido,Toyota,Corolla,Sedán,455000,9580.37,445419.63,389003.15,56416.48
+352,2025-04-30,Acayucan,Sur,Sofía Martínez,Piso de venta,Toyota,Corolla,Sedán,455000,16073.35,438926.65,384575.72,54350.93
+353,2024-10-13,Veracruz,Centro,Diego Torres,Referido,Mazda,CX-5,SUV,610000,10588.35,599411.65,502413.14,96998.51
+354,2024-03-31,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,BYD,Seal,Eléctrico,780000,52939.76,727060.24,585308.08,141752.16
+355,2024-09-29,Minatitlán,Sur,Valeria Cruz,Flotilla,Toyota,Avanza,SUV,378000,11397.3,366602.7,315191.53,51411.17
+356,2025-04-17,Veracruz,Centro,Mariana Flores,Piso de venta,Toyota,Corolla,Sedán,455000,3351.93,451648.07,396984.45,54663.62
+357,2024-04-20,Veracruz,Centro,Diego Torres,Flotilla,BYD,Dolphin,Eléctrico,535000,6888.96,528111.04,453582.44,74528.6
+358,2024-02-09,Minatitlán,Sur,Valeria Cruz,Referido,Suzuki,Swift,Hatchback,340000,20738.1,319261.9,279005.53,40256.37
+359,2024-07-01,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Hilux,Pickup,590000,38762.52,551237.48,472106.14,79131.34
+360,2025-07-05,Acayucan,Sur,Carlos Hernández,Flotilla,BYD,Seal,Eléctrico,780000,18066.44,761933.56,646052.44,115881.12
+361,2025-05-21,Acayucan,Sur,Sofía Martínez,Piso de venta,BYD,Dolphin,Eléctrico,535000,36075.28,498924.72,422708.34,76216.38
+362,2025-07-12,Acayucan,Sur,Sofía Martínez,Digital,Toyota,Hilux,Pickup,590000,18999.76,571000.24,487203.29,83796.95
+363,2025-01-05,Coatzacoalcos,Sur,Ana López,Referido,Toyota,Corolla,Sedán,455000,26729.97,428270.03,379066.29,49203.74
+364,2024-04-06,Xalapa,Centro,Luis Mendoza,Digital,Nissan,Versa,Sedán,390000,20615.51,369384.49,327502.38,41882.11
+365,2025-04-15,Xalapa,Centro,Luis Mendoza,Flotilla,BYD,Dolphin,Eléctrico,535000,19741.62,515258.38,423153.0,92105.38
+366,2024-10-06,Minatitlán,Sur,Valeria Cruz,Referido,BYD,Dolphin,Eléctrico,535000,26853.94,508146.06,421544.28,86601.78
+367,2024-01-21,Xalapa,Centro,Camila Reyes,Digital,Nissan,Versa,Sedán,390000,4506.36,385493.64,347540.7,37952.94
+368,2025-01-27,Xalapa,Centro,Camila Reyes,Referido,Nissan,Versa,Sedán,390000,8269.38,381730.62,338342.08,43388.54
+369,2025-05-17,Minatitlán,Sur,Valeria Cruz,Flotilla,BYD,Seal,Eléctrico,780000,27967.05,752032.95,618820.59,133212.36
+370,2024-04-14,Acayucan,Sur,Sofía Martínez,Referido,Toyota,Corolla,Sedán,455000,11850.12,443149.88,386311.53,56838.35
+371,2025-02-01,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Toyota,Avanza,SUV,378000,5365.04,372634.96,326437.93,46197.03
+372,2024-01-10,Veracruz,Centro,Mariana Flores,Piso de venta,BYD,Seal,Eléctrico,780000,53084.88,726915.12,604313.38,122601.74
+373,2024-11-02,Veracruz,Centro,Diego Torres,Flotilla,Mazda,CX-5,SUV,610000,2202.74,607797.26,535142.33,72654.93
+374,2024-01-27,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Hilux,Pickup,590000,11494.94,578505.06,504316.48,74188.58
+375,2025-11-12,Veracruz,Centro,Diego Torres,Referido,Mazda,CX-5,SUV,610000,21008.95,588991.05,513478.5,75512.55
+376,2025-04-16,Minatitlán,Sur,Pedro García,Piso de venta,Mazda,CX-5,SUV,610000,38291.86,571708.14,499278.31,72429.83
+377,2025-03-20,Acayucan,Sur,Sofía Martínez,Flotilla,BYD,Seal,Eléctrico,780000,4500.61,775499.39,651254.32,124245.07
+378,2024-06-27,Xalapa,Centro,Luis Mendoza,Flotilla,BYD,Dolphin,Eléctrico,535000,36166.42,498833.58,418981.51,79852.07
+379,2025-08-19,Coatzacoalcos,Sur,Ana López,Referido,Suzuki,Swift,Hatchback,340000,10744.55,329255.45,292345.33,36910.12
+380,2025-02-16,Xalapa,Centro,Camila Reyes,Piso de venta,Nissan,Versa,Sedán,390000,3226.27,386773.73,349724.13,37049.6
+381,2024-03-24,Coatzacoalcos,Sur,Ana López,Piso de venta,Nissan,Versa,Sedán,390000,5706.03,384293.97,347313.0,36980.97
+382,2024-05-20,Minatitlán,Sur,Valeria Cruz,Piso de venta,Suzuki,Swift,Hatchback,340000,16225.86,323774.14,285451.27,38322.87
+383,2025-08-07,Veracruz,Centro,Diego Torres,Digital,BYD,Seal,Eléctrico,780000,29367.18,750632.82,607738.73,142894.09
+384,2025-07-05,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Mazda,CX-5,SUV,610000,34891.83,575108.17,487321.79,87786.38
+385,2025-10-02,Acayucan,Sur,Sofía Martínez,Flotilla,BYD,Seal,Eléctrico,780000,40879.45,739120.55,625033.11,114087.44
+386,2024-12-04,Xalapa,Centro,Luis Mendoza,Referido,Toyota,Hilux,Pickup,590000,30693.57,559306.43,485514.26,73792.17
+387,2025-11-12,Acayucan,Sur,Carlos Hernández,Digital,Toyota,Hilux,Pickup,590000,31194.14,558805.86,480430.13,78375.73
+388,2025-07-06,Minatitlán,Sur,Valeria Cruz,Piso de venta,Toyota,Corolla,Sedán,455000,11639.98,443360.02,381598.51,61761.51
+389,2024-06-20,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Corolla,Sedán,455000,2345.95,452654.05,396756.47,55897.58
+390,2024-05-07,Minatitlán,Sur,Pedro García,Digital,Mazda,CX-5,SUV,610000,3033.93,606966.07,526991.54,79974.53
+391,2024-04-01,Xalapa,Centro,Luis Mendoza,Referido,Toyota,Hilux,Pickup,590000,35535.69,554464.31,475742.13,78722.18
+392,2025-05-27,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Corolla,Sedán,455000,6567.02,448432.98,401513.3,46919.68
+393,2024-05-07,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Toyota,Avanza,SUV,378000,6452.1,371547.9,322403.58,49144.32
+394,2024-12-27,Minatitlán,Sur,Valeria Cruz,Piso de venta,BYD,Seal,Eléctrico,780000,41636.92,738363.08,607741.09,130621.99
+395,2025-04-22,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Corolla,Sedán,455000,7212.47,447787.53,391177.86,56609.67
+396,2024-03-15,Veracruz,Centro,Diego Torres,Flotilla,Nissan,Versa,Sedán,390000,16055.17,373944.83,340617.17,33327.66
+397,2024-01-23,Xalapa,Centro,Camila Reyes,Flotilla,BYD,Dolphin,Eléctrico,535000,19325.46,515674.54,440783.04,74891.5
+398,2025-02-14,Xalapa,Centro,Luis Mendoza,Digital,BYD,Dolphin,Eléctrico,535000,8537.98,526462.02,429835.93,96626.09
+399,2024-11-15,Acayucan,Sur,Sofía Martínez,Flotilla,Suzuki,Swift,Hatchback,340000,20305.75,319694.25,286238.77,33455.48
+400,2025-09-07,Xalapa,Centro,Camila Reyes,Piso de venta,Toyota,Avanza,SUV,378000,21893.43,356106.57,306258.62,49847.95
+401,2025-09-21,Xalapa,Centro,Camila Reyes,Flotilla,Nissan,Versa,Sedán,390000,7311.71,382688.29,348407.45,34280.84
+402,2024-08-22,Xalapa,Centro,Camila Reyes,Piso de venta,BYD,Dolphin,Eléctrico,535000,14761.48,520238.52,432572.56,87665.96
+403,2024-11-21,Minatitlán,Sur,Valeria Cruz,Piso de venta,Toyota,Hilux,Pickup,590000,14145.44,575854.56,499378.2,76476.36
+404,2025-07-10,Minatitlán,Sur,Pedro García,Digital,BYD,Dolphin,Eléctrico,535000,31797.75,503202.25,431118.96,72083.29
+405,2024-01-25,Xalapa,Centro,Luis Mendoza,Referido,Toyota,Hilux,Pickup,590000,5212.76,584787.24,496688.04,88099.2
+406,2025-06-16,Veracruz,Centro,Diego Torres,Digital,Toyota,Corolla,Sedán,455000,9908.57,445091.43,386929.05,58162.38
+407,2025-08-21,Acayucan,Sur,Sofía Martínez,Piso de venta,Toyota,Avanza,SUV,378000,6294.52,371705.48,317213.31,54492.17
+408,2025-07-19,Acayucan,Sur,Sofía Martínez,Digital,BYD,Dolphin,Eléctrico,535000,25571.78,509428.22,428082.5,81345.72
+409,2025-11-07,Xalapa,Centro,Camila Reyes,Digital,BYD,Seal,Eléctrico,780000,5309.28,774690.72,626781.09,147909.63
+410,2024-04-30,Veracruz,Centro,Diego Torres,Digital,BYD,Seal,Eléctrico,780000,46645.22,733354.78,595711.51,137643.27
+411,2025-04-20,Coatzacoalcos,Sur,Ana López,Piso de venta,Suzuki,Swift,Hatchback,340000,11654.44,328345.56,298457.47,29888.09
+412,2024-10-23,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Corolla,Sedán,455000,4411.35,450588.65,390966.76,59621.89
+413,2025-12-09,Acayucan,Sur,Carlos Hernández,Flotilla,Toyota,Avanza,SUV,378000,24070.61,353929.39,301583.89,52345.5
+414,2024-02-13,Coatzacoalcos,Sur,Jorge Ramírez,Referido,BYD,Seal,Eléctrico,780000,36316.22,743683.78,607725.86,135957.92
+415,2025-01-03,Coatzacoalcos,Sur,Ana López,Piso de venta,BYD,Dolphin,Eléctrico,535000,19162.37,515837.63,430095.37,85742.26
+416,2025-01-21,Minatitlán,Sur,Pedro García,Flotilla,Mazda,CX-5,SUV,610000,7799.18,602200.82,509688.58,92512.24
+417,2025-05-31,Veracruz,Centro,Diego Torres,Digital,Nissan,Versa,Sedán,390000,10951.3,379048.7,334105.49,44943.21
+418,2024-12-21,Veracruz,Centro,Mariana Flores,Digital,Mazda,CX-5,SUV,610000,35091.47,574908.53,488318.36,86590.17
+419,2024-11-11,Minatitlán,Sur,Valeria Cruz,Flotilla,Mazda,CX-5,SUV,610000,32827.31,577172.69,497812.62,79360.07
+420,2025-03-07,Coatzacoalcos,Sur,Ana López,Referido,Toyota,Hilux,Pickup,590000,21672.76,568327.24,482101.96,86225.28
+421,2024-02-10,Minatitlán,Sur,Pedro García,Flotilla,Mazda,CX-5,SUV,610000,17202.42,592797.58,520216.49,72581.09
+422,2025-08-21,Acayucan,Sur,Sofía Martínez,Flotilla,Mazda,CX-5,SUV,610000,33226.75,576773.25,505558.07,71215.18
+423,2024-01-20,Xalapa,Centro,Camila Reyes,Piso de venta,BYD,Dolphin,Eléctrico,535000,1572.93,533427.07,449906.6,83520.47
+424,2025-03-14,Xalapa,Centro,Luis Mendoza,Digital,Mazda,CX-5,SUV,610000,34034.11,575965.89,495098.64,80867.25
+425,2024-06-14,Coatzacoalcos,Sur,Ana López,Flotilla,Toyota,Hilux,Pickup,590000,1152.02,588847.98,491132.18,97715.8
+426,2024-01-16,Acayucan,Sur,Carlos Hernández,Referido,BYD,Dolphin,Eléctrico,535000,13251.77,521748.23,425637.33,96110.9
+427,2025-09-26,Minatitlán,Sur,Pedro García,Digital,Toyota,Hilux,Pickup,590000,10730.21,579269.79,499474.8,79794.99
+428,2025-07-22,Acayucan,Sur,Carlos Hernández,Flotilla,Nissan,Versa,Sedán,390000,5409.05,384590.95,346056.71,38534.24
+429,2025-08-04,Minatitlán,Sur,Pedro García,Flotilla,BYD,Dolphin,Eléctrico,535000,634.69,534365.31,456002.0,78363.31
+430,2024-04-06,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,Toyota,Corolla,Sedán,455000,10532.74,444467.26,400510.87,43956.39
+431,2024-01-02,Veracruz,Centro,Mariana Flores,Piso de venta,Mazda,CX-5,SUV,610000,16038.43,593961.57,521159.74,72801.83
+432,2024-09-16,Acayucan,Sur,Sofía Martínez,Piso de venta,Nissan,Versa,Sedán,390000,21768.98,368231.02,330588.79,37642.23
+433,2024-09-26,Veracruz,Centro,Diego Torres,Referido,Mazda,CX-5,SUV,610000,10337.07,599662.93,501896.18,97766.75
+434,2025-03-09,Acayucan,Sur,Carlos Hernández,Piso de venta,Suzuki,Swift,Hatchback,340000,19803.9,320196.1,282415.49,37780.61
+435,2025-08-26,Veracruz,Centro,Diego Torres,Digital,Toyota,Corolla,Sedán,455000,23492.21,431507.79,382180.07,49327.72
+436,2025-01-23,Acayucan,Sur,Sofía Martínez,Referido,Toyota,Corolla,Sedán,455000,3794.68,451205.32,404776.17,46429.15
+437,2024-12-20,Veracruz,Centro,Mariana Flores,Flotilla,Mazda,CX-5,SUV,610000,31612.74,578387.26,507790.81,70596.45
+438,2025-12-16,Acayucan,Sur,Carlos Hernández,Digital,Toyota,Avanza,SUV,378000,26025.04,351974.96,302750.05,49224.91
+439,2024-02-16,Minatitlán,Sur,Pedro García,Digital,Suzuki,Swift,Hatchback,340000,19110.05,320889.95,290967.92,29922.03
+440,2025-08-15,Acayucan,Sur,Carlos Hernández,Referido,Toyota,Corolla,Sedán,455000,29024.69,425975.31,365899.83,60075.48
+441,2025-11-20,Veracruz,Centro,Diego Torres,Piso de venta,Nissan,Versa,Sedán,390000,22371.57,367628.43,331541.52,36086.91
+442,2025-05-25,Minatitlán,Sur,Valeria Cruz,Referido,Toyota,Hilux,Pickup,590000,7791.73,582208.27,482219.81,99988.46
+443,2025-11-19,Minatitlán,Sur,Valeria Cruz,Referido,BYD,Dolphin,Eléctrico,535000,25621.86,509378.14,420337.39,89040.75
+444,2024-01-03,Acayucan,Sur,Carlos Hernández,Digital,BYD,Dolphin,Eléctrico,535000,14394.38,520605.62,429997.33,90608.29
+445,2024-07-20,Coatzacoalcos,Sur,Ana López,Piso de venta,Nissan,Versa,Sedán,390000,15645.64,374354.36,328832.6,45521.76
+446,2025-10-14,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,Suzuki,Swift,Hatchback,340000,9790.72,330209.28,300399.86,29809.42
+447,2024-06-23,Minatitlán,Sur,Valeria Cruz,Flotilla,BYD,Seal,Eléctrico,780000,23676.37,756323.63,638339.82,117983.81
+448,2025-02-16,Acayucan,Sur,Carlos Hernández,Referido,BYD,Dolphin,Eléctrico,535000,502.94,534497.06,442430.24,92066.82
+449,2024-07-06,Veracruz,Centro,Mariana Flores,Flotilla,Suzuki,Swift,Hatchback,340000,1376.62,338623.38,308232.98,30390.4
+450,2024-12-16,Minatitlán,Sur,Valeria Cruz,Flotilla,BYD,Seal,Eléctrico,780000,36552.0,743448.0,615650.3,127797.7
+451,2024-12-13,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Hilux,Pickup,590000,9661.61,580338.39,483749.71,96588.68
+452,2024-10-30,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Avanza,SUV,378000,5966.6,372033.4,317771.45,54261.95
+453,2024-05-07,Veracruz,Centro,Diego Torres,Piso de venta,BYD,Seal,Eléctrico,780000,38689.11,741310.89,608167.04,133143.85
+454,2024-07-26,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Corolla,Sedán,455000,2775.06,452224.94,403153.69,49071.25
+455,2024-06-09,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Corolla,Sedán,455000,19118.71,435881.29,376438.06,59443.23
+456,2025-04-01,Acayucan,Sur,Sofía Martínez,Digital,Nissan,Versa,Sedán,390000,5678.78,384321.22,354399.79,29921.43
+457,2025-11-20,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,BYD,Dolphin,Eléctrico,535000,16465.27,518534.73,448167.91,70366.82
+458,2025-08-22,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Corolla,Sedán,455000,26678.82,428321.18,375898.95,52422.23
+459,2025-11-17,Xalapa,Centro,Luis Mendoza,Digital,Mazda,CX-5,SUV,610000,35044.08,574955.92,488009.94,86945.98
+460,2025-10-07,Veracruz,Centro,Mariana Flores,Piso de venta,Suzuki,Swift,Hatchback,340000,10871.05,329128.95,296644.1,32484.85
+461,2024-12-20,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Nissan,Versa,Sedán,390000,11914.15,378085.85,341137.89,36947.96
+462,2024-07-07,Coatzacoalcos,Sur,Jorge Ramírez,Digital,BYD,Seal,Eléctrico,780000,40876.44,739123.56,618275.12,120848.44
+463,2025-08-04,Veracruz,Centro,Mariana Flores,Referido,Toyota,Hilux,Pickup,590000,34430.81,555569.19,466882.26,88686.93
+464,2025-02-09,Minatitlán,Sur,Pedro García,Referido,Toyota,Avanza,SUV,378000,12159.34,365840.66,323573.81,42266.85
+465,2025-07-20,Xalapa,Centro,Camila Reyes,Piso de venta,Suzuki,Swift,Hatchback,340000,591.41,339408.59,302491.8,36916.79
+466,2024-05-28,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,Suzuki,Swift,Hatchback,340000,13444.35,326555.65,291884.87,34670.78
+467,2024-05-27,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Avanza,SUV,378000,8605.6,369394.4,315897.52,53496.88
+468,2024-12-15,Xalapa,Centro,Camila Reyes,Referido,Toyota,Avanza,SUV,378000,3716.94,374283.06,320640.71,53642.35
+469,2025-01-11,Xalapa,Centro,Luis Mendoza,Flotilla,Toyota,Avanza,SUV,378000,16610.8,361389.2,318399.48,42989.72
+470,2025-10-25,Coatzacoalcos,Sur,Ana López,Referido,Toyota,Avanza,SUV,378000,17929.67,360070.33,307402.78,52667.55
+471,2025-08-14,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Hilux,Pickup,590000,7289.13,582710.87,496429.79,86281.08
+472,2025-09-06,Veracruz,Centro,Mariana Flores,Referido,Toyota,Avanza,SUV,378000,9235.89,368764.11,322102.31,46661.8
+473,2024-02-21,Acayucan,Sur,Carlos Hernández,Flotilla,Toyota,Avanza,SUV,378000,12305.38,365694.62,318650.92,47043.7
+474,2025-03-05,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Hilux,Pickup,590000,28048.64,561951.36,489033.42,72917.94
+475,2025-04-21,Xalapa,Centro,Camila Reyes,Referido,Suzuki,Swift,Hatchback,340000,14626.54,325373.46,292143.07,33230.39
+476,2025-05-29,Acayucan,Sur,Carlos Hernández,Flotilla,Nissan,Versa,Sedán,390000,16602.32,373397.68,333035.05,40362.63
+477,2025-12-27,Coatzacoalcos,Sur,Jorge Ramírez,Referido,BYD,Seal,Eléctrico,780000,53585.52,726414.48,607554.3,118860.18
+478,2024-12-07,Veracruz,Centro,Diego Torres,Digital,Nissan,Versa,Sedán,390000,7315.14,382684.86,344209.99,38474.87
+479,2024-03-18,Coatzacoalcos,Sur,Ana López,Flotilla,BYD,Seal,Eléctrico,780000,14526.7,765473.3,651933.14,113540.16
+480,2025-02-14,Minatitlán,Sur,Valeria Cruz,Flotilla,Suzuki,Swift,Hatchback,340000,11206.88,328793.12,291781.32,37011.8
+481,2025-04-11,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Corolla,Sedán,455000,13424.94,441575.06,397012.58,44562.48
+482,2025-03-02,Xalapa,Centro,Camila Reyes,Piso de venta,Toyota,Hilux,Pickup,590000,3128.87,586871.13,486808.48,100062.65
+483,2025-01-06,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Avanza,SUV,378000,5914.2,372085.8,331891.61,40194.19
+484,2025-10-14,Xalapa,Centro,Luis Mendoza,Flotilla,Nissan,Versa,Sedán,390000,23533.21,366466.79,332488.18,33978.61
+485,2024-06-11,Minatitlán,Sur,Pedro García,Flotilla,BYD,Seal,Eléctrico,780000,3990.61,776009.39,642922.6,133086.79
+486,2024-04-01,Veracruz,Centro,Diego Torres,Referido,BYD,Dolphin,Eléctrico,535000,6840.6,528159.4,448694.84,79464.56
+487,2025-09-10,Acayucan,Sur,Carlos Hernández,Digital,BYD,Seal,Eléctrico,780000,18522.47,761477.53,650263.85,111213.68
+488,2024-07-14,Coatzacoalcos,Sur,Ana López,Piso de venta,BYD,Seal,Eléctrico,780000,33304.29,746695.71,614329.25,132366.46
+489,2025-02-22,Xalapa,Centro,Camila Reyes,Digital,BYD,Dolphin,Eléctrico,535000,6973.42,528026.58,451129.89,76896.69
+490,2025-03-17,Xalapa,Centro,Camila Reyes,Referido,BYD,Dolphin,Eléctrico,535000,18862.79,516137.21,436956.95,79180.26
+491,2024-12-27,Veracruz,Centro,Diego Torres,Digital,BYD,Seal,Eléctrico,780000,1547.06,778452.94,634729.35,143723.59
+492,2024-04-07,Coatzacoalcos,Sur,Ana López,Referido,Suzuki,Swift,Hatchback,340000,4381.29,335618.71,304912.74,30705.97
+493,2025-08-15,Veracruz,Centro,Mariana Flores,Flotilla,Nissan,Versa,Sedán,390000,15840.32,374159.68,342413.38,31746.3
+494,2025-04-07,Minatitlán,Sur,Pedro García,Piso de venta,BYD,Dolphin,Eléctrico,535000,28609.78,506390.22,420632.12,85758.1
+495,2024-12-08,Acayucan,Sur,Carlos Hernández,Digital,Toyota,Hilux,Pickup,590000,19996.36,570003.64,472578.24,97425.4
+496,2024-10-20,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Toyota,Corolla,Sedán,455000,9920.9,445079.1,389081.39,55997.71
+497,2024-08-24,Acayucan,Sur,Sofía Martínez,Flotilla,Suzuki,Swift,Hatchback,340000,14333.31,325666.69,290764.11,34902.58
+498,2024-11-17,Minatitlán,Sur,Valeria Cruz,Referido,BYD,Dolphin,Eléctrico,535000,5227.1,529772.9,453729.9,76043.0
+499,2024-12-13,Xalapa,Centro,Camila Reyes,Digital,Nissan,Versa,Sedán,390000,23389.59,366610.41,333036.67,33573.74
+500,2024-10-25,Xalapa,Centro,Camila Reyes,Referido,Toyota,Corolla,Sedán,455000,8126.46,446873.54,401197.0,45676.54
+501,2024-04-10,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Hilux,Pickup,590000,41100.28,548899.72,480152.45,68747.27
+502,2025-05-25,Minatitlán,Sur,Pedro García,Referido,Mazda,CX-5,SUV,610000,23661.43,586338.57,503094.29,83244.28
+503,2025-03-02,Acayucan,Sur,Sofía Martínez,Piso de venta,Toyota,Hilux,Pickup,590000,28153.87,561846.13,488435.32,73410.81
+504,2025-09-02,Coatzacoalcos,Sur,Ana López,Digital,BYD,Seal,Eléctrico,780000,41532.08,738467.92,607541.65,130926.27
+505,2025-01-24,Veracruz,Centro,Mariana Flores,Digital,BYD,Seal,Eléctrico,780000,5600.74,774399.26,641237.63,133161.63
+506,2025-10-13,Coatzacoalcos,Sur,Ana López,Piso de venta,Mazda,CX-5,SUV,610000,9770.7,600229.3,524553.61,75675.69
+507,2025-09-21,Coatzacoalcos,Sur,Ana López,Flotilla,Toyota,Avanza,SUV,378000,4918.95,373081.05,317366.76,55714.29
+508,2025-02-23,Coatzacoalcos,Sur,Ana López,Digital,Toyota,Hilux,Pickup,590000,27462.75,562537.25,468832.83,93704.42
+509,2025-06-07,Acayucan,Sur,Sofía Martínez,Digital,Toyota,Hilux,Pickup,590000,39281.28,550718.72,467165.17,83553.55
+510,2024-01-17,Minatitlán,Sur,Pedro García,Flotilla,BYD,Seal,Eléctrico,780000,19442.32,760557.68,623479.87,137077.81
+511,2024-12-17,Veracruz,Centro,Diego Torres,Referido,Nissan,Versa,Sedán,390000,10888.19,379111.81,338570.65,40541.16
+512,2024-08-14,Veracruz,Centro,Diego Torres,Digital,Toyota,Avanza,SUV,378000,7068.42,370931.58,329154.29,41777.29
+513,2024-08-01,Minatitlán,Sur,Pedro García,Digital,Toyota,Corolla,Sedán,455000,28844.04,426155.96,369168.83,56987.13
+514,2024-04-01,Coatzacoalcos,Sur,Ana López,Digital,Nissan,Versa,Sedán,390000,25280.65,364719.35,320322.17,44397.18
+515,2024-09-09,Veracruz,Centro,Diego Torres,Referido,Suzuki,Swift,Hatchback,340000,5192.9,334807.1,300539.84,34267.26
+516,2024-01-21,Acayucan,Sur,Sofía Martínez,Piso de venta,Nissan,Versa,Sedán,390000,5004.87,384995.13,341190.12,43805.01
+517,2024-12-19,Minatitlán,Sur,Pedro García,Flotilla,Nissan,Versa,Sedán,390000,25304.78,364695.22,334231.65,30463.57
+518,2024-11-11,Coatzacoalcos,Sur,Ana López,Flotilla,Toyota,Avanza,SUV,378000,3313.63,374686.37,320590.21,54096.16
+519,2024-02-01,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Hilux,Pickup,590000,22300.89,567699.11,483345.36,84353.75
+520,2024-09-05,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Mazda,CX-5,SUV,610000,14139.33,595860.67,503833.19,92027.48
+521,2025-01-14,Veracruz,Centro,Diego Torres,Referido,Suzuki,Swift,Hatchback,340000,3559.24,336440.76,303380.23,33060.53
+522,2025-03-28,Acayucan,Sur,Carlos Hernández,Piso de venta,Nissan,Versa,Sedán,390000,4133.44,385866.56,351395.11,34471.45
+523,2025-11-02,Veracruz,Centro,Mariana Flores,Piso de venta,Toyota,Hilux,Pickup,590000,4548.54,585451.46,494245.93,91205.53
+524,2024-08-08,Acayucan,Sur,Sofía Martínez,Referido,BYD,Dolphin,Eléctrico,535000,1149.81,533850.19,445129.41,88720.78
+525,2024-08-09,Xalapa,Centro,Camila Reyes,Referido,Toyota,Corolla,Sedán,455000,21101.29,433898.71,379429.54,54469.17
+526,2024-06-02,Xalapa,Centro,Camila Reyes,Piso de venta,Nissan,Versa,Sedán,390000,21523.72,368476.28,327630.78,40845.5
+527,2025-06-16,Veracruz,Centro,Mariana Flores,Piso de venta,BYD,Dolphin,Eléctrico,535000,24144.9,510855.1,435265.59,75589.51
+528,2024-04-22,Veracruz,Centro,Diego Torres,Flotilla,BYD,Seal,Eléctrico,780000,4995.41,775004.59,631438.63,143565.96
+529,2024-04-23,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Avanza,SUV,378000,8011.48,369988.52,318137.9,51850.62
+530,2025-03-19,Acayucan,Sur,Sofía Martínez,Referido,BYD,Dolphin,Eléctrico,535000,2505.99,532494.01,451441.7,81052.31
+531,2024-10-26,Xalapa,Centro,Luis Mendoza,Referido,BYD,Seal,Eléctrico,780000,30539.89,749460.11,631648.0,117812.11
+532,2024-01-29,Acayucan,Sur,Sofía Martínez,Referido,Toyota,Corolla,Sedán,455000,1507.03,453492.97,396387.86,57105.11
+533,2025-03-09,Minatitlán,Sur,Pedro García,Flotilla,BYD,Dolphin,Eléctrico,535000,22114.55,512885.45,426578.6,86306.85
+534,2024-09-29,Xalapa,Centro,Camila Reyes,Digital,BYD,Dolphin,Eléctrico,535000,4058.68,530941.32,439095.48,91845.84
+535,2025-04-06,Minatitlán,Sur,Pedro García,Referido,Toyota,Corolla,Sedán,455000,26863.47,428136.53,377486.88,50649.65
+536,2025-09-28,Acayucan,Sur,Sofía Martínez,Piso de venta,BYD,Dolphin,Eléctrico,535000,14488.84,520511.16,438701.92,81809.24
+537,2025-03-29,Acayucan,Sur,Sofía Martínez,Referido,Toyota,Hilux,Pickup,590000,17635.8,572364.2,474776.76,97587.44
+538,2024-03-30,Coatzacoalcos,Sur,Ana López,Referido,Mazda,CX-5,SUV,610000,25501.73,584498.27,506834.56,77663.71
+539,2024-04-20,Xalapa,Centro,Luis Mendoza,Flotilla,Nissan,Versa,Sedán,390000,18087.09,371912.91,332595.15,39317.76
+540,2024-06-06,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Suzuki,Swift,Hatchback,340000,6063.72,333936.28,304246.23,29690.05
+541,2025-12-16,Acayucan,Sur,Sofía Martínez,Referido,BYD,Dolphin,Eléctrico,535000,7718.09,527281.91,440209.62,87072.29
+542,2024-12-02,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Nissan,Versa,Sedán,390000,2685.44,387314.56,357448.8,29865.76
+543,2024-01-23,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Nissan,Versa,Sedán,390000,2577.09,387422.91,351242.69,36180.22
+544,2024-01-29,Coatzacoalcos,Sur,Jorge Ramírez,Digital,BYD,Dolphin,Eléctrico,535000,6499.21,528500.79,432512.29,95988.5
+545,2025-04-13,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Corolla,Sedán,455000,12616.05,442383.95,384568.79,57815.16
+546,2025-07-12,Veracruz,Centro,Mariana Flores,Piso de venta,BYD,Seal,Eléctrico,780000,10727.62,769272.38,631982.98,137289.4
+547,2024-04-20,Xalapa,Centro,Camila Reyes,Flotilla,Toyota,Corolla,Sedán,455000,20436.42,434563.58,388332.68,46230.9
+548,2024-11-17,Xalapa,Centro,Camila Reyes,Referido,Nissan,Versa,Sedán,390000,15351.28,374648.72,331676.83,42971.89
+549,2024-11-05,Veracruz,Centro,Mariana Flores,Digital,Suzuki,Swift,Hatchback,340000,8596.86,331403.14,286970.71,44432.43
+550,2025-10-22,Xalapa,Centro,Luis Mendoza,Flotilla,Mazda,CX-5,SUV,610000,5272.96,604727.04,511752.8,92974.24
+551,2024-05-27,Minatitlán,Sur,Pedro García,Referido,BYD,Seal,Eléctrico,780000,41754.71,738245.29,625401.19,112844.1
+552,2025-01-01,Minatitlán,Sur,Valeria Cruz,Flotilla,Suzuki,Swift,Hatchback,340000,18061.32,321938.68,291428.53,30510.15
+553,2025-02-01,Veracruz,Centro,Diego Torres,Referido,Mazda,CX-5,SUV,610000,41680.37,568319.63,494116.13,74203.5
+554,2024-07-19,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Corolla,Sedán,455000,6696.5,448303.5,388231.12,60072.38
+555,2024-10-26,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Hilux,Pickup,590000,40947.27,549052.73,456283.1,92769.63
+556,2025-08-14,Veracruz,Centro,Mariana Flores,Piso de venta,Nissan,Versa,Sedán,390000,12177.3,377822.7,334365.63,43457.07
+557,2025-08-19,Acayucan,Sur,Sofía Martínez,Piso de venta,Toyota,Corolla,Sedán,455000,7153.82,447846.18,399540.97,48305.21
+558,2025-02-16,Coatzacoalcos,Sur,Ana López,Piso de venta,Suzuki,Swift,Hatchback,340000,7891.88,332108.12,289007.05,43101.07
+559,2024-01-04,Minatitlán,Sur,Valeria Cruz,Digital,Suzuki,Swift,Hatchback,340000,23701.51,316298.49,282950.14,33348.35
+560,2024-05-31,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Avanza,SUV,378000,4813.65,373186.35,321627.5,51558.85
+561,2025-04-11,Veracruz,Centro,Diego Torres,Piso de venta,Suzuki,Swift,Hatchback,340000,21830.03,318169.97,277556.85,40613.12
+562,2025-10-11,Coatzacoalcos,Sur,Ana López,Referido,BYD,Seal,Eléctrico,780000,49000.24,730999.76,613900.51,117099.25
+563,2025-12-28,Minatitlán,Sur,Valeria Cruz,Flotilla,Toyota,Hilux,Pickup,590000,40164.52,549835.48,480847.5,68987.98
+564,2025-03-26,Veracruz,Centro,Diego Torres,Digital,Suzuki,Swift,Hatchback,340000,3284.48,336715.52,306516.19,30199.33
+565,2025-05-28,Minatitlán,Sur,Valeria Cruz,Referido,Suzuki,Swift,Hatchback,340000,20517.22,319482.78,286242.86,33239.92
+566,2025-10-04,Coatzacoalcos,Sur,Ana López,Referido,Mazda,CX-5,SUV,610000,34440.21,575559.79,504937.08,70622.71
+567,2025-03-03,Acayucan,Sur,Sofía Martínez,Piso de venta,BYD,Seal,Eléctrico,780000,25491.92,754508.08,607528.97,146979.11
+568,2025-12-31,Minatitlán,Sur,Pedro García,Referido,Toyota,Hilux,Pickup,590000,13035.8,576964.2,495487.33,81476.87
+569,2025-04-12,Coatzacoalcos,Sur,Ana López,Flotilla,Toyota,Avanza,SUV,378000,22564.46,355435.54,307978.83,47456.71
+570,2025-11-16,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Hilux,Pickup,590000,6058.97,583941.03,500760.5,83180.53
+571,2024-09-05,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Suzuki,Swift,Hatchback,340000,16698.82,323301.18,293503.51,29797.67
+572,2025-04-13,Minatitlán,Sur,Valeria Cruz,Flotilla,Toyota,Hilux,Pickup,590000,24466.71,565533.29,475148.0,90385.29
+573,2024-09-05,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Corolla,Sedán,455000,16353.01,438646.99,396716.17,41930.82
+574,2024-03-19,Minatitlán,Sur,Pedro García,Piso de venta,BYD,Dolphin,Eléctrico,535000,8959.22,526040.78,442089.57,83951.21
+575,2025-05-25,Minatitlán,Sur,Valeria Cruz,Flotilla,Toyota,Hilux,Pickup,590000,41144.82,548855.18,464056.95,84798.23
+576,2024-04-08,Acayucan,Sur,Sofía Martínez,Referido,Nissan,Versa,Sedán,390000,18806.92,371193.08,337566.11,33626.97
+577,2024-05-05,Coatzacoalcos,Sur,Ana López,Piso de venta,Suzuki,Swift,Hatchback,340000,20942.49,319057.51,290835.76,28221.75
+578,2025-07-02,Xalapa,Centro,Luis Mendoza,Piso de venta,Suzuki,Swift,Hatchback,340000,15926.44,324073.56,290454.2,33619.36
+579,2025-08-31,Veracruz,Centro,Mariana Flores,Flotilla,Toyota,Avanza,SUV,378000,19836.39,358163.61,316685.86,41477.75
+580,2025-05-27,Xalapa,Centro,Camila Reyes,Digital,Suzuki,Swift,Hatchback,340000,4895.69,335104.31,305310.15,29794.16
+581,2025-06-25,Acayucan,Sur,Sofía Martínez,Piso de venta,Toyota,Corolla,Sedán,455000,12129.96,442870.04,380327.88,62542.16
+582,2025-12-02,Minatitlán,Sur,Pedro García,Digital,Toyota,Hilux,Pickup,590000,6225.4,583774.6,510135.19,73639.41
+583,2025-07-02,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Corolla,Sedán,455000,13943.46,441056.54,398864.56,42191.98
+584,2025-11-10,Minatitlán,Sur,Pedro García,Flotilla,Mazda,CX-5,SUV,610000,13049.52,596950.48,511974.43,84976.05
+585,2025-08-30,Minatitlán,Sur,Valeria Cruz,Piso de venta,BYD,Seal,Eléctrico,780000,10532.4,769467.6,626661.59,142806.01
+586,2025-01-15,Xalapa,Centro,Camila Reyes,Referido,Mazda,CX-5,SUV,610000,14886.93,595113.07,525755.55,69357.52
+587,2024-03-20,Minatitlán,Sur,Valeria Cruz,Digital,Mazda,CX-5,SUV,610000,16745.6,593254.4,503386.81,89867.59
+588,2024-09-19,Xalapa,Centro,Luis Mendoza,Digital,BYD,Dolphin,Eléctrico,535000,9081.26,525918.74,441128.78,84789.96
+589,2025-11-19,Acayucan,Sur,Carlos Hernández,Referido,BYD,Dolphin,Eléctrico,535000,29276.65,505723.35,419868.34,85855.01
+590,2024-06-23,Minatitlán,Sur,Pedro García,Referido,Toyota,Corolla,Sedán,455000,16099.46,438900.54,377211.71,61688.83
+591,2024-12-16,Acayucan,Sur,Carlos Hernández,Piso de venta,Nissan,Versa,Sedán,390000,20642.16,369357.84,337263.48,32094.36
+592,2024-11-27,Veracruz,Centro,Mariana Flores,Flotilla,Mazda,CX-5,SUV,610000,20076.19,589923.81,503720.01,86203.8
+593,2025-11-02,Acayucan,Sur,Sofía Martínez,Referido,Toyota,Hilux,Pickup,590000,175.84,589824.16,497536.4,92287.76
+594,2024-09-01,Acayucan,Sur,Carlos Hernández,Piso de venta,BYD,Dolphin,Eléctrico,535000,27734.47,507265.53,415341.45,91924.08
+595,2025-11-27,Coatzacoalcos,Sur,Ana López,Flotilla,Nissan,Versa,Sedán,390000,690.73,389309.27,346384.3,42924.97
+596,2024-03-31,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Hilux,Pickup,590000,36287.78,553712.22,468459.29,85252.93
+597,2024-06-12,Acayucan,Sur,Carlos Hernández,Digital,Nissan,Versa,Sedán,390000,8311.16,381688.84,341907.97,39780.87
+598,2024-09-01,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Hilux,Pickup,590000,15224.51,574775.49,481224.84,93550.65
+599,2025-09-27,Acayucan,Sur,Carlos Hernández,Flotilla,Toyota,Hilux,Pickup,590000,30957.62,559042.38,487666.86,71375.52
+600,2025-09-22,Minatitlán,Sur,Valeria Cruz,Flotilla,Nissan,Versa,Sedán,390000,3014.39,386985.61,356272.88,30712.73
+601,2025-01-09,Minatitlán,Sur,Valeria Cruz,Referido,Nissan,Versa,Sedán,390000,22006.7,367993.3,329700.12,38293.18
+602,2024-12-23,Acayucan,Sur,Carlos Hernández,Piso de venta,Toyota,Avanza,SUV,378000,7764.91,370235.09,323709.49,46525.6
+603,2024-10-21,Veracruz,Centro,Mariana Flores,Flotilla,Suzuki,Swift,Hatchback,340000,4872.57,335127.43,303189.72,31937.71
+604,2025-10-17,Xalapa,Centro,Camila Reyes,Piso de venta,Toyota,Corolla,Sedán,455000,17207.39,437792.61,385059.8,52732.81
+605,2025-11-10,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Nissan,Versa,Sedán,390000,18897.54,371102.46,340135.41,30967.05
+606,2024-06-24,Acayucan,Sur,Sofía Martínez,Flotilla,Nissan,Versa,Sedán,390000,20696.36,369303.64,331893.96,37409.68
+607,2025-05-28,Acayucan,Sur,Sofía Martínez,Digital,BYD,Dolphin,Eléctrico,535000,18504.33,516495.67,442260.34,74235.33
+608,2025-09-18,Veracruz,Centro,Diego Torres,Digital,BYD,Seal,Eléctrico,780000,20124.87,759875.13,634455.93,125419.2
+609,2024-01-10,Coatzacoalcos,Sur,Ana López,Digital,Nissan,Versa,Sedán,390000,15894.94,374105.06,337448.64,36656.42
+610,2025-04-23,Xalapa,Centro,Camila Reyes,Digital,Mazda,CX-5,SUV,610000,37407.58,572592.42,499048.12,73544.3
+611,2024-06-23,Coatzacoalcos,Sur,Ana López,Referido,Mazda,CX-5,SUV,610000,5205.63,604794.37,522379.19,82415.18
+612,2024-07-24,Coatzacoalcos,Sur,Ana López,Flotilla,Toyota,Corolla,Sedán,455000,21268.8,433731.2,381967.27,51763.93
+613,2025-01-02,Veracruz,Centro,Diego Torres,Digital,Nissan,Versa,Sedán,390000,24896.67,365103.33,325408.07,39695.26
+614,2024-02-07,Xalapa,Centro,Luis Mendoza,Referido,BYD,Seal,Eléctrico,780000,51921.38,728078.62,601969.71,126108.91
+615,2024-09-11,Xalapa,Centro,Luis Mendoza,Flotilla,Toyota,Corolla,Sedán,455000,7931.94,447068.06,393083.35,53984.71
+616,2025-04-16,Acayucan,Sur,Carlos Hernández,Flotilla,Suzuki,Swift,Hatchback,340000,12457.5,327542.5,286652.84,40889.66
+617,2025-06-21,Xalapa,Centro,Camila Reyes,Piso de venta,Mazda,CX-5,SUV,610000,33158.84,576841.16,509315.16,67526.0
+618,2024-03-05,Minatitlán,Sur,Pedro García,Digital,Toyota,Hilux,Pickup,590000,9465.4,580534.6,506730.25,73804.35
+619,2025-01-17,Veracruz,Centro,Diego Torres,Referido,Suzuki,Swift,Hatchback,340000,12938.43,327061.57,293039.7,34021.87
+620,2024-02-17,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Toyota,Hilux,Pickup,590000,21823.56,568176.44,480225.72,87950.72
+621,2024-07-08,Acayucan,Sur,Sofía Martínez,Flotilla,Nissan,Versa,Sedán,390000,17272.22,372727.78,327896.65,44831.13
+622,2024-12-12,Veracruz,Centro,Mariana Flores,Digital,Mazda,CX-5,SUV,610000,34772.61,575227.39,506817.29,68410.1
+623,2024-07-29,Minatitlán,Sur,Valeria Cruz,Flotilla,Suzuki,Swift,Hatchback,340000,10683.29,329316.71,284961.76,44354.95
+624,2024-01-22,Acayucan,Sur,Sofía Martínez,Digital,BYD,Seal,Eléctrico,780000,19409.52,760590.48,643805.05,116785.43
+625,2025-04-30,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Nissan,Versa,Sedán,390000,7500.41,382499.59,347946.14,34553.45
+626,2024-05-27,Xalapa,Centro,Camila Reyes,Flotilla,Toyota,Corolla,Sedán,455000,29668.91,425331.09,371591.02,53740.07
+627,2024-03-22,Coatzacoalcos,Sur,Ana López,Flotilla,Suzuki,Swift,Hatchback,340000,2652.51,337347.49,293865.44,43482.05
+628,2024-11-29,Minatitlán,Sur,Pedro García,Piso de venta,Mazda,CX-5,SUV,610000,27805.46,582194.54,503772.26,78422.28
+629,2025-10-13,Acayucan,Sur,Carlos Hernández,Referido,Toyota,Corolla,Sedán,455000,1722.74,453277.26,397911.88,55365.38
+630,2024-11-25,Minatitlán,Sur,Pedro García,Piso de venta,Suzuki,Swift,Hatchback,340000,253.07,339746.93,298313.46,41433.47
+631,2025-10-18,Xalapa,Centro,Camila Reyes,Digital,Toyota,Corolla,Sedán,455000,26201.57,428798.43,384156.58,44641.85
+632,2024-06-21,Veracruz,Centro,Diego Torres,Digital,BYD,Seal,Eléctrico,780000,21065.59,758934.41,636821.12,122113.29
+633,2025-02-09,Minatitlán,Sur,Pedro García,Referido,BYD,Dolphin,Eléctrico,535000,24112.07,510887.93,434030.77,76857.16
+634,2024-08-24,Veracruz,Centro,Mariana Flores,Flotilla,Mazda,CX-5,SUV,610000,6236.92,603763.08,516706.62,87056.46
+635,2025-01-01,Coatzacoalcos,Sur,Ana López,Referido,Toyota,Corolla,Sedán,455000,28613.41,426386.59,383195.3,43191.29
+636,2024-07-18,Minatitlán,Sur,Valeria Cruz,Referido,Toyota,Hilux,Pickup,590000,10773.47,579226.53,498644.72,80581.81
+637,2025-01-08,Acayucan,Sur,Sofía Martínez,Flotilla,Nissan,Versa,Sedán,390000,22413.81,367586.19,338665.61,28920.58
+638,2025-04-21,Xalapa,Centro,Camila Reyes,Digital,Suzuki,Swift,Hatchback,340000,17965.75,322034.25,292720.11,29314.14
+639,2024-05-11,Veracruz,Centro,Diego Torres,Flotilla,BYD,Seal,Eléctrico,780000,25908.81,754091.19,607380.84,146710.35
+640,2025-05-06,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Avanza,SUV,378000,20288.51,357711.49,314318.56,43392.93
+641,2024-06-02,Acayucan,Sur,Sofía Martínez,Digital,BYD,Seal,Eléctrico,780000,49265.83,730734.17,594572.77,136161.4
+642,2025-02-15,Coatzacoalcos,Sur,Jorge Ramírez,Digital,BYD,Seal,Eléctrico,780000,11027.89,768972.11,622171.93,146800.18
+643,2025-08-06,Acayucan,Sur,Carlos Hernández,Piso de venta,Nissan,Versa,Sedán,390000,14672.5,375327.5,330331.67,44995.83
+644,2025-08-18,Xalapa,Centro,Camila Reyes,Flotilla,Toyota,Hilux,Pickup,590000,27600.06,562399.94,485263.41,77136.53
+645,2024-06-02,Xalapa,Centro,Camila Reyes,Piso de venta,Toyota,Corolla,Sedán,455000,7593.62,447406.38,404164.29,43242.09
+646,2025-04-26,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,Toyota,Hilux,Pickup,590000,6831.07,583168.93,499124.0,84044.93
+647,2024-04-04,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Mazda,CX-5,SUV,610000,24040.68,585959.32,501905.11,84054.21
+648,2025-12-07,Minatitlán,Sur,Valeria Cruz,Flotilla,BYD,Dolphin,Eléctrico,535000,33977.91,501022.09,420978.15,80043.94
+649,2024-04-01,Coatzacoalcos,Sur,Jorge Ramírez,Referido,BYD,Seal,Eléctrico,780000,48034.92,731965.08,594607.76,137357.32
+650,2025-09-11,Acayucan,Sur,Sofía Martínez,Piso de venta,Suzuki,Swift,Hatchback,340000,16206.68,323793.32,294374.54,29418.78
+651,2024-12-22,Veracruz,Centro,Mariana Flores,Referido,Toyota,Hilux,Pickup,590000,33646.53,556353.47,478470.42,77883.05
+652,2024-04-04,Minatitlán,Sur,Valeria Cruz,Piso de venta,BYD,Seal,Eléctrico,780000,39005.65,740994.35,597918.5,143075.85
+653,2025-10-17,Coatzacoalcos,Sur,Ana López,Flotilla,Toyota,Hilux,Pickup,590000,14909.41,575090.59,477950.55,97140.04
+654,2025-08-24,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Avanza,SUV,378000,13767.98,364232.02,308054.46,56177.56
+655,2024-05-25,Veracruz,Centro,Diego Torres,Digital,Toyota,Hilux,Pickup,590000,9069.8,580930.2,482181.03,98749.17
+656,2024-11-13,Veracruz,Centro,Mariana Flores,Digital,BYD,Seal,Eléctrico,780000,28945.09,751054.91,636949.44,114105.47
+657,2025-02-15,Veracruz,Centro,Diego Torres,Digital,Suzuki,Swift,Hatchback,340000,22589.42,317410.58,289324.41,28086.17
+658,2024-11-08,Xalapa,Centro,Luis Mendoza,Referido,Toyota,Corolla,Sedán,455000,9243.2,445756.8,388672.82,57083.98
+659,2024-02-03,Minatitlán,Sur,Pedro García,Referido,Mazda,CX-5,SUV,610000,19957.46,590042.54,495717.17,94325.37
+660,2025-07-30,Xalapa,Centro,Luis Mendoza,Flotilla,Suzuki,Swift,Hatchback,340000,23644.09,316355.91,274755.27,41600.64
+661,2025-09-16,Minatitlán,Sur,Pedro García,Piso de venta,Nissan,Versa,Sedán,390000,9086.27,380913.73,344692.13,36221.6
+662,2024-09-01,Minatitlán,Sur,Pedro García,Flotilla,Nissan,Versa,Sedán,390000,8389.35,381610.65,342525.04,39085.61
+663,2024-11-08,Xalapa,Centro,Camila Reyes,Referido,Toyota,Hilux,Pickup,590000,7139.35,582860.65,507890.68,74969.97
+664,2025-06-24,Coatzacoalcos,Sur,Ana López,Flotilla,Mazda,CX-5,SUV,610000,30379.97,579620.03,500368.13,79251.9
+665,2024-10-30,Acayucan,Sur,Carlos Hernández,Digital,Toyota,Corolla,Sedán,455000,17644.83,437355.17,387864.48,49490.69
+666,2025-12-20,Minatitlán,Sur,Pedro García,Flotilla,BYD,Seal,Eléctrico,780000,37520.89,742479.11,601436.7,141042.41
+667,2024-02-17,Xalapa,Centro,Luis Mendoza,Digital,BYD,Seal,Eléctrico,780000,32440.09,747559.91,626493.6,121066.31
+668,2024-07-24,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Toyota,Avanza,SUV,378000,24798.69,353201.31,315313.8,37887.51
+669,2024-06-24,Xalapa,Centro,Luis Mendoza,Digital,Mazda,CX-5,SUV,610000,31709.96,578290.04,507330.68,70959.36
+670,2025-08-31,Xalapa,Centro,Luis Mendoza,Digital,Nissan,Versa,Sedán,390000,26355.94,363644.06,320278.29,43365.77
+671,2024-08-16,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Toyota,Avanza,SUV,378000,9452.78,368547.22,322089.48,46457.74
+672,2024-06-21,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Toyota,Hilux,Pickup,590000,22711.68,567288.32,474784.2,92504.12
+673,2025-07-01,Veracruz,Centro,Mariana Flores,Flotilla,Nissan,Versa,Sedán,390000,17562.46,372437.54,338871.59,33565.95
+674,2025-05-25,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Avanza,SUV,378000,9977.96,368022.04,328913.91,39108.13
+675,2024-10-19,Veracruz,Centro,Mariana Flores,Referido,Mazda,CX-5,SUV,610000,27764.28,582235.72,488502.5,93733.22
+676,2024-05-22,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Avanza,SUV,378000,16018.15,361981.85,307166.91,54814.94
+677,2024-10-03,Acayucan,Sur,Carlos Hernández,Digital,BYD,Seal,Eléctrico,780000,19310.81,760689.19,619740.5,140948.69
+678,2025-07-29,Minatitlán,Sur,Valeria Cruz,Piso de venta,Toyota,Avanza,SUV,378000,20483.45,357516.55,317781.03,39735.52
+679,2025-09-12,Veracruz,Centro,Mariana Flores,Flotilla,Toyota,Hilux,Pickup,590000,6913.33,583086.67,507400.48,75686.19
+680,2024-01-05,Coatzacoalcos,Sur,Ana López,Piso de venta,BYD,Dolphin,Eléctrico,535000,2267.4,532732.6,449555.74,83176.86
+681,2024-01-12,Minatitlán,Sur,Valeria Cruz,Piso de venta,Toyota,Corolla,Sedán,455000,29370.01,425629.99,375092.99,50537.0
+682,2025-01-14,Coatzacoalcos,Sur,Ana López,Digital,Suzuki,Swift,Hatchback,340000,9213.33,330786.67,287252.09,43534.58
+683,2025-10-20,Coatzacoalcos,Sur,Ana López,Referido,Mazda,CX-5,SUV,610000,36401.32,573598.68,496134.87,77463.81
+684,2025-01-08,Coatzacoalcos,Sur,Ana López,Digital,BYD,Seal,Eléctrico,780000,26183.45,753816.55,607949.82,145866.73
+685,2024-05-25,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Suzuki,Swift,Hatchback,340000,17042.4,322957.6,281830.59,41127.01
+686,2025-11-05,Minatitlán,Sur,Pedro García,Digital,BYD,Seal,Eléctrico,780000,21076.48,758923.52,629952.55,128970.97
+687,2025-11-12,Veracruz,Centro,Mariana Flores,Referido,Toyota,Hilux,Pickup,590000,29043.04,560956.96,475546.58,85410.38
+688,2024-08-11,Acayucan,Sur,Carlos Hernández,Piso de venta,Nissan,Versa,Sedán,390000,19869.08,370130.92,340788.17,29342.75
+689,2024-05-12,Acayucan,Sur,Sofía Martínez,Piso de venta,Toyota,Avanza,SUV,378000,17350.0,360650.0,317650.0,43000.0
+690,2024-09-11,Xalapa,Centro,Luis Mendoza,Flotilla,BYD,Seal,Eléctrico,780000,12475.3,767524.7,648277.42,119247.28
+691,2025-03-08,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Hilux,Pickup,590000,15717.26,574282.74,486323.95,87958.79
+692,2025-08-03,Minatitlán,Sur,Pedro García,Digital,BYD,Dolphin,Eléctrico,535000,10938.57,524061.43,430958.07,93103.36
+693,2024-05-28,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Hilux,Pickup,590000,4608.02,585391.98,502790.32,82601.66
+694,2024-07-01,Veracruz,Centro,Diego Torres,Digital,Nissan,Versa,Sedán,390000,1286.99,388713.01,343194.08,45518.93
+695,2024-06-08,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,Toyota,Hilux,Pickup,590000,13380.17,576619.83,500010.55,76609.28
+696,2024-04-09,Minatitlán,Sur,Valeria Cruz,Flotilla,Toyota,Corolla,Sedán,455000,20092.2,434907.8,384528.24,50379.56
+697,2024-03-31,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Hilux,Pickup,590000,19885.04,570114.96,498401.34,71713.62
+698,2025-11-07,Minatitlán,Sur,Valeria Cruz,Digital,BYD,Dolphin,Eléctrico,535000,19860.05,515139.95,439093.99,76045.96
+699,2024-03-15,Acayucan,Sur,Carlos Hernández,Digital,Suzuki,Swift,Hatchback,340000,2737.87,337262.13,304224.29,33037.84
+700,2025-12-07,Minatitlán,Sur,Valeria Cruz,Piso de venta,Nissan,Versa,Sedán,390000,23832.37,366167.63,338270.06,27897.57
+701,2025-01-28,Acayucan,Sur,Carlos Hernández,Piso de venta,Toyota,Corolla,Sedán,455000,24590.49,430409.51,383921.28,46488.23
+702,2024-09-23,Xalapa,Centro,Camila Reyes,Referido,Nissan,Versa,Sedán,390000,7464.97,382535.03,346490.09,36044.94
+703,2025-05-31,Acayucan,Sur,Carlos Hernández,Referido,Toyota,Hilux,Pickup,590000,7834.43,582165.57,498018.83,84146.74
+704,2024-10-22,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Mazda,CX-5,SUV,610000,42473.78,567526.22,477906.73,89619.49
+705,2025-04-12,Minatitlán,Sur,Valeria Cruz,Digital,Nissan,Versa,Sedán,390000,14679.47,375320.53,336231.95,39088.58
+706,2025-10-13,Veracruz,Centro,Mariana Flores,Digital,Suzuki,Swift,Hatchback,340000,20622.05,319377.95,286363.91,33014.04
+707,2025-12-23,Acayucan,Sur,Carlos Hernández,Piso de venta,Suzuki,Swift,Hatchback,340000,13125.38,326874.62,291862.47,35012.15
+708,2024-09-18,Minatitlán,Sur,Pedro García,Referido,Nissan,Versa,Sedán,390000,10090.57,379909.43,334419.65,45489.78
+709,2024-02-27,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Nissan,Versa,Sedán,390000,16320.46,373679.54,328449.5,45230.04
+710,2024-10-31,Xalapa,Centro,Camila Reyes,Digital,Mazda,CX-5,SUV,610000,40684.89,569315.11,478282.07,91033.04
+711,2025-02-27,Veracruz,Centro,Mariana Flores,Referido,Toyota,Hilux,Pickup,590000,6067.49,583932.51,500735.09,83197.42
+712,2025-03-29,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Toyota,Hilux,Pickup,590000,23929.71,566070.29,477646.89,88423.4
+713,2024-08-21,Acayucan,Sur,Sofía Martínez,Flotilla,Mazda,CX-5,SUV,610000,11690.52,598309.48,526849.49,71459.99
+714,2024-07-17,Minatitlán,Sur,Valeria Cruz,Flotilla,Toyota,Hilux,Pickup,590000,18048.85,571951.15,475677.41,96273.74
+715,2025-08-05,Veracruz,Centro,Diego Torres,Piso de venta,BYD,Seal,Eléctrico,780000,54540.39,725459.61,595578.82,129880.79
+716,2024-01-10,Veracruz,Centro,Mariana Flores,Digital,Mazda,CX-5,SUV,610000,11964.81,598035.19,516661.29,81373.9
+717,2025-04-11,Minatitlán,Sur,Pedro García,Referido,BYD,Seal,Eléctrico,780000,44599.59,735400.41,621636.5,113763.91
+718,2024-02-12,Minatitlán,Sur,Valeria Cruz,Digital,Suzuki,Swift,Hatchback,340000,9620.45,330379.55,297013.42,33366.13
+719,2025-06-07,Acayucan,Sur,Sofía Martínez,Referido,BYD,Seal,Eléctrico,780000,30035.8,749964.2,619353.66,130610.54
+720,2024-12-17,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Toyota,Hilux,Pickup,590000,28678.09,561321.91,482104.71,79217.2
+721,2025-07-14,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Hilux,Pickup,590000,32194.26,557805.74,473165.45,84640.29
+722,2024-06-26,Xalapa,Centro,Luis Mendoza,Piso de venta,BYD,Dolphin,Eléctrico,535000,15727.21,519272.79,439135.27,80137.52
+723,2025-07-30,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Toyota,Avanza,SUV,378000,5730.45,372269.55,323204.8,49064.75
+724,2025-08-29,Xalapa,Centro,Camila Reyes,Piso de venta,Toyota,Hilux,Pickup,590000,7778.57,582221.43,490280.31,91941.12
+725,2024-03-06,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Corolla,Sedán,455000,13860.85,441139.15,383137.89,58001.26
+726,2024-11-01,Minatitlán,Sur,Pedro García,Piso de venta,BYD,Dolphin,Eléctrico,535000,37105.64,497894.36,419509.72,78384.64
+727,2025-04-01,Xalapa,Centro,Camila Reyes,Referido,Toyota,Hilux,Pickup,590000,9690.45,580309.55,496771.33,83538.22
+728,2025-08-07,Xalapa,Centro,Luis Mendoza,Flotilla,BYD,Dolphin,Eléctrico,535000,5927.0,529073.0,438146.9,90926.1
+729,2025-06-26,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Hilux,Pickup,590000,8280.62,581719.38,489160.13,92559.25
+730,2024-06-08,Minatitlán,Sur,Pedro García,Piso de venta,Nissan,Versa,Sedán,390000,3645.13,386354.87,344117.85,42237.02
+731,2025-02-27,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Hilux,Pickup,590000,40261.49,549738.51,463079.68,86658.83
+732,2025-02-02,Coatzacoalcos,Sur,Ana López,Referido,Suzuki,Swift,Hatchback,340000,17475.05,322524.95,284147.71,38377.24
+733,2024-11-08,Acayucan,Sur,Carlos Hernández,Flotilla,BYD,Dolphin,Eléctrico,535000,24089.71,510910.29,419774.36,91135.93
+734,2025-06-09,Acayucan,Sur,Sofía Martínez,Flotilla,Mazda,CX-5,SUV,610000,18168.24,591831.76,521678.55,70153.21
+735,2024-04-03,Acayucan,Sur,Carlos Hernández,Piso de venta,BYD,Seal,Eléctrico,780000,5017.49,774982.51,625995.44,148987.07
+736,2024-01-02,Veracruz,Centro,Diego Torres,Flotilla,Toyota,Avanza,SUV,378000,17091.33,360908.67,311296.46,49612.21
+737,2024-02-23,Minatitlán,Sur,Valeria Cruz,Piso de venta,BYD,Dolphin,Eléctrico,535000,29136.66,505863.34,425293.07,80570.27
+738,2025-01-29,Xalapa,Centro,Camila Reyes,Piso de venta,Nissan,Versa,Sedán,390000,23603.15,366396.85,328081.74,38315.11
+739,2025-07-31,Xalapa,Centro,Camila Reyes,Referido,BYD,Seal,Eléctrico,780000,18796.29,761203.71,633022.66,128181.05
+740,2025-04-13,Minatitlán,Sur,Pedro García,Piso de venta,Mazda,CX-5,SUV,610000,30197.08,579802.92,491438.83,88364.09
+741,2024-06-25,Veracruz,Centro,Diego Torres,Flotilla,Mazda,CX-5,SUV,610000,12795.02,597204.98,504346.32,92858.66
+742,2025-03-16,Veracruz,Centro,Mariana Flores,Digital,BYD,Dolphin,Eléctrico,535000,3413.56,531586.44,448583.73,83002.71
+743,2025-05-03,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Avanza,SUV,378000,2371.72,375628.28,335058.75,40569.53
+744,2024-09-04,Xalapa,Centro,Camila Reyes,Piso de venta,Suzuki,Swift,Hatchback,340000,4435.03,335564.97,295698.0,39866.97
+745,2025-05-15,Acayucan,Sur,Sofía Martínez,Referido,BYD,Seal,Eléctrico,780000,29129.27,750870.73,620173.61,130697.12
+746,2025-09-13,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Corolla,Sedán,455000,29770.32,425229.68,381913.73,43315.95
+747,2025-11-30,Veracruz,Centro,Diego Torres,Flotilla,Nissan,Versa,Sedán,390000,5535.5,384464.5,353615.03,30849.47
+748,2024-12-27,Coatzacoalcos,Sur,Ana López,Flotilla,Toyota,Avanza,SUV,378000,25042.41,352957.59,304406.63,48550.96
+749,2025-11-11,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Toyota,Corolla,Sedán,455000,25456.6,429543.4,378529.27,51014.13
+750,2024-02-21,Veracruz,Centro,Mariana Flores,Piso de venta,BYD,Dolphin,Eléctrico,535000,4462.96,530537.04,437655.89,92881.15
+751,2025-03-21,Minatitlán,Sur,Pedro García,Referido,Suzuki,Swift,Hatchback,340000,832.35,339167.65,298749.85,40417.8
+752,2025-11-19,Acayucan,Sur,Carlos Hernández,Piso de venta,Toyota,Corolla,Sedán,455000,25047.17,429952.83,388834.61,41118.22
+753,2024-07-09,Coatzacoalcos,Sur,Ana López,Piso de venta,Nissan,Versa,Sedán,390000,24579.03,365420.97,322660.62,42760.35
+754,2024-02-21,Minatitlán,Sur,Valeria Cruz,Digital,BYD,Dolphin,Eléctrico,535000,27891.1,507108.9,432439.42,74669.48
+755,2024-03-27,Acayucan,Sur,Carlos Hernández,Digital,Suzuki,Swift,Hatchback,340000,1720.11,338279.89,295523.01,42756.88
+756,2025-05-09,Acayucan,Sur,Carlos Hernández,Piso de venta,Toyota,Hilux,Pickup,590000,8747.89,581252.11,487616.31,93635.8
+757,2025-02-19,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Mazda,CX-5,SUV,610000,13535.15,596464.85,510345.38,86119.47
+758,2025-06-16,Coatzacoalcos,Sur,Ana López,Flotilla,Toyota,Avanza,SUV,378000,9707.05,368292.95,321327.29,46965.66
+759,2025-10-08,Acayucan,Sur,Sofía Martínez,Piso de venta,BYD,Seal,Eléctrico,780000,30345.45,749654.55,617709.61,131944.94
+760,2025-09-10,Xalapa,Centro,Camila Reyes,Flotilla,Nissan,Versa,Sedán,390000,20491.51,369508.49,335225.96,34282.53
+761,2025-02-18,Xalapa,Centro,Camila Reyes,Digital,Mazda,CX-5,SUV,610000,30101.83,579898.17,503534.91,76363.26
+762,2025-03-31,Veracruz,Centro,Diego Torres,Digital,Nissan,Versa,Sedán,390000,7895.96,382104.04,351830.18,30273.86
+763,2025-04-07,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,BYD,Seal,Eléctrico,780000,38544.58,741455.42,633560.54,107894.88
+764,2025-10-14,Veracruz,Centro,Mariana Flores,Piso de venta,Mazda,CX-5,SUV,610000,19251.31,590748.69,506625.64,84123.05
+765,2025-08-03,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Hilux,Pickup,590000,33475.48,556524.52,473182.42,83342.1
+766,2025-01-03,Xalapa,Centro,Luis Mendoza,Digital,Nissan,Versa,Sedán,390000,841.39,389158.61,354461.28,34697.33
+767,2024-07-09,Coatzacoalcos,Sur,Jorge Ramírez,Referido,BYD,Dolphin,Eléctrico,535000,10944.54,524055.46,428818.55,95236.91
+768,2025-07-10,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Toyota,Hilux,Pickup,590000,22786.06,567213.94,469004.34,98209.6
+769,2025-11-04,Coatzacoalcos,Sur,Ana López,Referido,Suzuki,Swift,Hatchback,340000,19497.38,320502.62,278118.36,42384.26
+770,2025-12-01,Acayucan,Sur,Sofía Martínez,Flotilla,Toyota,Avanza,SUV,378000,8603.99,369396.01,321519.12,47876.89
+771,2025-11-03,Minatitlán,Sur,Pedro García,Referido,Toyota,Hilux,Pickup,590000,17449.05,572550.95,489640.26,82910.69
+772,2025-02-11,Minatitlán,Sur,Valeria Cruz,Referido,Mazda,CX-5,SUV,610000,4907.59,605092.41,509604.68,95487.73
+773,2025-06-10,Xalapa,Centro,Camila Reyes,Piso de venta,Toyota,Corolla,Sedán,455000,25001.0,429999.0,373381.78,56617.22
+774,2025-04-24,Veracruz,Centro,Mariana Flores,Flotilla,Toyota,Hilux,Pickup,590000,40535.78,549464.22,455933.34,93530.88
+775,2025-12-21,Xalapa,Centro,Camila Reyes,Digital,Nissan,Versa,Sedán,390000,11326.05,378673.95,341436.61,37237.34
+776,2024-01-30,Minatitlán,Sur,Valeria Cruz,Flotilla,Nissan,Versa,Sedán,390000,21553.32,368446.68,326740.59,41706.09
+777,2025-11-06,Veracruz,Centro,Diego Torres,Flotilla,Toyota,Corolla,Sedán,455000,21186.94,433813.06,386897.6,46915.46
+778,2025-08-03,Xalapa,Centro,Camila Reyes,Referido,Mazda,CX-5,SUV,610000,27462.16,582537.84,500573.76,81964.08
+779,2024-09-25,Veracruz,Centro,Diego Torres,Referido,BYD,Seal,Eléctrico,780000,34282.26,745717.74,610862.52,134855.22
+780,2024-12-24,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Hilux,Pickup,590000,23368.18,566631.82,479759.57,86872.25
+781,2025-06-24,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Hilux,Pickup,590000,19279.57,570720.43,474134.02,96586.41
+782,2025-09-16,Minatitlán,Sur,Valeria Cruz,Piso de venta,Suzuki,Swift,Hatchback,340000,13345.78,326654.22,285010.59,41643.63
+783,2024-09-04,Acayucan,Sur,Sofía Martínez,Digital,Toyota,Corolla,Sedán,455000,28737.01,426262.99,379718.16,46544.83
+784,2025-10-16,Xalapa,Centro,Luis Mendoza,Piso de venta,Suzuki,Swift,Hatchback,340000,5364.41,334635.59,294227.06,40408.53
+785,2025-10-24,Minatitlán,Sur,Pedro García,Digital,BYD,Seal,Eléctrico,780000,3668.55,776331.45,641924.78,134406.67
+786,2025-01-20,Acayucan,Sur,Carlos Hernández,Referido,Nissan,Versa,Sedán,390000,24847.97,365152.03,336793.79,28358.24
+787,2024-12-15,Veracruz,Centro,Diego Torres,Digital,BYD,Dolphin,Eléctrico,535000,21089.25,513910.75,422982.7,90928.05
+788,2025-06-23,Xalapa,Centro,Camila Reyes,Piso de venta,BYD,Dolphin,Eléctrico,535000,9326.36,525673.64,452785.23,72888.41
+789,2025-03-30,Minatitlán,Sur,Pedro García,Flotilla,Mazda,CX-5,SUV,610000,20539.6,589460.4,495193.26,94267.14
+790,2024-04-13,Minatitlán,Sur,Pedro García,Referido,Mazda,CX-5,SUV,610000,22239.36,587760.64,518033.92,69726.72
+791,2024-07-21,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,BYD,Seal,Eléctrico,780000,11861.2,768138.8,651583.02,116555.78
+792,2025-04-12,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Hilux,Pickup,590000,2037.72,587962.28,502991.44,84970.84
+793,2025-12-02,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Avanza,SUV,378000,4214.0,373786.0,331941.94,41844.06
+794,2025-07-28,Minatitlán,Sur,Pedro García,Piso de venta,BYD,Dolphin,Eléctrico,535000,20297.44,514702.56,436524.52,78178.04
+795,2024-03-21,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Corolla,Sedán,455000,31361.31,423638.69,365713.0,57925.69
+796,2024-06-02,Coatzacoalcos,Sur,Ana López,Referido,BYD,Seal,Eléctrico,780000,27501.52,752498.48,635092.51,117405.97
+797,2024-08-15,Acayucan,Sur,Carlos Hernández,Referido,BYD,Seal,Eléctrico,780000,7737.47,772262.53,632472.75,139789.78
+798,2025-08-23,Acayucan,Sur,Carlos Hernández,Flotilla,Suzuki,Swift,Hatchback,340000,8889.89,331110.11,299660.23,31449.88
+799,2024-10-15,Acayucan,Sur,Carlos Hernández,Referido,Suzuki,Swift,Hatchback,340000,6575.26,333424.74,292330.14,41094.6
+800,2024-12-02,Minatitlán,Sur,Valeria Cruz,Referido,Toyota,Hilux,Pickup,590000,38835.17,551164.83,461115.89,90048.94
+801,2025-09-18,Minatitlán,Sur,Valeria Cruz,Referido,Toyota,Avanza,SUV,378000,16357.42,361642.58,315630.25,46012.33
+802,2025-05-12,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Toyota,Hilux,Pickup,590000,10772.25,579227.75,484254.87,94972.88
+803,2024-01-24,Veracruz,Centro,Mariana Flores,Flotilla,Nissan,Versa,Sedán,390000,9307.84,380692.16,344665.56,36026.6
+804,2025-02-06,Acayucan,Sur,Carlos Hernández,Piso de venta,BYD,Dolphin,Eléctrico,535000,22403.73,512596.27,440993.89,71602.38
+805,2025-09-26,Acayucan,Sur,Carlos Hernández,Piso de venta,BYD,Dolphin,Eléctrico,535000,34869.4,500130.6,427992.93,72137.67
+806,2025-11-06,Minatitlán,Sur,Pedro García,Referido,Suzuki,Swift,Hatchback,340000,9488.08,330511.92,292776.0,37735.92
+807,2025-01-26,Coatzacoalcos,Sur,Ana López,Digital,BYD,Dolphin,Eléctrico,535000,34953.84,500046.16,426317.67,73728.49
+808,2024-03-14,Minatitlán,Sur,Pedro García,Digital,BYD,Dolphin,Eléctrico,535000,22998.38,512001.62,424022.84,87978.78
+809,2024-06-28,Xalapa,Centro,Camila Reyes,Digital,Suzuki,Swift,Hatchback,340000,16830.67,323169.33,286869.11,36300.22
+810,2025-04-18,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,BYD,Seal,Eléctrico,780000,39203.62,740796.38,632119.51,108676.87
+811,2025-06-26,Veracruz,Centro,Mariana Flores,Flotilla,BYD,Dolphin,Eléctrico,535000,28085.84,506914.16,428900.33,78013.83
+812,2024-06-01,Coatzacoalcos,Sur,Ana López,Referido,Toyota,Hilux,Pickup,590000,31745.06,558254.94,479596.0,78658.94
+813,2025-10-10,Minatitlán,Sur,Valeria Cruz,Piso de venta,Suzuki,Swift,Hatchback,340000,2586.03,337413.97,297209.1,40204.87
+814,2024-11-01,Acayucan,Sur,Sofía Martínez,Flotilla,Toyota,Avanza,SUV,378000,23469.2,354530.8,301334.41,53196.39
+815,2025-02-01,Xalapa,Centro,Luis Mendoza,Referido,Mazda,CX-5,SUV,610000,35505.19,574494.81,505328.02,69166.79
+816,2024-08-07,Coatzacoalcos,Sur,Ana López,Referido,Toyota,Corolla,Sedán,455000,11311.09,443688.91,391279.27,52409.64
+817,2025-03-26,Veracruz,Centro,Diego Torres,Referido,Toyota,Avanza,SUV,378000,12042.31,365957.69,312155.12,53802.57
+818,2024-05-05,Xalapa,Centro,Luis Mendoza,Piso de venta,Nissan,Versa,Sedán,390000,20552.73,369447.27,333238.52,36208.75
+819,2024-02-07,Veracruz,Centro,Mariana Flores,Piso de venta,Toyota,Avanza,SUV,378000,16733.18,361266.82,310157.02,51109.8
+820,2025-01-01,Xalapa,Centro,Luis Mendoza,Referido,Toyota,Hilux,Pickup,590000,34424.26,555575.74,468171.5,87404.24
+821,2024-07-28,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Mazda,CX-5,SUV,610000,35584.69,574415.31,487543.38,86871.93
+822,2025-05-18,Veracruz,Centro,Diego Torres,Flotilla,Toyota,Hilux,Pickup,590000,19348.91,570651.09,476034.78,94616.31
+823,2024-04-21,Veracruz,Centro,Mariana Flores,Referido,Suzuki,Swift,Hatchback,340000,17045.92,322954.08,282740.8,40213.28
+824,2025-10-08,Minatitlán,Sur,Valeria Cruz,Referido,BYD,Seal,Eléctrico,780000,28472.82,751527.18,634588.42,116938.76
+825,2025-08-22,Minatitlán,Sur,Valeria Cruz,Flotilla,BYD,Dolphin,Eléctrico,535000,17419.81,517580.19,439787.08,77793.11
+826,2025-06-24,Veracruz,Centro,Mariana Flores,Piso de venta,BYD,Dolphin,Eléctrico,535000,20810.56,514189.44,430701.0,83488.44
+827,2024-06-16,Acayucan,Sur,Sofía Martínez,Digital,Mazda,CX-5,SUV,610000,6084.36,603915.64,512876.79,91038.85
+828,2025-06-21,Xalapa,Centro,Luis Mendoza,Digital,BYD,Dolphin,Eléctrico,535000,24052.16,510947.84,426611.15,84336.69
+829,2025-10-13,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Corolla,Sedán,455000,1169.36,453830.64,390011.45,63819.19
+830,2024-09-21,Veracruz,Centro,Mariana Flores,Flotilla,Mazda,CX-5,SUV,610000,21137.55,588862.45,501356.88,87505.57
+831,2025-01-01,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Corolla,Sedán,455000,24272.77,430727.23,376195.63,54531.6
+832,2025-11-23,Acayucan,Sur,Carlos Hernández,Flotilla,Suzuki,Swift,Hatchback,340000,14425.64,325574.36,288560.31,37014.05
+833,2024-05-27,Acayucan,Sur,Sofía Martínez,Referido,Toyota,Avanza,SUV,378000,8817.61,369182.39,321435.26,47747.13
+834,2025-04-09,Acayucan,Sur,Sofía Martínez,Piso de venta,BYD,Seal,Eléctrico,780000,33177.37,746822.63,605955.99,140866.64
+835,2025-05-16,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Corolla,Sedán,455000,24830.77,430169.23,369198.26,60970.97
+836,2025-09-17,Minatitlán,Sur,Valeria Cruz,Flotilla,Suzuki,Swift,Hatchback,340000,15333.02,324666.98,283595.24,41071.74
+837,2025-09-18,Veracruz,Centro,Diego Torres,Digital,Suzuki,Swift,Hatchback,340000,18340.0,321660.0,288898.94,32761.06
+838,2024-07-30,Veracruz,Centro,Mariana Flores,Digital,Mazda,CX-5,SUV,610000,34908.33,575091.67,500748.95,74342.72
+839,2024-01-24,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Nissan,Versa,Sedán,390000,25297.26,364702.74,320812.34,43890.4
+840,2024-11-19,Minatitlán,Sur,Pedro García,Digital,Mazda,CX-5,SUV,610000,9046.54,600953.46,507009.62,93943.84
+841,2025-05-16,Xalapa,Centro,Camila Reyes,Flotilla,Toyota,Corolla,Sedán,455000,26082.44,428917.56,376520.99,52396.57
+842,2025-06-19,Xalapa,Centro,Camila Reyes,Flotilla,Toyota,Avanza,SUV,378000,15976.22,362023.78,323422.55,38601.23
+843,2024-02-28,Veracruz,Centro,Diego Torres,Piso de venta,Mazda,CX-5,SUV,610000,14582.46,595417.54,526589.04,68828.5
+844,2025-10-16,Coatzacoalcos,Sur,Ana López,Digital,Mazda,CX-5,SUV,610000,17195.82,592804.18,520566.93,72237.25
+845,2025-11-03,Acayucan,Sur,Carlos Hernández,Piso de venta,Suzuki,Swift,Hatchback,340000,13557.25,326442.75,289905.3,36537.45
+846,2024-08-06,Veracruz,Centro,Diego Torres,Flotilla,BYD,Dolphin,Eléctrico,535000,23764.56,511235.44,424407.86,86827.58
+847,2024-06-13,Minatitlán,Sur,Pedro García,Digital,Toyota,Avanza,SUV,378000,15444.15,362555.85,307033.51,55522.34
+848,2025-12-14,Veracruz,Centro,Diego Torres,Referido,Toyota,Corolla,Sedán,455000,7932.58,447067.42,396240.55,50826.87
+849,2025-12-30,Coatzacoalcos,Sur,Ana López,Flotilla,Toyota,Hilux,Pickup,590000,29165.0,560835.0,484147.57,76687.43
+850,2024-03-09,Veracruz,Centro,Diego Torres,Piso de venta,Nissan,Versa,Sedán,390000,14629.79,375370.21,337146.58,38223.63
+851,2024-02-21,Coatzacoalcos,Sur,Jorge Ramírez,Digital,BYD,Dolphin,Eléctrico,535000,35095.74,499904.26,420886.48,79017.78
+852,2025-11-20,Coatzacoalcos,Sur,Ana López,Referido,BYD,Seal,Eléctrico,780000,49652.02,730347.98,617038.57,113309.41
+853,2024-12-19,Xalapa,Centro,Camila Reyes,Referido,Mazda,CX-5,SUV,610000,33824.37,576175.63,496351.83,79823.8
+854,2024-03-21,Xalapa,Centro,Luis Mendoza,Piso de venta,Suzuki,Swift,Hatchback,340000,3784.35,336215.65,303978.13,32237.52
+855,2024-08-13,Xalapa,Centro,Luis Mendoza,Flotilla,BYD,Dolphin,Eléctrico,535000,6403.89,528596.11,437413.47,91182.64
+856,2024-01-15,Coatzacoalcos,Sur,Ana López,Referido,Suzuki,Swift,Hatchback,340000,2414.89,337585.11,304846.36,32738.75
+857,2024-06-12,Acayucan,Sur,Sofía Martínez,Digital,Toyota,Hilux,Pickup,590000,425.78,589574.22,494593.11,94981.11
+858,2025-10-14,Veracruz,Centro,Diego Torres,Referido,BYD,Seal,Eléctrico,780000,24092.17,755907.83,616842.99,139064.84
+859,2024-05-12,Coatzacoalcos,Sur,Ana López,Flotilla,BYD,Seal,Eléctrico,780000,10544.63,769455.37,648299.4,121155.97
+860,2024-09-02,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Nissan,Versa,Sedán,390000,27198.5,362801.5,323326.41,39475.09
+861,2025-05-30,Minatitlán,Sur,Valeria Cruz,Referido,Toyota,Hilux,Pickup,590000,12588.2,577411.8,485598.59,91813.21
+862,2024-12-27,Xalapa,Centro,Camila Reyes,Digital,Toyota,Hilux,Pickup,590000,17984.33,572015.67,471915.08,100100.59
+863,2024-04-06,Acayucan,Sur,Sofía Martínez,Digital,BYD,Seal,Eléctrico,780000,52157.15,727842.85,588927.29,138915.56
+864,2024-03-26,Coatzacoalcos,Sur,Ana López,Digital,BYD,Dolphin,Eléctrico,535000,8471.15,526528.85,454340.08,72188.77
+865,2025-02-17,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Avanza,SUV,378000,12363.87,365636.13,315257.67,50378.46
+866,2024-12-17,Xalapa,Centro,Camila Reyes,Piso de venta,BYD,Dolphin,Eléctrico,535000,14899.21,520100.79,443194.62,76906.17
+867,2025-02-02,Coatzacoalcos,Sur,Ana López,Piso de venta,BYD,Seal,Eléctrico,780000,44501.37,735498.63,604957.7,130540.93
+868,2025-07-15,Veracruz,Centro,Diego Torres,Referido,BYD,Dolphin,Eléctrico,535000,25711.9,509288.1,419421.78,89866.32
+869,2025-04-25,Veracruz,Centro,Mariana Flores,Digital,Nissan,Versa,Sedán,390000,25329.72,364670.28,328131.53,36538.75
+870,2025-05-13,Acayucan,Sur,Carlos Hernández,Referido,Toyota,Corolla,Sedán,455000,4014.39,450985.61,405520.96,45464.65
+871,2024-03-20,Acayucan,Sur,Sofía Martínez,Digital,Toyota,Avanza,SUV,378000,203.81,377796.19,335795.16,42001.03
+872,2024-03-27,Xalapa,Centro,Luis Mendoza,Referido,Toyota,Corolla,Sedán,455000,30825.88,424174.12,365287.2,58886.92
+873,2024-06-04,Veracruz,Centro,Diego Torres,Flotilla,Toyota,Hilux,Pickup,590000,24872.1,565127.9,488371.67,76756.23
+874,2024-10-28,Coatzacoalcos,Sur,Jorge Ramírez,Referido,BYD,Dolphin,Eléctrico,535000,10942.07,524057.93,442038.04,82019.89
+875,2025-12-25,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Hilux,Pickup,590000,29303.21,560696.79,471890.94,88805.85
+876,2024-09-19,Minatitlán,Sur,Pedro García,Piso de venta,BYD,Seal,Eléctrico,780000,829.96,779170.04,651690.26,127479.78
+877,2024-05-25,Acayucan,Sur,Carlos Hernández,Piso de venta,Toyota,Corolla,Sedán,455000,15904.74,439095.26,396291.24,42804.02
+878,2024-01-19,Acayucan,Sur,Sofía Martínez,Referido,Toyota,Avanza,SUV,378000,7555.57,370444.43,326311.91,44132.52
+879,2025-11-10,Coatzacoalcos,Sur,Jorge Ramírez,Referido,BYD,Seal,Eléctrico,780000,25381.33,754618.67,619714.03,134904.64
+880,2024-09-04,Acayucan,Sur,Sofía Martínez,Digital,BYD,Dolphin,Eléctrico,535000,9.4,534990.6,441475.02,93515.58
+881,2024-04-23,Veracruz,Centro,Mariana Flores,Digital,Suzuki,Swift,Hatchback,340000,18362.07,321637.93,287882.59,33755.34
+882,2024-09-03,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Avanza,SUV,378000,16756.94,361243.06,320933.71,40309.35
+883,2024-07-13,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Mazda,CX-5,SUV,610000,5185.82,604814.18,511768.49,93045.69
+884,2025-02-17,Acayucan,Sur,Carlos Hernández,Digital,Toyota,Corolla,Sedán,455000,8509.05,446490.95,395918.08,50572.87
+885,2024-11-08,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Hilux,Pickup,590000,25682.92,564317.08,471110.68,93206.4
+886,2024-03-09,Veracruz,Centro,Mariana Flores,Flotilla,Toyota,Avanza,SUV,378000,14774.09,363225.91,314059.48,49166.43
+887,2024-08-18,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Toyota,Avanza,SUV,378000,8336.85,369663.15,312411.69,57251.46
+888,2024-01-01,Xalapa,Centro,Camila Reyes,Referido,Toyota,Corolla,Sedán,455000,18640.91,436359.09,373763.23,62595.86
+889,2024-03-29,Acayucan,Sur,Carlos Hernández,Referido,Nissan,Versa,Sedán,390000,26594.12,363405.88,318548.4,44857.48
+890,2025-09-07,Veracruz,Centro,Diego Torres,Digital,Suzuki,Swift,Hatchback,340000,10271.18,329728.82,298411.23,31317.59
+891,2025-05-04,Xalapa,Centro,Camila Reyes,Referido,Suzuki,Swift,Hatchback,340000,15698.98,324301.02,282183.17,42117.85
+892,2025-11-21,Xalapa,Centro,Luis Mendoza,Piso de venta,Nissan,Versa,Sedán,390000,24097.46,365902.54,325941.1,39961.44
+893,2025-04-19,Veracruz,Centro,Mariana Flores,Piso de venta,BYD,Dolphin,Eléctrico,535000,21547.49,513452.51,438242.76,75209.75
+894,2025-05-25,Coatzacoalcos,Sur,Ana López,Piso de venta,Nissan,Versa,Sedán,390000,13079.12,376920.88,336047.13,40873.75
+895,2024-05-23,Coatzacoalcos,Sur,Ana López,Digital,Suzuki,Swift,Hatchback,340000,21157.24,318842.76,288770.03,30072.73
+896,2024-05-06,Veracruz,Centro,Mariana Flores,Digital,Suzuki,Swift,Hatchback,340000,3524.73,336475.27,296494.09,39981.18
+897,2025-04-04,Veracruz,Centro,Diego Torres,Referido,Suzuki,Swift,Hatchback,340000,3881.74,336118.26,291773.56,44344.7
+898,2024-06-26,Xalapa,Centro,Camila Reyes,Referido,Suzuki,Swift,Hatchback,340000,12244.29,327755.71,294676.64,33079.07
+899,2024-12-03,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Toyota,Corolla,Sedán,455000,13861.53,441138.47,383182.91,57955.56
+900,2024-12-20,Minatitlán,Sur,Pedro García,Digital,Toyota,Avanza,SUV,378000,15045.39,362954.61,317794.01,45160.6
+901,2025-05-27,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Corolla,Sedán,455000,30730.0,424270.0,381067.6,43202.4
+902,2025-01-10,Veracruz,Centro,Mariana Flores,Flotilla,Mazda,CX-5,SUV,610000,20229.88,589770.12,505430.08,84340.04
+903,2025-07-22,Acayucan,Sur,Sofía Martínez,Piso de venta,Toyota,Avanza,SUV,378000,4917.44,373082.56,327302.78,45779.78
+904,2024-06-27,Xalapa,Centro,Luis Mendoza,Flotilla,Mazda,CX-5,SUV,610000,30834.07,579165.93,488487.65,90678.28
+905,2025-01-21,Minatitlán,Sur,Valeria Cruz,Referido,Toyota,Avanza,SUV,378000,11293.77,366706.23,316663.18,50043.05
+906,2024-12-29,Acayucan,Sur,Carlos Hernández,Piso de venta,Toyota,Avanza,SUV,378000,14095.48,363904.52,319147.74,44756.78
+907,2024-12-01,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Corolla,Sedán,455000,29847.43,425152.57,364962.33,60190.24
+908,2024-05-22,Veracruz,Centro,Mariana Flores,Flotilla,BYD,Dolphin,Eléctrico,535000,37109.45,497890.55,420005.72,77884.83
+909,2024-11-23,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Avanza,SUV,378000,15370.21,362629.79,322100.86,40528.93
+910,2024-10-29,Acayucan,Sur,Carlos Hernández,Piso de venta,Toyota,Corolla,Sedán,455000,12280.57,442719.43,390659.01,52060.42
+911,2024-06-14,Veracruz,Centro,Mariana Flores,Digital,BYD,Dolphin,Eléctrico,535000,9200.46,525799.54,443994.47,81805.07
+912,2024-03-05,Acayucan,Sur,Carlos Hernández,Digital,Suzuki,Swift,Hatchback,340000,1621.2,338378.8,308410.99,29967.81
+913,2025-11-14,Acayucan,Sur,Sofía Martínez,Digital,Toyota,Corolla,Sedán,455000,16856.78,438143.22,389751.6,48391.62
+914,2025-02-13,Minatitlán,Sur,Pedro García,Digital,Toyota,Hilux,Pickup,590000,8257.76,581742.24,498706.27,83035.97
+915,2024-11-30,Acayucan,Sur,Sofía Martínez,Referido,Toyota,Hilux,Pickup,590000,732.15,589267.85,515027.1,74240.75
+916,2024-01-18,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Mazda,CX-5,SUV,610000,25241.32,584758.68,491858.94,92899.74
+917,2024-06-07,Acayucan,Sur,Carlos Hernández,Referido,Toyota,Avanza,SUV,378000,23755.36,354244.64,307093.59,47151.05
+918,2025-05-08,Acayucan,Sur,Sofía Martínez,Digital,Nissan,Versa,Sedán,390000,18819.3,371180.7,338222.82,32957.88
+919,2025-12-06,Acayucan,Sur,Carlos Hernández,Flotilla,Toyota,Avanza,SUV,378000,20250.85,357749.15,308918.04,48831.11
+920,2025-10-07,Acayucan,Sur,Carlos Hernández,Referido,Toyota,Corolla,Sedán,455000,26938.3,428061.7,368469.86,59591.84
+921,2024-09-26,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Suzuki,Swift,Hatchback,340000,23733.93,316266.07,281661.25,34604.82
+922,2025-03-16,Minatitlán,Sur,Pedro García,Digital,Toyota,Hilux,Pickup,590000,16358.47,573641.53,494389.17,79252.36
+923,2025-05-08,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Hilux,Pickup,590000,5822.54,584177.46,482532.7,101644.76
+924,2024-12-27,Veracruz,Centro,Diego Torres,Digital,Toyota,Corolla,Sedán,455000,20876.85,434123.15,384713.77,49409.38
+925,2024-09-18,Minatitlán,Sur,Valeria Cruz,Piso de venta,Toyota,Avanza,SUV,378000,23494.64,354505.36,300704.7,53800.66
+926,2025-09-04,Acayucan,Sur,Carlos Hernández,Flotilla,Suzuki,Swift,Hatchback,340000,16142.97,323857.03,281324.84,42532.19
+927,2024-03-23,Xalapa,Centro,Camila Reyes,Flotilla,BYD,Seal,Eléctrico,780000,20918.65,759081.35,624454.68,134626.67
+928,2025-11-25,Veracruz,Centro,Mariana Flores,Digital,Toyota,Avanza,SUV,378000,24018.36,353981.64,305954.8,48026.84
+929,2024-05-14,Veracruz,Centro,Diego Torres,Digital,Mazda,CX-5,SUV,610000,12566.47,597433.53,507654.47,89779.06
+930,2025-01-15,Coatzacoalcos,Sur,Ana López,Digital,Toyota,Avanza,SUV,378000,12945.24,365054.76,309841.1,55213.66
+931,2025-01-15,Coatzacoalcos,Sur,Ana López,Referido,Toyota,Avanza,SUV,378000,25370.93,352629.07,300708.53,51920.54
+932,2024-02-09,Veracruz,Centro,Mariana Flores,Piso de venta,Toyota,Corolla,Sedán,455000,14111.26,440888.74,378638.89,62249.85
+933,2025-07-05,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Corolla,Sedán,455000,16536.98,438463.02,377630.96,60832.06
+934,2025-06-11,Veracruz,Centro,Diego Torres,Piso de venta,BYD,Dolphin,Eléctrico,535000,10620.64,524379.36,435771.19,88608.17
+935,2024-03-07,Veracruz,Centro,Mariana Flores,Referido,Toyota,Avanza,SUV,378000,24359.11,353640.89,308989.52,44651.37
+936,2025-02-16,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Toyota,Hilux,Pickup,590000,12381.59,577618.41,504816.78,72801.63
+937,2024-10-30,Veracruz,Centro,Mariana Flores,Flotilla,Suzuki,Swift,Hatchback,340000,19274.06,320725.94,290341.22,30384.72
+938,2025-04-15,Xalapa,Centro,Camila Reyes,Digital,BYD,Dolphin,Eléctrico,535000,23689.43,511310.57,416813.08,94497.49
+939,2025-01-18,Xalapa,Centro,Camila Reyes,Digital,Nissan,Versa,Sedán,390000,10075.79,379924.21,350682.22,29241.99
+940,2025-12-04,Coatzacoalcos,Sur,Jorge Ramírez,Referido,BYD,Seal,Eléctrico,780000,26560.0,753440.0,629675.72,123764.28
+941,2025-01-14,Coatzacoalcos,Sur,Ana López,Piso de venta,Nissan,Versa,Sedán,390000,9602.6,380397.4,336096.12,44301.28
+942,2024-12-11,Xalapa,Centro,Camila Reyes,Flotilla,Mazda,CX-5,SUV,610000,32869.89,577130.11,505199.34,71930.77
+943,2025-02-10,Minatitlán,Sur,Valeria Cruz,Piso de venta,Suzuki,Swift,Hatchback,340000,13702.89,326297.11,283307.31,42989.8
+944,2024-05-13,Minatitlán,Sur,Valeria Cruz,Piso de venta,Suzuki,Swift,Hatchback,340000,382.33,339617.67,303817.88,35799.79
+945,2024-10-11,Veracruz,Centro,Mariana Flores,Piso de venta,Mazda,CX-5,SUV,610000,13183.66,596816.34,511534.36,85281.98
+946,2024-11-27,Veracruz,Centro,Diego Torres,Referido,Nissan,Versa,Sedán,390000,9504.34,380495.66,350476.44,30019.22
+947,2024-12-06,Xalapa,Centro,Camila Reyes,Piso de venta,BYD,Seal,Eléctrico,780000,1791.39,778208.61,660068.43,118140.18
+948,2025-07-31,Veracruz,Centro,Mariana Flores,Referido,Suzuki,Swift,Hatchback,340000,22379.54,317620.46,287156.87,30463.59
+949,2025-04-18,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Toyota,Avanza,SUV,378000,11474.85,366525.15,327781.35,38743.8
+950,2024-10-09,Coatzacoalcos,Sur,Ana López,Digital,Toyota,Avanza,SUV,378000,11613.15,366386.85,326051.67,40335.18
+951,2024-01-25,Veracruz,Centro,Diego Torres,Digital,Suzuki,Swift,Hatchback,340000,1136.04,338863.96,297400.7,41463.26
+952,2025-10-20,Coatzacoalcos,Sur,Ana López,Referido,Toyota,Corolla,Sedán,455000,14403.44,440596.56,391639.67,48956.89
+953,2024-07-19,Xalapa,Centro,Camila Reyes,Referido,Nissan,Versa,Sedán,390000,18734.1,371265.9,333126.14,38139.76
+954,2025-11-09,Coatzacoalcos,Sur,Ana López,Flotilla,Nissan,Versa,Sedán,390000,11440.0,378560.0,341258.4,37301.6
+955,2024-09-07,Acayucan,Sur,Carlos Hernández,Digital,BYD,Dolphin,Eléctrico,535000,23278.41,511721.59,419657.04,92064.55
+956,2025-04-08,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,BYD,Seal,Eléctrico,780000,33856.15,746143.85,634715.92,111427.93
+957,2024-05-02,Coatzacoalcos,Sur,Ana López,Piso de venta,Suzuki,Swift,Hatchback,340000,1336.53,338663.47,308489.87,30173.6
+958,2025-05-23,Xalapa,Centro,Camila Reyes,Piso de venta,Toyota,Hilux,Pickup,590000,8518.89,581481.11,481042.26,100438.85
+959,2025-12-22,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Corolla,Sedán,455000,22345.47,432654.53,380344.68,52309.85
+960,2025-01-30,Minatitlán,Sur,Pedro García,Referido,BYD,Seal,Eléctrico,780000,29629.71,750370.29,629296.13,121074.16
+961,2025-05-09,Minatitlán,Sur,Pedro García,Piso de venta,Suzuki,Swift,Hatchback,340000,9580.38,330419.62,292205.41,38214.21
+962,2024-10-22,Acayucan,Sur,Sofía Martínez,Referido,Suzuki,Swift,Hatchback,340000,269.54,339730.46,301976.83,37753.63
+963,2025-11-16,Coatzacoalcos,Sur,Jorge Ramírez,Referido,BYD,Dolphin,Eléctrico,535000,35634.53,499365.47,420615.56,78749.91
+964,2025-03-22,Minatitlán,Sur,Valeria Cruz,Piso de venta,BYD,Dolphin,Eléctrico,535000,1923.16,533076.84,455197.25,77879.59
+965,2025-05-08,Veracruz,Centro,Diego Torres,Referido,Suzuki,Swift,Hatchback,340000,13380.26,326619.74,288918.83,37700.91
+966,2025-07-30,Xalapa,Centro,Camila Reyes,Flotilla,BYD,Seal,Eléctrico,780000,2389.05,777610.95,654682.54,122928.41
+967,2025-01-14,Veracruz,Centro,Diego Torres,Referido,Toyota,Hilux,Pickup,590000,35473.88,554526.12,474484.54,80041.58
+968,2024-04-05,Coatzacoalcos,Sur,Ana López,Referido,BYD,Seal,Eléctrico,780000,17549.9,762450.1,620068.15,142381.95
+969,2024-07-03,Acayucan,Sur,Sofía Martínez,Flotilla,Suzuki,Swift,Hatchback,340000,14216.41,325783.59,292166.57,33617.02
+970,2024-02-20,Acayucan,Sur,Carlos Hernández,Flotilla,BYD,Dolphin,Eléctrico,535000,26803.2,508196.8,422379.12,85817.68
+971,2024-02-16,Minatitlán,Sur,Pedro García,Flotilla,BYD,Dolphin,Eléctrico,535000,16481.12,518518.88,443707.56,74811.32
+972,2024-06-02,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Suzuki,Swift,Hatchback,340000,20318.47,319681.53,285762.64,33918.89
+973,2024-10-24,Minatitlán,Sur,Valeria Cruz,Flotilla,Toyota,Corolla,Sedán,455000,5191.01,449808.99,397412.61,52396.38
+974,2024-11-18,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,BYD,Seal,Eléctrico,780000,1580.23,778419.77,645250.6,133169.17
+975,2024-05-24,Veracruz,Centro,Mariana Flores,Referido,Mazda,CX-5,SUV,610000,3362.52,606637.48,513264.37,93373.11
+976,2025-05-06,Veracruz,Centro,Diego Torres,Referido,BYD,Dolphin,Eléctrico,535000,13803.65,521196.35,433225.06,87971.29
+977,2024-06-13,Veracruz,Centro,Diego Torres,Piso de venta,Nissan,Versa,Sedán,390000,23650.5,366349.5,325580.86,40768.64
+978,2025-06-15,Xalapa,Centro,Luis Mendoza,Referido,Toyota,Corolla,Sedán,455000,23853.27,431146.73,385389.55,45757.18
+979,2024-05-15,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Corolla,Sedán,455000,12288.12,442711.88,381357.09,61354.79
+980,2025-06-03,Coatzacoalcos,Sur,Jorge Ramírez,Digital,BYD,Dolphin,Eléctrico,535000,10778.16,524221.84,432861.37,91360.47
+981,2024-12-24,Xalapa,Centro,Camila Reyes,Piso de venta,Suzuki,Swift,Hatchback,340000,11492.69,328507.31,296974.31,31533.0
+982,2025-05-06,Acayucan,Sur,Carlos Hernández,Piso de venta,Suzuki,Swift,Hatchback,340000,9631.67,330368.33,291515.87,38852.46
+983,2025-06-19,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Hilux,Pickup,590000,9703.67,580296.33,490564.7,89731.63
+984,2024-03-12,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Hilux,Pickup,590000,1923.5,588076.5,494266.92,93809.58
+985,2025-05-18,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Toyota,Corolla,Sedán,455000,30753.1,424246.9,379084.38,45162.52
+986,2025-12-23,Xalapa,Centro,Luis Mendoza,Flotilla,Toyota,Avanza,SUV,378000,24796.16,353203.84,301889.86,51313.98
+987,2024-05-01,Minatitlán,Sur,Pedro García,Digital,BYD,Seal,Eléctrico,780000,5798.88,774201.12,626869.99,147331.13
+988,2024-04-21,Xalapa,Centro,Camila Reyes,Piso de venta,Nissan,Versa,Sedán,390000,8101.6,381898.4,336342.83,45555.57
+989,2024-06-24,Xalapa,Centro,Camila Reyes,Digital,Toyota,Corolla,Sedán,455000,7845.33,447154.67,401877.19,45277.48
+990,2024-07-24,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Toyota,Avanza,SUV,378000,7360.46,370639.54,329413.24,41226.3
+991,2025-10-04,Veracruz,Centro,Mariana Flores,Referido,Toyota,Avanza,SUV,378000,360.36,377639.64,327107.16,50532.48
+992,2024-09-23,Acayucan,Sur,Carlos Hernández,Flotilla,Nissan,Versa,Sedán,390000,19465.33,370534.67,332849.25,37685.42
+993,2024-10-21,Minatitlán,Sur,Pedro García,Flotilla,Toyota,Avanza,SUV,378000,26075.94,351924.06,301776.93,50147.13
+994,2025-12-05,Veracruz,Centro,Mariana Flores,Referido,BYD,Seal,Eléctrico,780000,21472.7,758527.3,635346.08,123181.22
+995,2025-05-14,Veracruz,Centro,Mariana Flores,Digital,BYD,Seal,Eléctrico,780000,48965.36,731034.64,616218.62,114816.02
+996,2024-11-02,Xalapa,Centro,Luis Mendoza,Flotilla,Suzuki,Swift,Hatchback,340000,4008.72,335991.28,294905.11,41086.17
+997,2025-09-06,Coatzacoalcos,Sur,Jorge Ramírez,Digital,BYD,Dolphin,Eléctrico,535000,32408.92,502591.08,423317.21,79273.87
+998,2025-07-16,Xalapa,Centro,Luis Mendoza,Digital,Suzuki,Swift,Hatchback,340000,21771.86,318228.14,283658.0,34570.14
+999,2025-09-22,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Mazda,CX-5,SUV,610000,29923.05,580076.95,508286.12,71790.83
+1000,2024-09-11,Acayucan,Sur,Sofía Martínez,Piso de venta,Mazda,CX-5,SUV,610000,32297.7,577702.3,483735.78,93966.52
+1001,2024-07-02,Veracruz,Centro,Mariana Flores,Piso de venta,BYD,Seal,Eléctrico,780000,1791.36,778208.64,655723.13,122485.51
+1002,2025-11-28,Minatitlán,Sur,Valeria Cruz,Digital,Nissan,Versa,Sedán,390000,19079.88,370920.12,327289.77,43630.35
+1003,2025-08-16,Coatzacoalcos,Sur,Ana López,Digital,Suzuki,Swift,Hatchback,340000,21737.37,318262.63,282253.94,36008.69
+1004,2024-06-24,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Corolla,Sedán,455000,11534.16,443465.84,388711.46,54754.38
+1005,2025-07-09,Minatitlán,Sur,Pedro García,Piso de venta,Suzuki,Swift,Hatchback,340000,174.58,339825.42,300602.2,39223.22
+1006,2025-07-02,Acayucan,Sur,Carlos Hernández,Digital,Toyota,Avanza,SUV,378000,20232.88,357767.12,304850.3,52916.82
+1007,2025-01-28,Acayucan,Sur,Carlos Hernández,Flotilla,BYD,Seal,Eléctrico,780000,18471.77,761528.23,616746.42,144781.81
+1008,2025-01-30,Minatitlán,Sur,Pedro García,Piso de venta,BYD,Seal,Eléctrico,780000,39998.45,740001.55,607936.96,132064.59
+1009,2025-12-04,Veracruz,Centro,Diego Torres,Digital,Toyota,Hilux,Pickup,590000,13992.27,576007.73,489985.98,86021.75
+1010,2025-10-08,Veracruz,Centro,Mariana Flores,Flotilla,BYD,Seal,Eléctrico,780000,39129.36,740870.64,625258.2,115612.44
+1011,2024-07-13,Acayucan,Sur,Carlos Hernández,Digital,Mazda,CX-5,SUV,610000,35414.16,574585.84,485390.8,89195.04
+1012,2024-04-08,Coatzacoalcos,Sur,Ana López,Referido,Mazda,CX-5,SUV,610000,32390.89,577609.11,501551.93,76057.18
+1013,2025-01-14,Veracruz,Centro,Diego Torres,Digital,BYD,Dolphin,Eléctrico,535000,34047.55,500952.45,423800.75,77151.7
+1014,2025-09-20,Minatitlán,Sur,Pedro García,Piso de venta,Mazda,CX-5,SUV,610000,19172.65,590827.35,501305.46,89521.89
+1015,2024-08-08,Veracruz,Centro,Diego Torres,Referido,BYD,Dolphin,Eléctrico,535000,34827.26,500172.74,432082.61,68090.13
+1016,2025-02-03,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,Toyota,Hilux,Pickup,590000,13007.49,576992.51,483820.94,93171.57
+1017,2024-09-15,Veracruz,Centro,Mariana Flores,Referido,Toyota,Avanza,SUV,378000,13223.08,364776.92,319258.62,45518.3
+1018,2025-05-29,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Avanza,SUV,378000,6359.01,371640.99,331064.68,40576.31
+1019,2024-03-20,Minatitlán,Sur,Pedro García,Digital,Suzuki,Swift,Hatchback,340000,12067.96,327932.04,294149.97,33782.07
+1020,2024-03-19,Minatitlán,Sur,Valeria Cruz,Flotilla,Toyota,Hilux,Pickup,590000,24653.81,565346.19,474296.05,91050.14
+1021,2024-09-29,Veracruz,Centro,Mariana Flores,Referido,BYD,Seal,Eléctrico,780000,4780.1,775219.9,647265.63,127954.27
+1022,2024-02-13,Veracruz,Centro,Mariana Flores,Piso de venta,Toyota,Hilux,Pickup,590000,21491.4,568508.6,485171.74,83336.86
+1023,2025-06-15,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Avanza,SUV,378000,10799.19,367200.81,327504.78,39696.03
+1024,2025-09-17,Acayucan,Sur,Sofía Martínez,Piso de venta,BYD,Dolphin,Eléctrico,535000,19168.04,515831.96,438154.46,77677.5
+1025,2025-10-11,Veracruz,Centro,Mariana Flores,Digital,Nissan,Versa,Sedán,390000,15212.31,374787.69,328437.2,46350.49
+1026,2024-03-09,Coatzacoalcos,Sur,Ana López,Digital,Toyota,Corolla,Sedán,455000,21648.83,433351.17,389847.45,43503.72
+1027,2025-04-21,Acayucan,Sur,Sofía Martínez,Flotilla,BYD,Seal,Eléctrico,780000,49659.83,730340.17,612574.73,117765.44
+1028,2024-06-15,Veracruz,Centro,Mariana Flores,Referido,Toyota,Avanza,SUV,378000,25753.76,352246.24,311482.8,40763.44
+1029,2024-05-28,Xalapa,Centro,Luis Mendoza,Digital,Nissan,Versa,Sedán,390000,22340.31,367659.69,329150.16,38509.53
+1030,2024-02-01,Coatzacoalcos,Sur,Ana López,Flotilla,Nissan,Versa,Sedán,390000,1861.58,388138.42,354936.08,33202.34
+1031,2024-05-20,Acayucan,Sur,Carlos Hernández,Referido,Toyota,Avanza,SUV,378000,18464.9,359535.1,316769.3,42765.8
+1032,2024-04-01,Minatitlán,Sur,Valeria Cruz,Flotilla,BYD,Dolphin,Eléctrico,535000,15269.04,519730.96,438057.65,81673.31
+1033,2024-01-16,Acayucan,Sur,Sofía Martínez,Digital,Suzuki,Swift,Hatchback,340000,10744.54,329255.46,285809.37,43446.09
+1034,2024-07-12,Veracruz,Centro,Mariana Flores,Referido,Suzuki,Swift,Hatchback,340000,16166.98,323833.02,295447.39,28385.63
+1035,2024-02-24,Acayucan,Sur,Sofía Martínez,Piso de venta,BYD,Seal,Eléctrico,780000,34996.66,745003.34,614526.22,130477.12
+1036,2024-05-18,Acayucan,Sur,Sofía Martínez,Flotilla,Toyota,Corolla,Sedán,455000,23155.27,431844.73,382661.28,49183.45
+1037,2024-06-09,Minatitlán,Sur,Valeria Cruz,Digital,Mazda,CX-5,SUV,610000,9163.0,600837.0,520494.53,80342.47
+1038,2024-05-12,Xalapa,Centro,Luis Mendoza,Piso de venta,Suzuki,Swift,Hatchback,340000,19005.38,320994.62,278863.18,42131.44
+1039,2025-09-15,Coatzacoalcos,Sur,Jorge Ramírez,Digital,BYD,Dolphin,Eléctrico,535000,24867.93,510132.07,426476.0,83656.07
+1040,2025-05-02,Acayucan,Sur,Sofía Martínez,Flotilla,Toyota,Hilux,Pickup,590000,39291.67,550708.33,460285.89,90422.44
+1041,2024-11-19,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Hilux,Pickup,590000,20421.51,569578.49,485272.64,84305.85
+1042,2024-09-06,Veracruz,Centro,Diego Torres,Digital,BYD,Dolphin,Eléctrico,535000,28845.24,506154.76,418499.85,87654.91
+1043,2025-07-19,Minatitlán,Sur,Valeria Cruz,Piso de venta,BYD,Seal,Eléctrico,780000,53101.85,726898.15,600858.47,126039.68
+1044,2024-10-27,Coatzacoalcos,Sur,Jorge Ramírez,Digital,BYD,Dolphin,Eléctrico,535000,4942.9,530057.1,445101.45,84955.65
+1045,2024-01-06,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,Mazda,CX-5,SUV,610000,6191.89,603808.11,506218.67,97589.44
+1046,2025-09-14,Acayucan,Sur,Carlos Hernández,Referido,Toyota,Corolla,Sedán,455000,9311.11,445688.89,394465.68,51223.21
+1047,2025-12-29,Acayucan,Sur,Sofía Martínez,Digital,Toyota,Corolla,Sedán,455000,27201.83,427798.17,369576.76,58221.41
+1048,2024-05-08,Coatzacoalcos,Sur,Ana López,Digital,Mazda,CX-5,SUV,610000,39102.91,570897.09,501832.24,69064.85
+1049,2025-11-09,Xalapa,Centro,Luis Mendoza,Flotilla,Toyota,Hilux,Pickup,590000,31191.57,558808.43,471903.51,86904.92
+1050,2024-06-14,Acayucan,Sur,Carlos Hernández,Piso de venta,Toyota,Hilux,Pickup,590000,22232.72,567767.28,476093.52,91673.76
+1051,2024-05-18,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,Toyota,Avanza,SUV,378000,7326.57,370673.43,318676.97,51996.46
+1052,2025-07-04,Xalapa,Centro,Luis Mendoza,Piso de venta,Suzuki,Swift,Hatchback,340000,4684.4,335315.6,304890.32,30425.28
+1053,2025-05-04,Minatitlán,Sur,Valeria Cruz,Digital,Mazda,CX-5,SUV,610000,31418.26,578581.74,507678.12,70903.62
+1054,2024-01-10,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Hilux,Pickup,590000,26770.67,563229.33,482608.58,80620.75
+1055,2024-03-27,Minatitlán,Sur,Pedro García,Digital,Nissan,Versa,Sedán,390000,16873.99,373126.01,330414.2,42711.81
+1056,2024-11-21,Acayucan,Sur,Carlos Hernández,Referido,Mazda,CX-5,SUV,610000,14904.58,595095.42,515984.69,79110.73
+1057,2024-07-15,Veracruz,Centro,Mariana Flores,Digital,BYD,Dolphin,Eléctrico,535000,12783.08,522216.92,445665.22,76551.7
+1058,2025-09-04,Veracruz,Centro,Mariana Flores,Referido,Mazda,CX-5,SUV,610000,38538.0,571462.0,482389.67,89072.33
+1059,2025-08-31,Coatzacoalcos,Sur,Ana López,Flotilla,Toyota,Avanza,SUV,378000,4926.01,373073.99,323096.47,49977.52
+1060,2024-06-13,Veracruz,Centro,Diego Torres,Referido,Toyota,Corolla,Sedán,455000,13576.81,441423.19,389239.53,52183.66
+1061,2024-05-10,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Toyota,Corolla,Sedán,455000,27243.97,427756.03,371986.78,55769.25
+1062,2025-08-05,Veracruz,Centro,Mariana Flores,Digital,BYD,Seal,Eléctrico,780000,1161.79,778838.21,656532.53,122305.68
+1063,2025-06-17,Veracruz,Centro,Diego Torres,Digital,BYD,Dolphin,Eléctrico,535000,20617.91,514382.09,443343.16,71038.93
+1064,2024-11-09,Veracruz,Centro,Mariana Flores,Referido,Nissan,Versa,Sedán,390000,12337.27,377662.73,332958.97,44703.76
+1065,2025-09-26,Minatitlán,Sur,Valeria Cruz,Piso de venta,BYD,Dolphin,Eléctrico,535000,3040.8,531959.2,455402.96,76556.24
+1066,2024-02-09,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Toyota,Avanza,SUV,378000,13970.83,364029.17,318711.1,45318.07
+1067,2024-04-07,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Toyota,Corolla,Sedán,455000,4941.72,450058.28,388467.17,61591.11
+1068,2025-01-17,Xalapa,Centro,Luis Mendoza,Flotilla,Toyota,Hilux,Pickup,590000,9750.47,580249.53,501216.06,79033.47
+1069,2025-12-25,Coatzacoalcos,Sur,Ana López,Digital,Toyota,Hilux,Pickup,590000,22291.09,567708.91,490191.21,77517.7
+1070,2025-12-19,Xalapa,Centro,Camila Reyes,Piso de venta,Mazda,CX-5,SUV,610000,35470.32,574529.68,497560.45,76969.23
+1071,2024-02-07,Minatitlán,Sur,Pedro García,Referido,Toyota,Corolla,Sedán,455000,4815.62,450184.38,400960.37,49224.01
+1072,2025-03-27,Acayucan,Sur,Sofía Martínez,Referido,Toyota,Hilux,Pickup,590000,30926.44,559073.56,481565.11,77508.45
+1073,2024-01-04,Veracruz,Centro,Mariana Flores,Referido,Suzuki,Swift,Hatchback,340000,12704.14,327295.86,297629.77,29666.09
+1074,2025-04-26,Coatzacoalcos,Sur,Ana López,Piso de venta,BYD,Seal,Eléctrico,780000,53028.42,726971.58,621443.22,105528.36
+1075,2024-12-29,Coatzacoalcos,Sur,Ana López,Flotilla,BYD,Seal,Eléctrico,780000,1263.77,778736.23,627433.15,151303.08
+1076,2024-02-08,Acayucan,Sur,Sofía Martínez,Piso de venta,BYD,Seal,Eléctrico,780000,21304.46,758695.54,640816.39,117879.15
+1077,2025-12-20,Minatitlán,Sur,Pedro García,Piso de venta,BYD,Seal,Eléctrico,780000,5996.43,774003.57,660400.6,113602.97
+1078,2025-03-23,Acayucan,Sur,Sofía Martínez,Piso de venta,Nissan,Versa,Sedán,390000,20906.03,369093.97,330916.28,38177.69
+1079,2024-11-09,Veracruz,Centro,Mariana Flores,Referido,Suzuki,Swift,Hatchback,340000,2971.65,337028.35,303885.22,33143.13
+1080,2025-09-20,Xalapa,Centro,Luis Mendoza,Referido,Toyota,Hilux,Pickup,590000,13379.06,576620.94,490960.84,85660.1
+1081,2025-05-16,Xalapa,Centro,Camila Reyes,Referido,Toyota,Hilux,Pickup,590000,13104.7,576895.3,498218.58,78676.72
+1082,2024-07-05,Acayucan,Sur,Sofía Martínez,Piso de venta,Nissan,Versa,Sedán,390000,11809.57,378190.43,331210.43,46980.0
+1083,2024-02-26,Acayucan,Sur,Carlos Hernández,Piso de venta,BYD,Seal,Eléctrico,780000,34985.25,745014.75,631440.1,113574.65
+1084,2024-05-06,Xalapa,Centro,Luis Mendoza,Referido,Suzuki,Swift,Hatchback,340000,8347.39,331652.61,302284.63,29367.98
+1085,2024-05-15,Xalapa,Centro,Camila Reyes,Flotilla,Mazda,CX-5,SUV,610000,11508.11,598491.89,505173.78,93318.11
+1086,2024-04-25,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Toyota,Hilux,Pickup,590000,620.37,589379.63,487450.71,101928.92
+1087,2024-08-07,Acayucan,Sur,Carlos Hernández,Flotilla,Suzuki,Swift,Hatchback,340000,5314.05,334685.95,294660.9,40025.05
+1088,2025-05-10,Acayucan,Sur,Sofía Martínez,Flotilla,Toyota,Hilux,Pickup,590000,26213.1,563786.9,476607.54,87179.36
+1089,2024-11-04,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Hilux,Pickup,590000,17368.64,572631.36,497370.96,75260.4
+1090,2024-01-21,Acayucan,Sur,Carlos Hernández,Flotilla,Toyota,Corolla,Sedán,455000,30612.67,424387.33,363893.2,60494.13
+1091,2024-11-19,Acayucan,Sur,Sofía Martínez,Piso de venta,Mazda,CX-5,SUV,610000,14656.83,595343.17,520512.87,74830.3
+1092,2024-02-19,Coatzacoalcos,Sur,Ana López,Flotilla,Toyota,Avanza,SUV,378000,19025.64,358974.36,306385.2,52589.16
+1093,2025-04-26,Veracruz,Centro,Diego Torres,Referido,Toyota,Hilux,Pickup,590000,9490.25,580509.75,504612.35,75897.4
+1094,2024-03-16,Veracruz,Centro,Mariana Flores,Referido,Toyota,Hilux,Pickup,590000,29938.4,560061.6,472255.09,87806.51
+1095,2025-05-31,Veracruz,Centro,Mariana Flores,Digital,Toyota,Hilux,Pickup,590000,2129.12,587870.88,490181.75,97689.13
+1096,2024-12-06,Veracruz,Centro,Diego Torres,Flotilla,BYD,Dolphin,Eléctrico,535000,12412.29,522587.71,429740.91,92846.8
+1097,2024-09-22,Coatzacoalcos,Sur,Ana López,Referido,BYD,Dolphin,Eléctrico,535000,12244.34,522755.66,444800.99,77954.67
+1098,2024-05-26,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,BYD,Dolphin,Eléctrico,535000,19608.45,515391.55,432776.59,82614.96
+1099,2025-04-23,Veracruz,Centro,Mariana Flores,Digital,Nissan,Versa,Sedán,390000,19234.16,370765.84,324644.31,46121.53
+1100,2024-01-23,Acayucan,Sur,Carlos Hernández,Digital,Toyota,Corolla,Sedán,455000,27727.18,427272.82,377422.63,49850.19
+1101,2025-01-16,Veracruz,Centro,Diego Torres,Piso de venta,Suzuki,Swift,Hatchback,340000,15956.65,324043.35,290960.2,33083.15
+1102,2025-06-29,Acayucan,Sur,Carlos Hernández,Digital,Mazda,CX-5,SUV,610000,27615.05,582384.95,504838.6,77546.35
+1103,2025-05-08,Veracruz,Centro,Mariana Flores,Flotilla,Toyota,Corolla,Sedán,455000,2733.52,452266.48,401220.21,51046.27
+1104,2025-10-09,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Suzuki,Swift,Hatchback,340000,16565.52,323434.48,280339.75,43094.73
+1105,2025-09-09,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Avanza,SUV,378000,12557.47,365442.53,315545.01,49897.52
+1106,2025-04-06,Acayucan,Sur,Sofía Martínez,Referido,Toyota,Hilux,Pickup,590000,4541.2,585458.8,493894.47,91564.33
+1107,2025-08-16,Minatitlán,Sur,Pedro García,Digital,Suzuki,Swift,Hatchback,340000,20093.65,319906.35,288021.26,31885.09
+1108,2024-11-01,Coatzacoalcos,Sur,Ana López,Flotilla,Toyota,Hilux,Pickup,590000,8080.4,581919.6,502194.32,79725.28
+1109,2025-08-13,Acayucan,Sur,Carlos Hernández,Piso de venta,Toyota,Corolla,Sedán,455000,10561.38,444438.62,382767.93,61670.69
+1110,2024-07-24,Minatitlán,Sur,Pedro García,Digital,BYD,Dolphin,Eléctrico,535000,15046.66,519953.34,436980.46,82972.88
+1111,2024-01-26,Coatzacoalcos,Sur,Ana López,Piso de venta,Mazda,CX-5,SUV,610000,6157.25,603842.75,530320.18,73522.57
+1112,2024-11-19,Xalapa,Centro,Luis Mendoza,Digital,Suzuki,Swift,Hatchback,340000,21549.97,318450.03,275914.43,42535.6
+1113,2024-06-14,Coatzacoalcos,Sur,Ana López,Piso de venta,Nissan,Versa,Sedán,390000,7542.79,382457.21,343729.4,38727.81
+1114,2025-10-01,Acayucan,Sur,Carlos Hernández,Flotilla,BYD,Seal,Eléctrico,780000,9101.89,770898.11,642900.96,127997.15
+1115,2025-01-12,Minatitlán,Sur,Pedro García,Digital,Mazda,CX-5,SUV,610000,304.96,609695.04,515413.67,94281.37
+1116,2024-05-28,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Toyota,Avanza,SUV,378000,9032.06,368967.94,327195.25,41772.69
+1117,2024-12-07,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Avanza,SUV,378000,18789.51,359210.49,321299.06,37911.43
+1118,2024-10-17,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Corolla,Sedán,455000,17513.48,437486.52,375932.99,61553.53
+1119,2024-08-31,Acayucan,Sur,Sofía Martínez,Flotilla,BYD,Seal,Eléctrico,780000,53810.68,726189.32,612803.25,113386.07
+1120,2024-06-16,Acayucan,Sur,Carlos Hernández,Referido,Toyota,Corolla,Sedán,455000,3818.38,451181.62,394723.31,56458.31
+1121,2025-04-26,Minatitlán,Sur,Valeria Cruz,Flotilla,Mazda,CX-5,SUV,610000,933.35,609066.65,514988.24,94078.41
+1122,2024-03-01,Veracruz,Centro,Mariana Flores,Piso de venta,Suzuki,Swift,Hatchback,340000,21813.08,318186.92,281872.51,36314.41
+1123,2025-03-02,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Mazda,CX-5,SUV,610000,35996.01,574003.99,506140.72,67863.27
+1124,2024-01-13,Coatzacoalcos,Sur,Ana López,Referido,Toyota,Avanza,SUV,378000,11827.21,366172.79,319918.55,46254.24
+1125,2025-02-03,Xalapa,Centro,Luis Mendoza,Flotilla,Toyota,Avanza,SUV,378000,7276.03,370723.97,320330.08,50393.89
+1126,2025-12-26,Minatitlán,Sur,Pedro García,Piso de venta,BYD,Dolphin,Eléctrico,535000,18187.44,516812.56,431486.06,85326.5
+1127,2024-11-10,Xalapa,Centro,Camila Reyes,Referido,Toyota,Avanza,SUV,378000,18597.86,359402.14,320009.42,39392.72
+1128,2024-08-21,Xalapa,Centro,Camila Reyes,Referido,Mazda,CX-5,SUV,610000,3455.25,606544.75,514297.8,92246.95
+1129,2024-04-15,Veracruz,Centro,Diego Torres,Piso de venta,BYD,Dolphin,Eléctrico,535000,36129.18,498870.82,417792.85,81077.97
+1130,2025-03-14,Acayucan,Sur,Carlos Hernández,Flotilla,Suzuki,Swift,Hatchback,340000,22869.6,317130.4,284772.83,32357.57
+1131,2024-01-04,Minatitlán,Sur,Pedro García,Referido,Toyota,Avanza,SUV,378000,20541.06,357458.94,308436.54,49022.4
+1132,2025-04-14,Xalapa,Centro,Camila Reyes,Flotilla,Toyota,Hilux,Pickup,590000,16645.02,573354.98,476004.97,97350.01
+1133,2025-03-04,Acayucan,Sur,Sofía Martínez,Piso de venta,Toyota,Hilux,Pickup,590000,6028.59,583971.41,506627.37,77344.04
+1134,2025-12-03,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Hilux,Pickup,590000,16482.2,573517.8,488800.47,84717.33
+1135,2024-10-01,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Mazda,CX-5,SUV,610000,38421.64,571578.36,501260.64,70317.72
+1136,2025-03-08,Minatitlán,Sur,Valeria Cruz,Referido,Toyota,Hilux,Pickup,590000,21916.53,568083.47,482504.13,85579.34
+1137,2025-05-23,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Suzuki,Swift,Hatchback,340000,23258.69,316741.31,278803.17,37938.14
+1138,2025-05-02,Minatitlán,Sur,Pedro García,Piso de venta,BYD,Dolphin,Eléctrico,535000,1091.15,533908.85,442012.38,91896.47
+1139,2025-12-10,Veracruz,Centro,Diego Torres,Flotilla,Nissan,Versa,Sedán,390000,18576.39,371423.61,330081.23,41342.38
+1140,2024-03-21,Xalapa,Centro,Luis Mendoza,Flotilla,Toyota,Corolla,Sedán,455000,8714.76,446285.24,394215.49,52069.75
+1141,2025-10-02,Acayucan,Sur,Carlos Hernández,Digital,Toyota,Hilux,Pickup,590000,7006.59,582993.41,489398.63,93594.78
+1142,2025-05-26,Minatitlán,Sur,Pedro García,Piso de venta,Suzuki,Swift,Hatchback,340000,5576.05,334423.95,301808.83,32615.12
+1143,2024-04-17,Acayucan,Sur,Sofía Martínez,Referido,BYD,Seal,Eléctrico,780000,41987.35,738012.65,620702.82,117309.83
+1144,2024-01-22,Minatitlán,Sur,Pedro García,Referido,Mazda,CX-5,SUV,610000,1183.48,608816.52,529413.7,79402.82
+1145,2025-02-28,Minatitlán,Sur,Valeria Cruz,Digital,Mazda,CX-5,SUV,610000,18528.89,591471.11,516101.54,75369.57
+1146,2024-09-09,Minatitlán,Sur,Pedro García,Flotilla,Toyota,Hilux,Pickup,590000,3448.81,586551.19,485652.5,100898.69
+1147,2024-06-05,Coatzacoalcos,Sur,Ana López,Piso de venta,Suzuki,Swift,Hatchback,340000,23558.72,316441.28,289129.95,27311.33
+1148,2024-05-22,Veracruz,Centro,Mariana Flores,Flotilla,BYD,Dolphin,Eléctrico,535000,8554.66,526445.34,429442.92,97002.42
+1149,2025-09-04,Xalapa,Centro,Camila Reyes,Digital,Toyota,Avanza,SUV,378000,7649.32,370350.68,329840.63,40510.05
+1150,2024-10-09,Acayucan,Sur,Carlos Hernández,Referido,BYD,Seal,Eléctrico,780000,9017.8,770982.2,654654.94,116327.26
+1151,2024-03-01,Veracruz,Centro,Mariana Flores,Flotilla,Toyota,Avanza,SUV,378000,8867.0,369133.0,313249.51,55883.49
+1152,2024-08-28,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Avanza,SUV,378000,19605.14,358394.86,303373.31,55021.55
+1153,2024-06-28,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Hilux,Pickup,590000,5143.09,584856.91,499495.18,85361.73
+1154,2025-04-28,Acayucan,Sur,Carlos Hernández,Piso de venta,Toyota,Corolla,Sedán,455000,3837.16,451162.84,390149.83,61013.01
+1155,2024-01-03,Veracruz,Centro,Mariana Flores,Piso de venta,Nissan,Versa,Sedán,390000,18094.36,371905.64,342010.66,29894.98
+1156,2025-08-19,Acayucan,Sur,Sofía Martínez,Piso de venta,Mazda,CX-5,SUV,610000,6272.53,603727.47,530212.94,73514.53
+1157,2024-07-19,Minatitlán,Sur,Valeria Cruz,Digital,Nissan,Versa,Sedán,390000,23607.12,366392.88,323270.62,43122.26
+1158,2025-04-04,Acayucan,Sur,Carlos Hernández,Referido,Toyota,Hilux,Pickup,590000,9137.98,580862.02,502617.03,78244.99
+1159,2025-11-01,Veracruz,Centro,Mariana Flores,Digital,Toyota,Corolla,Sedán,455000,11074.96,443925.04,388439.23,55485.81
+1160,2025-02-28,Xalapa,Centro,Camila Reyes,Flotilla,BYD,Seal,Eléctrico,780000,38954.05,741045.95,614993.48,126052.47
+1161,2025-05-23,Veracruz,Centro,Diego Torres,Referido,Mazda,CX-5,SUV,610000,19399.24,590600.76,496161.68,94439.08
+1162,2025-09-20,Acayucan,Sur,Carlos Hernández,Piso de venta,Nissan,Versa,Sedán,390000,21689.87,368310.13,330594.59,37715.54
+1163,2024-03-28,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Mazda,CX-5,SUV,610000,17566.52,592433.48,518956.14,73477.34
+1164,2025-12-12,Xalapa,Centro,Camila Reyes,Piso de venta,Mazda,CX-5,SUV,610000,20416.54,589583.46,510167.01,79416.45
+1165,2024-04-15,Veracruz,Centro,Mariana Flores,Referido,BYD,Seal,Eléctrico,780000,35680.61,744319.39,623605.56,120713.83
+1166,2024-03-25,Acayucan,Sur,Carlos Hernández,Flotilla,Toyota,Hilux,Pickup,590000,26350.43,563649.57,485878.7,77770.87
+1167,2024-10-26,Acayucan,Sur,Carlos Hernández,Digital,Toyota,Avanza,SUV,378000,3817.3,374182.7,331324.92,42857.78
+1168,2024-11-13,Minatitlán,Sur,Pedro García,Flotilla,Toyota,Avanza,SUV,378000,10546.58,367453.42,316364.18,51089.24
+1169,2025-08-30,Xalapa,Centro,Camila Reyes,Piso de venta,BYD,Seal,Eléctrico,780000,44727.67,735272.33,593152.45,142119.88
+1170,2024-04-06,Acayucan,Sur,Carlos Hernández,Flotilla,Toyota,Corolla,Sedán,455000,20365.3,434634.7,372317.63,62317.07
+1171,2025-07-10,Xalapa,Centro,Camila Reyes,Piso de venta,BYD,Dolphin,Eléctrico,535000,26139.48,508860.52,421364.72,87495.8
+1172,2024-01-14,Minatitlán,Sur,Valeria Cruz,Referido,Toyota,Hilux,Pickup,590000,28274.77,561725.23,464581.7,97143.53
+1173,2024-06-26,Xalapa,Centro,Luis Mendoza,Flotilla,BYD,Dolphin,Eléctrico,535000,34954.3,500045.7,428045.4,72000.3
+1174,2025-09-27,Coatzacoalcos,Sur,Ana López,Digital,Nissan,Versa,Sedán,390000,21244.49,368755.51,326137.7,42617.81
+1175,2025-10-10,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,BYD,Dolphin,Eléctrico,535000,16122.93,518877.07,442415.57,76461.5
+1176,2025-01-11,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Toyota,Hilux,Pickup,590000,9061.48,580938.52,498859.38,82079.14
+1177,2025-04-16,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Nissan,Versa,Sedán,390000,11313.05,378686.95,343640.36,35046.59
+1178,2025-12-21,Minatitlán,Sur,Valeria Cruz,Referido,Mazda,CX-5,SUV,610000,1978.42,608021.58,510988.47,97033.11
+1179,2025-09-03,Acayucan,Sur,Carlos Hernández,Referido,Toyota,Corolla,Sedán,455000,31544.6,423455.4,364282.93,59172.47
+1180,2024-04-14,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Hilux,Pickup,590000,6151.05,583848.95,489402.48,94446.47
+1181,2024-11-17,Coatzacoalcos,Sur,Ana López,Piso de venta,BYD,Seal,Eléctrico,780000,47.46,779952.54,643824.08,136128.46
+1182,2024-09-13,Minatitlán,Sur,Valeria Cruz,Referido,Toyota,Hilux,Pickup,590000,6907.95,583092.05,488840.18,94251.87
+1183,2025-12-14,Acayucan,Sur,Sofía Martínez,Referido,BYD,Seal,Eléctrico,780000,8386.75,771613.25,650138.26,121474.99
+1184,2024-10-04,Veracruz,Centro,Diego Torres,Flotilla,Suzuki,Swift,Hatchback,340000,23486.12,316513.88,278871.37,37642.51
+1185,2024-10-30,Veracruz,Centro,Diego Torres,Piso de venta,BYD,Dolphin,Eléctrico,535000,30989.83,504010.17,418659.91,85350.26
+1186,2024-12-25,Coatzacoalcos,Sur,Ana López,Referido,Nissan,Versa,Sedán,390000,9236.32,380763.68,342291.88,38471.8
+1187,2024-01-19,Minatitlán,Sur,Pedro García,Flotilla,Nissan,Versa,Sedán,390000,6099.01,383900.99,339072.84,44828.15
+1188,2025-06-18,Coatzacoalcos,Sur,Ana López,Digital,Suzuki,Swift,Hatchback,340000,18419.96,321580.04,281284.71,40295.33
+1189,2025-10-31,Xalapa,Centro,Camila Reyes,Piso de venta,Toyota,Corolla,Sedán,455000,12195.83,442804.17,395498.73,47305.44
+1190,2025-02-23,Coatzacoalcos,Sur,Jorge Ramírez,Referido,BYD,Seal,Eléctrico,780000,12989.33,767010.67,632953.3,134057.37
+1191,2025-10-26,Minatitlán,Sur,Pedro García,Flotilla,BYD,Seal,Eléctrico,780000,44938.54,735061.46,619248.97,115812.49
+1192,2024-06-23,Coatzacoalcos,Sur,Ana López,Flotilla,Toyota,Hilux,Pickup,590000,12533.3,577466.7,489340.14,88126.56
+1193,2024-05-29,Minatitlán,Sur,Pedro García,Referido,BYD,Seal,Eléctrico,780000,34667.95,745332.05,624571.24,120760.81
+1194,2025-05-01,Acayucan,Sur,Carlos Hernández,Referido,Toyota,Avanza,SUV,378000,7229.52,370770.48,323274.95,47495.53
+1195,2025-12-25,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Toyota,Hilux,Pickup,590000,38554.86,551445.14,469733.79,81711.35
+1196,2024-08-21,Coatzacoalcos,Sur,Ana López,Flotilla,Toyota,Avanza,SUV,378000,6839.2,371160.8,319717.18,51443.62
+1197,2025-02-10,Xalapa,Centro,Camila Reyes,Piso de venta,Suzuki,Swift,Hatchback,340000,493.43,339506.57,295863.78,43642.79
+1198,2025-06-27,Veracruz,Centro,Mariana Flores,Referido,BYD,Seal,Eléctrico,780000,34462.63,745537.37,636424.18,109113.19
+1199,2025-02-10,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Corolla,Sedán,455000,16737.37,438262.63,379458.1,58804.53
+1200,2025-03-09,Acayucan,Sur,Carlos Hernández,Flotilla,Mazda,CX-5,SUV,610000,40890.51,569109.49,480855.23,88254.26
+1201,2025-02-23,Acayucan,Sur,Sofía Martínez,Referido,Toyota,Avanza,SUV,378000,2808.38,375191.62,334784.57,40407.05
+1202,2025-09-14,Veracruz,Centro,Diego Torres,Digital,Toyota,Hilux,Pickup,590000,11195.14,578804.86,486437.18,92367.68
+1203,2024-03-11,Acayucan,Sur,Sofía Martínez,Flotilla,Nissan,Versa,Sedán,390000,24619.03,365380.97,334181.43,31199.54
+1204,2025-11-05,Xalapa,Centro,Luis Mendoza,Piso de venta,BYD,Dolphin,Eléctrico,535000,23492.84,511507.16,419767.33,91739.83
+1205,2024-12-11,Acayucan,Sur,Carlos Hernández,Piso de venta,BYD,Seal,Eléctrico,780000,41926.84,738073.16,618979.08,119094.08
+1206,2024-03-15,Xalapa,Centro,Camila Reyes,Digital,Toyota,Hilux,Pickup,590000,31643.46,558356.54,466740.9,91615.64
+1207,2024-02-19,Xalapa,Centro,Luis Mendoza,Referido,Mazda,CX-5,SUV,610000,15060.95,594939.05,515806.25,79132.8
+1208,2024-05-07,Coatzacoalcos,Sur,Ana López,Referido,Toyota,Corolla,Sedán,455000,6268.02,448731.98,392659.91,56072.07
+1209,2025-04-23,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Corolla,Sedán,455000,8900.68,446099.32,389488.68,56610.64
+1210,2024-01-22,Acayucan,Sur,Carlos Hernández,Piso de venta,Suzuki,Swift,Hatchback,340000,16745.83,323254.17,282192.25,41061.92
+1211,2025-07-22,Xalapa,Centro,Camila Reyes,Referido,BYD,Dolphin,Eléctrico,535000,20057.7,514942.3,433911.42,81030.88
+1212,2025-08-03,Veracruz,Centro,Mariana Flores,Flotilla,Suzuki,Swift,Hatchback,340000,12107.8,327892.2,288873.85,39018.35
+1213,2025-10-06,Xalapa,Centro,Camila Reyes,Piso de venta,Mazda,CX-5,SUV,610000,5236.87,604763.13,507759.28,97003.85
+1214,2025-05-08,Minatitlán,Sur,Valeria Cruz,Referido,Suzuki,Swift,Hatchback,340000,20387.16,319612.84,290282.25,29330.59
+1215,2025-10-06,Veracruz,Centro,Mariana Flores,Digital,Toyota,Corolla,Sedán,455000,5518.53,449481.47,403901.19,45580.28
+1216,2025-04-08,Acayucan,Sur,Carlos Hernández,Referido,Mazda,CX-5,SUV,610000,23103.44,586896.56,508463.85,78432.71
+1217,2024-01-07,Acayucan,Sur,Sofía Martínez,Flotilla,Toyota,Avanza,SUV,378000,20096.43,357903.57,307040.21,50863.36
+1218,2025-10-29,Minatitlán,Sur,Pedro García,Referido,BYD,Dolphin,Eléctrico,535000,28509.34,506490.66,419473.3,87017.36
+1219,2024-01-21,Veracruz,Centro,Mariana Flores,Referido,Nissan,Versa,Sedán,390000,7009.26,382990.74,337255.21,45735.53
+1220,2025-06-05,Xalapa,Centro,Camila Reyes,Digital,BYD,Seal,Eléctrico,780000,20953.6,759046.4,627054.57,131991.83
+1221,2024-10-13,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Corolla,Sedán,455000,19190.81,435809.19,390744.7,45064.49
+1222,2025-01-22,Acayucan,Sur,Sofía Martínez,Flotilla,Toyota,Hilux,Pickup,590000,19119.64,570880.36,493862.72,77017.64
+1223,2024-05-13,Veracruz,Centro,Diego Torres,Digital,Toyota,Avanza,SUV,378000,1649.69,376350.31,320093.96,56256.35
+1224,2024-12-22,Veracruz,Centro,Mariana Flores,Digital,Toyota,Corolla,Sedán,455000,1012.76,453987.24,398406.37,55580.87
+1225,2024-02-02,Xalapa,Centro,Luis Mendoza,Flotilla,Nissan,Versa,Sedán,390000,16225.61,373774.39,331751.77,42022.62
+1226,2024-12-11,Minatitlán,Sur,Valeria Cruz,Flotilla,Mazda,CX-5,SUV,610000,9316.85,600683.15,510103.49,90579.66
+1227,2025-11-24,Xalapa,Centro,Luis Mendoza,Digital,Nissan,Versa,Sedán,390000,20849.88,369150.12,323189.58,45960.54
+1228,2024-02-18,Veracruz,Centro,Mariana Flores,Digital,Suzuki,Swift,Hatchback,340000,18693.46,321306.54,293175.87,28130.67
+1229,2024-04-30,Xalapa,Centro,Camila Reyes,Flotilla,Toyota,Hilux,Pickup,590000,16729.72,573270.28,474191.3,99078.98
+1230,2025-03-26,Xalapa,Centro,Camila Reyes,Digital,Toyota,Corolla,Sedán,455000,5704.13,449295.87,406143.04,43152.83
+1231,2025-09-05,Acayucan,Sur,Carlos Hernández,Piso de venta,Toyota,Hilux,Pickup,590000,4868.58,585131.42,504328.74,80802.68
+1232,2024-03-02,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,BYD,Dolphin,Eléctrico,535000,27242.48,507757.52,433793.9,73963.62
+1233,2024-12-25,Xalapa,Centro,Camila Reyes,Piso de venta,Mazda,CX-5,SUV,610000,3688.32,606311.68,512691.96,93619.72
+1234,2025-02-10,Coatzacoalcos,Sur,Jorge Ramírez,Referido,BYD,Seal,Eléctrico,780000,33597.56,746402.44,625127.02,121275.42
+1235,2025-07-23,Minatitlán,Sur,Pedro García,Referido,Mazda,CX-5,SUV,610000,20542.53,589457.47,517469.27,71988.2
+1236,2024-11-09,Minatitlán,Sur,Pedro García,Digital,BYD,Dolphin,Eléctrico,535000,10316.1,524683.9,451619.19,73064.71
+1237,2025-04-06,Xalapa,Centro,Luis Mendoza,Flotilla,Toyota,Avanza,SUV,378000,4986.37,373013.63,317424.29,55589.34
+1238,2024-04-24,Xalapa,Centro,Camila Reyes,Piso de venta,Nissan,Versa,Sedán,390000,15781.74,374218.26,343859.43,30358.83
+1239,2025-08-14,Veracruz,Centro,Mariana Flores,Flotilla,Toyota,Corolla,Sedán,455000,5143.89,449856.11,394614.98,55241.13
+1240,2024-03-08,Minatitlán,Sur,Valeria Cruz,Flotilla,Nissan,Versa,Sedán,390000,26508.92,363491.08,335001.19,28489.89
+1241,2024-11-11,Minatitlán,Sur,Valeria Cruz,Digital,BYD,Dolphin,Eléctrico,535000,14486.47,520513.53,434765.03,85748.5
+1242,2025-04-29,Veracruz,Centro,Mariana Flores,Piso de venta,Nissan,Versa,Sedán,390000,25771.23,364228.77,325895.99,38332.78
+1243,2025-07-03,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,Toyota,Hilux,Pickup,590000,15366.48,574633.52,499781.08,74852.44
+1244,2025-09-09,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Hilux,Pickup,590000,5713.39,584286.61,508790.52,75496.09
+1245,2025-03-20,Coatzacoalcos,Sur,Ana López,Referido,Suzuki,Swift,Hatchback,340000,18998.01,321001.99,290893.39,30108.6
+1246,2024-02-25,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Avanza,SUV,378000,10197.25,367802.75,328463.24,39339.51
+1247,2024-01-18,Coatzacoalcos,Sur,Jorge Ramírez,Referido,BYD,Seal,Eléctrico,780000,38642.03,741357.97,610451.06,130906.91
+1248,2024-08-20,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Toyota,Hilux,Pickup,590000,21308.89,568691.11,470122.73,98568.38
+1249,2024-05-10,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,Toyota,Hilux,Pickup,590000,2821.78,587178.22,495065.2,92113.02
+1250,2025-09-09,Acayucan,Sur,Carlos Hernández,Digital,Toyota,Corolla,Sedán,455000,27789.42,427210.58,365877.96,61332.62
+1251,2025-06-14,Coatzacoalcos,Sur,Ana López,Digital,BYD,Seal,Eléctrico,780000,24623.64,755376.36,645413.76,109962.6
+1252,2025-06-27,Minatitlán,Sur,Pedro García,Piso de venta,BYD,Dolphin,Eléctrico,535000,8015.94,526984.06,438348.16,88635.9
+1253,2025-01-26,Xalapa,Centro,Camila Reyes,Referido,Mazda,CX-5,SUV,610000,42238.3,567761.7,500170.92,67590.78
+1254,2024-08-12,Acayucan,Sur,Carlos Hernández,Referido,Toyota,Avanza,SUV,378000,24373.87,353626.13,310325.13,43301.0
+1255,2025-08-28,Xalapa,Centro,Camila Reyes,Referido,Toyota,Hilux,Pickup,590000,26468.84,563531.16,478729.93,84801.23
+1256,2025-06-20,Minatitlán,Sur,Pedro García,Referido,Toyota,Hilux,Pickup,590000,25971.68,564028.32,471719.37,92308.95
+1257,2024-06-27,Veracruz,Centro,Mariana Flores,Digital,BYD,Dolphin,Eléctrico,535000,37290.24,497709.76,424326.89,73382.87
+1258,2024-08-01,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Toyota,Corolla,Sedán,455000,28041.9,426958.1,380566.61,46391.49
+1259,2025-01-17,Xalapa,Centro,Luis Mendoza,Referido,BYD,Seal,Eléctrico,780000,16620.2,763379.8,622204.75,141175.05
+1260,2024-05-17,Acayucan,Sur,Sofía Martínez,Digital,Suzuki,Swift,Hatchback,340000,16126.84,323873.16,292379.8,31493.36
+1261,2024-11-08,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Toyota,Hilux,Pickup,590000,6448.02,583551.98,506248.85,77303.13
+1262,2024-06-22,Xalapa,Centro,Luis Mendoza,Referido,Mazda,CX-5,SUV,610000,41034.09,568965.91,475533.67,93432.24
+1263,2024-09-06,Acayucan,Sur,Carlos Hernández,Referido,Toyota,Corolla,Sedán,455000,9480.08,445519.92,381524.66,63995.26
+1264,2025-10-10,Minatitlán,Sur,Valeria Cruz,Digital,BYD,Dolphin,Eléctrico,535000,27218.99,507781.01,431419.02,76361.99
+1265,2024-08-05,Xalapa,Centro,Luis Mendoza,Flotilla,Nissan,Versa,Sedán,390000,2766.56,387233.44,350251.67,36981.77
+1266,2024-04-29,Acayucan,Sur,Sofía Martínez,Flotilla,BYD,Dolphin,Eléctrico,535000,8337.0,526663.0,454451.9,72211.1
+1267,2024-01-30,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Nissan,Versa,Sedán,390000,3291.24,386708.76,341276.39,45432.37
+1268,2025-08-24,Acayucan,Sur,Sofía Martínez,Piso de venta,Toyota,Avanza,SUV,378000,20856.38,357143.62,318324.92,38818.7
+1269,2025-12-21,Acayucan,Sur,Carlos Hernández,Flotilla,Toyota,Hilux,Pickup,590000,4163.7,585836.3,498775.51,87060.79
+1270,2024-02-14,Acayucan,Sur,Sofía Martínez,Piso de venta,Nissan,Versa,Sedán,390000,19955.55,370044.45,339064.81,30979.64
+1271,2025-02-14,Xalapa,Centro,Luis Mendoza,Flotilla,Toyota,Corolla,Sedán,455000,18314.49,436685.51,384574.99,52110.52
+1272,2024-03-15,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Nissan,Versa,Sedán,390000,16702.62,373297.38,332279.72,41017.66
+1273,2025-08-25,Coatzacoalcos,Sur,Ana López,Referido,Suzuki,Swift,Hatchback,340000,13815.73,326184.27,295431.07,30753.2
+1274,2025-09-12,Xalapa,Centro,Camila Reyes,Digital,Toyota,Hilux,Pickup,590000,28619.11,561380.89,476711.89,84669.0
+1275,2024-02-16,Minatitlán,Sur,Valeria Cruz,Piso de venta,Mazda,CX-5,SUV,610000,25574.51,584425.49,500628.82,83796.67
+1276,2024-05-10,Coatzacoalcos,Sur,Ana López,Flotilla,BYD,Dolphin,Eléctrico,535000,22756.23,512243.77,417874.64,94369.13
+1277,2025-11-25,Minatitlán,Sur,Pedro García,Referido,BYD,Seal,Eléctrico,780000,13385.96,766614.04,619928.45,146685.59
+1278,2024-12-15,Coatzacoalcos,Sur,Ana López,Piso de venta,Suzuki,Swift,Hatchback,340000,2227.88,337772.12,295531.86,42240.26
+1279,2025-12-16,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Toyota,Corolla,Sedán,455000,3211.1,451788.9,403373.42,48415.48
+1280,2024-05-31,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,Mazda,CX-5,SUV,610000,14157.11,595842.89,516023.27,79819.62
+1281,2024-08-09,Minatitlán,Sur,Pedro García,Referido,Nissan,Versa,Sedán,390000,26269.59,363730.41,324395.24,39335.17
+1282,2024-08-18,Veracruz,Centro,Mariana Flores,Piso de venta,BYD,Seal,Eléctrico,780000,47325.62,732674.38,599792.87,132881.51
+1283,2024-04-17,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Avanza,SUV,378000,14081.24,363918.76,318864.01,45054.75
+1284,2025-04-04,Acayucan,Sur,Sofía Martínez,Digital,Toyota,Hilux,Pickup,590000,37808.13,552191.87,464412.79,87779.08
+1285,2025-03-31,Veracruz,Centro,Mariana Flores,Flotilla,Toyota,Corolla,Sedán,455000,20142.36,434857.64,374737.74,60119.9
+1286,2024-02-20,Acayucan,Sur,Carlos Hernández,Referido,BYD,Seal,Eléctrico,780000,45257.04,734742.96,611802.75,122940.21
+1287,2025-05-13,Acayucan,Sur,Carlos Hernández,Referido,BYD,Dolphin,Eléctrico,535000,17756.56,517243.44,432646.27,84597.17
+1288,2025-02-26,Acayucan,Sur,Sofía Martínez,Digital,Suzuki,Swift,Hatchback,340000,11828.22,328171.78,283955.87,44215.91
+1289,2024-10-27,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Corolla,Sedán,455000,13375.61,441624.39,388646.32,52978.07
+1290,2025-03-13,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Hilux,Pickup,590000,35901.64,554098.36,464487.87,89610.49
+1291,2025-10-20,Veracruz,Centro,Diego Torres,Referido,Toyota,Corolla,Sedán,455000,8967.86,446032.14,386480.25,59551.89
+1292,2025-04-24,Acayucan,Sur,Carlos Hernández,Digital,Nissan,Versa,Sedán,390000,3270.61,386729.39,341542.49,45186.9
+1293,2024-08-18,Acayucan,Sur,Sofía Martínez,Digital,Toyota,Hilux,Pickup,590000,861.66,589138.34,513864.63,75273.71
+1294,2024-04-20,Minatitlán,Sur,Valeria Cruz,Piso de venta,Mazda,CX-5,SUV,610000,13177.88,596822.12,501278.32,95543.8
+1295,2025-08-12,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Mazda,CX-5,SUV,610000,5307.48,604692.52,507729.5,96963.02
+1296,2024-02-28,Acayucan,Sur,Sofía Martínez,Digital,Nissan,Versa,Sedán,390000,4059.07,385940.93,344247.33,41693.6
+1297,2025-07-04,Minatitlán,Sur,Pedro García,Referido,Toyota,Corolla,Sedán,455000,16719.17,438280.83,385662.29,52618.54
+1298,2024-11-20,Minatitlán,Sur,Pedro García,Piso de venta,Suzuki,Swift,Hatchback,340000,14202.13,325797.87,287924.49,37873.38
+1299,2024-11-29,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,BYD,Dolphin,Eléctrico,535000,2340.37,532659.63,446489.1,86170.53
+1300,2024-07-24,Xalapa,Centro,Camila Reyes,Digital,Toyota,Avanza,SUV,378000,10277.96,367722.04,322686.92,45035.12
+1301,2025-02-09,Xalapa,Centro,Luis Mendoza,Digital,BYD,Seal,Eléctrico,780000,29555.77,750444.23,624026.35,126417.88
+1302,2024-12-05,Xalapa,Centro,Luis Mendoza,Digital,BYD,Dolphin,Eléctrico,535000,30072.61,504927.39,413828.47,91098.92
+1303,2024-04-06,Acayucan,Sur,Sofía Martínez,Flotilla,Mazda,CX-5,SUV,610000,31268.63,578731.37,501833.33,76898.04
+1304,2024-12-26,Acayucan,Sur,Sofía Martínez,Piso de venta,Suzuki,Swift,Hatchback,340000,9507.32,330492.68,292017.97,38474.71
+1305,2024-07-30,Coatzacoalcos,Sur,Ana López,Flotilla,Nissan,Versa,Sedán,390000,4190.13,385809.87,344368.76,41441.11
+1306,2025-05-06,Xalapa,Centro,Camila Reyes,Flotilla,Mazda,CX-5,SUV,610000,32380.17,577619.83,497943.46,79676.37
+1307,2024-05-10,Acayucan,Sur,Sofía Martínez,Referido,Toyota,Hilux,Pickup,590000,35307.57,554692.43,477421.54,77270.89
+1308,2025-11-17,Xalapa,Centro,Luis Mendoza,Flotilla,BYD,Seal,Eléctrico,780000,12097.0,767903.0,634047.17,133855.83
+1309,2025-02-21,Veracruz,Centro,Diego Torres,Referido,Mazda,CX-5,SUV,610000,23050.36,586949.64,504815.12,82134.52
+1310,2024-08-06,Veracruz,Centro,Mariana Flores,Digital,Toyota,Hilux,Pickup,590000,36307.08,553692.92,461616.62,92076.3
+1311,2024-10-16,Veracruz,Centro,Diego Torres,Digital,Toyota,Avanza,SUV,378000,2458.52,375541.48,324832.93,50708.55
+1312,2024-04-05,Minatitlán,Sur,Pedro García,Digital,BYD,Dolphin,Eléctrico,535000,1321.46,533678.54,442430.22,91248.32
+1313,2025-10-10,Minatitlán,Sur,Valeria Cruz,Referido,Nissan,Versa,Sedán,390000,17377.48,372622.52,332993.18,39629.34
+1314,2025-12-05,Xalapa,Centro,Luis Mendoza,Flotilla,Mazda,CX-5,SUV,610000,4681.74,605318.26,523002.39,82315.87
+1315,2024-06-06,Veracruz,Centro,Diego Torres,Digital,Toyota,Corolla,Sedán,455000,1844.78,453155.22,408988.19,44167.03
+1316,2025-04-03,Veracruz,Centro,Diego Torres,Flotilla,Mazda,CX-5,SUV,610000,13818.62,596181.38,522274.94,73906.44
+1317,2025-03-11,Veracruz,Centro,Diego Torres,Referido,Toyota,Avanza,SUV,378000,16883.14,361116.86,306059.44,55057.42
+1318,2024-09-10,Veracruz,Centro,Mariana Flores,Flotilla,BYD,Dolphin,Eléctrico,535000,18251.91,516748.09,421639.75,95108.34
+1319,2024-01-13,Coatzacoalcos,Sur,Ana López,Digital,Mazda,CX-5,SUV,610000,28622.04,581377.96,494717.99,86659.97
+1320,2024-04-03,Xalapa,Centro,Luis Mendoza,Piso de venta,Mazda,CX-5,SUV,610000,7095.0,602905.0,508866.43,94038.57
+1321,2024-07-17,Xalapa,Centro,Camila Reyes,Piso de venta,Toyota,Corolla,Sedán,455000,2503.96,452496.04,400653.49,51842.55
+1322,2024-07-26,Acayucan,Sur,Carlos Hernández,Referido,BYD,Dolphin,Eléctrico,535000,7385.2,527614.8,433117.69,94497.11
+1323,2024-05-24,Minatitlán,Sur,Pedro García,Flotilla,Mazda,CX-5,SUV,610000,25348.07,584651.93,496112.73,88539.2
+1324,2024-09-13,Veracruz,Centro,Mariana Flores,Digital,BYD,Dolphin,Eléctrico,535000,34486.47,500513.53,430354.41,70159.12
+1325,2024-10-20,Minatitlán,Sur,Pedro García,Referido,Toyota,Avanza,SUV,378000,20167.41,357832.59,317989.69,39842.9
+1326,2025-01-17,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Avanza,SUV,378000,17498.19,360501.81,313595.34,46906.47
+1327,2025-11-19,Veracruz,Centro,Mariana Flores,Piso de venta,Toyota,Hilux,Pickup,590000,21579.16,568420.84,492001.14,76419.7
+1328,2024-06-21,Xalapa,Centro,Camila Reyes,Piso de venta,Mazda,CX-5,SUV,610000,36952.77,573047.23,491303.08,81744.15
+1329,2024-03-03,Acayucan,Sur,Carlos Hernández,Digital,Toyota,Corolla,Sedán,455000,26569.54,428430.46,384609.05,43821.41
+1330,2024-04-18,Veracruz,Centro,Mariana Flores,Flotilla,Toyota,Hilux,Pickup,590000,23380.51,566619.49,487133.83,79485.66
+1331,2025-09-27,Acayucan,Sur,Sofía Martínez,Piso de venta,BYD,Seal,Eléctrico,780000,1314.38,778685.62,643398.21,135287.41
+1332,2024-08-10,Acayucan,Sur,Carlos Hernández,Piso de venta,BYD,Dolphin,Eléctrico,535000,28524.7,506475.3,415534.75,90940.55
+1333,2025-06-09,Acayucan,Sur,Sofía Martínez,Digital,Toyota,Corolla,Sedán,455000,16251.02,438748.98,393946.47,44802.51
+1334,2024-03-27,Acayucan,Sur,Carlos Hernández,Digital,Mazda,CX-5,SUV,610000,5764.89,604235.11,524458.01,79777.1
+1335,2025-04-17,Veracruz,Centro,Mariana Flores,Flotilla,Toyota,Hilux,Pickup,590000,21260.32,568739.68,480315.95,88423.73
+1336,2025-02-07,Xalapa,Centro,Luis Mendoza,Referido,Suzuki,Swift,Hatchback,340000,6799.89,333200.11,299227.44,33972.67
+1337,2024-12-10,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Toyota,Hilux,Pickup,590000,17340.83,572659.17,474648.79,98010.38
+1338,2025-02-19,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Suzuki,Swift,Hatchback,340000,23339.06,316660.94,287046.98,29613.96
+1339,2024-09-30,Xalapa,Centro,Luis Mendoza,Referido,Toyota,Hilux,Pickup,590000,34915.35,555084.65,482879.26,72205.39
+1340,2025-04-04,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,BYD,Seal,Eléctrico,780000,23883.4,756116.6,609571.08,146545.52
+1341,2024-07-09,Veracruz,Centro,Mariana Flores,Piso de venta,Toyota,Hilux,Pickup,590000,1408.09,588591.91,502593.78,85998.13
+1342,2025-01-20,Veracruz,Centro,Diego Torres,Referido,Toyota,Avanza,SUV,378000,3888.42,374111.58,325353.44,48758.14
+1343,2025-06-02,Xalapa,Centro,Camila Reyes,Referido,BYD,Dolphin,Eléctrico,535000,29506.33,505493.67,430602.83,74890.84
+1344,2024-11-08,Acayucan,Sur,Sofía Martínez,Flotilla,Toyota,Avanza,SUV,378000,22077.05,355922.95,310716.96,45205.99
+1345,2024-10-20,Coatzacoalcos,Sur,Jorge Ramírez,Digital,Toyota,Hilux,Pickup,590000,11015.4,578984.6,488694.58,90290.02
+1346,2025-08-01,Xalapa,Centro,Camila Reyes,Digital,BYD,Seal,Eléctrico,780000,2833.18,777166.82,645565.69,131601.13
+1347,2025-08-11,Veracruz,Centro,Diego Torres,Piso de venta,Suzuki,Swift,Hatchback,340000,16241.13,323758.87,283873.91,39884.96
+1348,2024-05-23,Xalapa,Centro,Luis Mendoza,Referido,Toyota,Hilux,Pickup,590000,8171.31,581828.69,494305.88,87522.81
+1349,2024-03-29,Veracruz,Centro,Mariana Flores,Flotilla,Toyota,Hilux,Pickup,590000,14002.63,575997.37,490896.94,85100.43
+1350,2025-12-14,Minatitlán,Sur,Pedro García,Flotilla,BYD,Dolphin,Eléctrico,535000,14476.11,520523.89,440250.51,80273.38
+1351,2024-08-05,Minatitlán,Sur,Valeria Cruz,Flotilla,BYD,Seal,Eléctrico,780000,7113.05,772886.95,639584.23,133302.72
+1352,2025-10-20,Veracruz,Centro,Mariana Flores,Digital,Toyota,Corolla,Sedán,455000,14530.73,440469.27,377042.95,63426.32
+1353,2025-12-23,Minatitlán,Sur,Valeria Cruz,Digital,BYD,Dolphin,Eléctrico,535000,34188.44,500811.56,412620.16,88191.4
+1354,2024-01-17,Xalapa,Centro,Luis Mendoza,Flotilla,Suzuki,Swift,Hatchback,340000,3059.32,336940.68,291789.22,45151.46
+1355,2024-01-05,Minatitlán,Sur,Valeria Cruz,Piso de venta,Nissan,Versa,Sedán,390000,19286.84,370713.16,332487.79,38225.37
+1356,2025-10-20,Minatitlán,Sur,Pedro García,Referido,Suzuki,Swift,Hatchback,340000,5871.18,334128.82,293950.76,40178.06
+1357,2024-02-06,Acayucan,Sur,Sofía Martínez,Referido,Toyota,Corolla,Sedán,455000,20659.18,434340.82,389379.0,44961.82
+1358,2024-10-17,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Hilux,Pickup,590000,38807.1,551192.9,478018.54,73174.36
+1359,2024-11-21,Veracruz,Centro,Mariana Flores,Referido,BYD,Dolphin,Eléctrico,535000,11424.32,523575.68,428189.4,95386.28
+1360,2024-02-06,Acayucan,Sur,Carlos Hernández,Digital,Toyota,Hilux,Pickup,590000,19885.28,570114.72,475512.19,94602.53
+1361,2024-07-15,Acayucan,Sur,Sofía Martínez,Piso de venta,Toyota,Corolla,Sedán,455000,13981.49,441018.51,381371.62,59646.89
+1362,2025-11-18,Minatitlán,Sur,Pedro García,Referido,BYD,Seal,Eléctrico,780000,13255.28,766744.72,622362.8,144381.92
+1363,2024-06-11,Xalapa,Centro,Camila Reyes,Flotilla,BYD,Seal,Eléctrico,780000,38431.37,741568.63,629387.96,112180.67
+1364,2024-06-17,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Toyota,Avanza,SUV,378000,10564.74,367435.26,325525.67,41909.59
+1365,2025-02-28,Xalapa,Centro,Camila Reyes,Referido,BYD,Seal,Eléctrico,780000,36052.25,743947.75,630358.03,113589.72
+1366,2025-10-10,Acayucan,Sur,Sofía Martínez,Digital,Toyota,Hilux,Pickup,590000,34401.64,555598.36,467557.87,88040.49
+1367,2025-08-02,Xalapa,Centro,Luis Mendoza,Referido,Toyota,Hilux,Pickup,590000,4216.47,585783.53,503925.05,81858.48
+1368,2025-11-14,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Toyota,Hilux,Pickup,590000,32927.65,557072.35,482039.02,75033.33
+1369,2025-06-23,Acayucan,Sur,Sofía Martínez,Flotilla,Toyota,Hilux,Pickup,590000,10701.55,579298.45,482163.47,97134.98
+1370,2024-07-18,Coatzacoalcos,Sur,Ana López,Flotilla,Nissan,Versa,Sedán,390000,24059.82,365940.18,328789.23,37150.95
+1371,2025-11-01,Acayucan,Sur,Carlos Hernández,Piso de venta,Mazda,CX-5,SUV,610000,26283.42,583716.58,512721.86,70994.72
+1372,2025-05-05,Acayucan,Sur,Carlos Hernández,Flotilla,Mazda,CX-5,SUV,610000,6186.4,603813.6,525861.54,77952.06
+1373,2025-04-11,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Toyota,Avanza,SUV,378000,19153.32,358846.68,311763.53,47083.15
+1374,2024-03-19,Minatitlán,Sur,Pedro García,Digital,Toyota,Avanza,SUV,378000,208.53,377791.47,325439.63,52351.84
+1375,2024-10-09,Minatitlán,Sur,Valeria Cruz,Piso de venta,Toyota,Avanza,SUV,378000,25349.9,352650.1,305504.23,47145.87
+1376,2025-06-01,Acayucan,Sur,Carlos Hernández,Referido,BYD,Seal,Eléctrico,780000,14313.84,765686.16,616668.68,149017.48
+1377,2025-01-02,Minatitlán,Sur,Pedro García,Flotilla,Mazda,CX-5,SUV,610000,21249.06,588750.94,501347.57,87403.37
+1378,2024-12-13,Minatitlán,Sur,Valeria Cruz,Flotilla,BYD,Seal,Eléctrico,780000,15981.76,764018.24,631888.02,132130.22
+1379,2024-01-20,Veracruz,Centro,Mariana Flores,Digital,Toyota,Avanza,SUV,378000,6651.52,371348.48,320813.1,50535.38
+1380,2024-11-23,Xalapa,Centro,Luis Mendoza,Referido,Toyota,Avanza,SUV,378000,20510.12,357489.88,310553.19,46936.69
+1381,2024-10-30,Minatitlán,Sur,Pedro García,Flotilla,Toyota,Avanza,SUV,378000,11661.83,366338.17,323116.45,43221.72
+1382,2025-07-11,Coatzacoalcos,Sur,Ana López,Referido,Nissan,Versa,Sedán,390000,1869.36,388130.64,352477.46,35653.18
+1383,2025-01-14,Veracruz,Centro,Mariana Flores,Referido,Toyota,Corolla,Sedán,455000,11417.27,443582.73,387964.23,55618.5
+1384,2025-12-12,Veracruz,Centro,Diego Torres,Flotilla,BYD,Dolphin,Eléctrico,535000,27914.23,507085.77,428361.34,78724.43
+1385,2025-07-12,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Mazda,CX-5,SUV,610000,33706.07,576293.93,507290.51,69003.42
+1386,2025-08-05,Minatitlán,Sur,Valeria Cruz,Referido,Toyota,Corolla,Sedán,455000,7963.97,447036.03,388550.23,58485.8
+1387,2025-11-11,Coatzacoalcos,Sur,Ana López,Digital,Toyota,Hilux,Pickup,590000,23803.7,566196.3,481385.11,84811.19
+1388,2025-08-01,Xalapa,Centro,Luis Mendoza,Digital,BYD,Dolphin,Eléctrico,535000,2352.64,532647.36,440544.74,92102.62
+1389,2024-10-04,Xalapa,Centro,Camila Reyes,Flotilla,BYD,Seal,Eléctrico,780000,44183.71,735816.29,597931.17,137885.12
+1390,2024-10-29,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Corolla,Sedán,455000,30197.62,424802.38,381031.18,43771.2
+1391,2024-07-29,Veracruz,Centro,Mariana Flores,Piso de venta,BYD,Seal,Eléctrico,780000,16347.72,763652.28,622022.49,141629.79
+1392,2024-01-31,Acayucan,Sur,Carlos Hernández,Flotilla,BYD,Seal,Eléctrico,780000,13998.18,766001.82,633671.69,132330.13
+1393,2025-11-17,Xalapa,Centro,Camila Reyes,Piso de venta,Mazda,CX-5,SUV,610000,24473.49,585526.51,489777.39,95749.12
+1394,2024-12-30,Acayucan,Sur,Sofía Martínez,Digital,BYD,Seal,Eléctrico,780000,51196.73,728803.27,610537.37,118265.9
+1395,2025-10-10,Xalapa,Centro,Luis Mendoza,Flotilla,Toyota,Hilux,Pickup,590000,7781.04,582218.96,491863.46,90355.5
+1396,2025-02-07,Coatzacoalcos,Sur,Ana López,Referido,Toyota,Corolla,Sedán,455000,24243.02,430756.98,374640.86,56116.12
+1397,2025-08-21,Minatitlán,Sur,Valeria Cruz,Referido,Toyota,Corolla,Sedán,455000,21060.43,433939.57,380001.8,53937.77
+1398,2024-04-24,Acayucan,Sur,Carlos Hernández,Flotilla,Toyota,Corolla,Sedán,455000,20426.28,434573.72,373468.09,61105.63
+1399,2025-07-06,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Nissan,Versa,Sedán,390000,23408.19,366591.81,329033.29,37558.52
+1400,2024-05-17,Xalapa,Centro,Camila Reyes,Referido,BYD,Dolphin,Eléctrico,535000,7391.72,527608.28,436418.5,91189.78
+1401,2025-07-20,Xalapa,Centro,Luis Mendoza,Digital,Toyota,Avanza,SUV,378000,13259.21,364740.79,317462.38,47278.41
+1402,2024-11-15,Veracruz,Centro,Mariana Flores,Referido,Toyota,Avanza,SUV,378000,6129.98,371870.02,319439.2,52430.82
+1403,2024-10-30,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Avanza,SUV,378000,24671.42,353328.58,306871.02,46457.56
+1404,2024-10-24,Minatitlán,Sur,Pedro García,Digital,Toyota,Hilux,Pickup,590000,9100.13,580899.87,490195.13,90704.74
+1405,2024-10-24,Acayucan,Sur,Sofía Martínez,Digital,BYD,Seal,Eléctrico,780000,546.45,779453.55,637762.26,141691.29
+1406,2024-04-28,Minatitlán,Sur,Valeria Cruz,Digital,BYD,Dolphin,Eléctrico,535000,31143.12,503856.88,426157.25,77699.63
+1407,2024-04-19,Acayucan,Sur,Sofía Martínez,Referido,Mazda,CX-5,SUV,610000,41956.54,568043.46,488857.84,79185.62
+1408,2025-08-29,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Corolla,Sedán,455000,7989.51,447010.49,391732.44,55278.05
+1409,2024-03-18,Veracruz,Centro,Diego Torres,Digital,Suzuki,Swift,Hatchback,340000,3582.91,336417.09,303219.95,33197.14
+1410,2024-12-25,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Corolla,Sedán,455000,31571.09,423428.91,366521.3,56907.61
+1411,2024-01-24,Minatitlán,Sur,Valeria Cruz,Digital,Toyota,Hilux,Pickup,590000,41251.8,548748.2,463379.83,85368.37
+1412,2025-04-01,Minatitlán,Sur,Pedro García,Piso de venta,Mazda,CX-5,SUV,610000,9739.18,600260.82,506165.63,94095.19
+1413,2024-11-06,Veracruz,Centro,Mariana Flores,Piso de venta,Suzuki,Swift,Hatchback,340000,15236.85,324763.15,290380.02,34383.13
+1414,2024-02-24,Xalapa,Centro,Camila Reyes,Referido,BYD,Seal,Eléctrico,780000,15303.27,764696.73,622669.67,142027.06
+1415,2024-10-27,Veracruz,Centro,Diego Torres,Referido,Toyota,Hilux,Pickup,590000,21337.17,568662.83,485105.32,83557.51
+1416,2024-04-28,Coatzacoalcos,Sur,Ana López,Flotilla,BYD,Seal,Eléctrico,780000,24071.43,755928.57,639431.45,116497.12
+1417,2025-11-01,Coatzacoalcos,Sur,Ana López,Piso de venta,Nissan,Versa,Sedán,390000,22942.83,367057.17,326144.85,40912.32
+1418,2024-05-12,Acayucan,Sur,Carlos Hernández,Digital,Toyota,Hilux,Pickup,590000,39829.64,550170.36,456017.74,94152.62
+1419,2024-09-24,Minatitlán,Sur,Pedro García,Referido,Suzuki,Swift,Hatchback,340000,11782.07,328217.93,293316.29,34901.64
+1420,2024-12-20,Coatzacoalcos,Sur,Ana López,Referido,Mazda,CX-5,SUV,610000,26131.4,583868.6,490741.83,93126.77
+1421,2025-06-14,Xalapa,Centro,Camila Reyes,Referido,Mazda,CX-5,SUV,610000,12105.61,597894.39,521742.25,76152.14
+1422,2025-05-10,Minatitlán,Sur,Pedro García,Flotilla,Mazda,CX-5,SUV,610000,39342.81,570657.19,478405.27,92251.92
+1423,2025-05-12,Acayucan,Sur,Sofía Martínez,Referido,Suzuki,Swift,Hatchback,340000,22552.02,317447.98,287310.72,30137.26
+1424,2025-07-24,Acayucan,Sur,Sofía Martínez,Referido,Toyota,Avanza,SUV,378000,16769.45,361230.55,320044.06,41186.49
+1425,2024-07-31,Minatitlán,Sur,Pedro García,Digital,BYD,Seal,Eléctrico,780000,4893.52,775106.48,632803.74,142302.74
+1426,2024-09-17,Coatzacoalcos,Sur,Ana López,Piso de venta,Nissan,Versa,Sedán,390000,18275.67,371724.33,337789.34,33934.99
+1427,2024-01-25,Coatzacoalcos,Sur,Ana López,Flotilla,Toyota,Hilux,Pickup,590000,18296.15,571703.85,493400.66,78303.19
+1428,2024-05-07,Xalapa,Centro,Camila Reyes,Piso de venta,Toyota,Avanza,SUV,378000,20477.29,357522.71,319903.94,37618.77
+1429,2025-01-01,Veracruz,Centro,Mariana Flores,Referido,Toyota,Avanza,SUV,378000,11220.4,366779.6,313702.42,53077.18
+1430,2024-05-24,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Corolla,Sedán,455000,21132.69,433867.31,386677.62,47189.69
+1431,2025-06-14,Xalapa,Centro,Luis Mendoza,Flotilla,Toyota,Hilux,Pickup,590000,35939.69,554060.31,469524.51,84535.8
+1432,2024-02-23,Acayucan,Sur,Sofía Martínez,Digital,Toyota,Hilux,Pickup,590000,22569.06,567430.94,487068.53,80362.41
+1433,2025-08-14,Veracruz,Centro,Mariana Flores,Referido,Nissan,Versa,Sedán,390000,20108.44,369891.56,328320.51,41571.05
+1434,2024-07-28,Minatitlán,Sur,Valeria Cruz,Flotilla,Nissan,Versa,Sedán,390000,20528.88,369471.12,340918.77,28552.35
+1435,2024-08-26,Acayucan,Sur,Carlos Hernández,Flotilla,BYD,Dolphin,Eléctrico,535000,35161.76,499838.24,411426.78,88411.46
+1436,2024-02-11,Xalapa,Centro,Luis Mendoza,Piso de venta,Toyota,Hilux,Pickup,590000,24568.91,565431.09,474258.96,91172.13
+1437,2024-04-04,Veracruz,Centro,Mariana Flores,Referido,Toyota,Corolla,Sedán,455000,31703.35,423296.65,379349.74,43946.91
+1438,2024-10-04,Xalapa,Centro,Luis Mendoza,Digital,BYD,Dolphin,Eléctrico,535000,10681.19,524318.81,428892.79,95426.02
+1439,2025-05-06,Minatitlán,Sur,Pedro García,Piso de venta,Mazda,CX-5,SUV,610000,13454.26,596545.74,520528.1,76017.64
+1440,2025-05-11,Veracruz,Centro,Diego Torres,Flotilla,Toyota,Corolla,Sedán,455000,6641.26,448358.74,386937.31,61421.43
+1441,2025-01-05,Xalapa,Centro,Luis Mendoza,Flotilla,Mazda,CX-5,SUV,610000,26251.84,583748.16,513845.09,69903.07
+1442,2025-05-27,Acayucan,Sur,Sofía Martínez,Referido,Toyota,Hilux,Pickup,590000,19583.11,570416.89,495996.3,74420.59
+1443,2025-05-17,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Corolla,Sedán,455000,12238.93,442761.07,392246.09,50514.98
+1444,2025-04-09,Xalapa,Centro,Luis Mendoza,Digital,Suzuki,Swift,Hatchback,340000,22561.49,317438.51,278455.42,38983.09
+1445,2025-02-06,Xalapa,Centro,Luis Mendoza,Referido,Mazda,CX-5,SUV,610000,8914.56,601085.44,506522.01,94563.43
+1446,2025-08-18,Xalapa,Centro,Luis Mendoza,Referido,Toyota,Corolla,Sedán,455000,23963.61,431036.39,381703.85,49332.54
+1447,2024-10-25,Minatitlán,Sur,Pedro García,Flotilla,Nissan,Versa,Sedán,390000,11627.14,378372.86,335543.66,42829.2
+1448,2025-08-01,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Hilux,Pickup,590000,11189.63,578810.37,494100.82,84709.55
+1449,2025-05-08,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Hilux,Pickup,590000,28023.69,561976.31,475120.62,86855.69
+1450,2024-02-16,Veracruz,Centro,Mariana Flores,Digital,Nissan,Versa,Sedán,390000,10024.77,379975.23,350184.25,29790.98
+1451,2024-11-06,Acayucan,Sur,Sofía Martínez,Piso de venta,Toyota,Corolla,Sedán,455000,8831.56,446168.44,381738.05,64430.39
+1452,2024-11-08,Veracruz,Centro,Mariana Flores,Flotilla,Toyota,Corolla,Sedán,455000,26553.0,428447.0,374717.19,53729.81
+1453,2025-07-16,Veracruz,Centro,Diego Torres,Flotilla,Suzuki,Swift,Hatchback,340000,4754.21,335245.79,301048.79,34197.0
+1454,2024-06-18,Veracruz,Centro,Mariana Flores,Referido,Toyota,Avanza,SUV,378000,7344.75,370655.25,329830.65,40824.6
+1455,2024-11-09,Minatitlán,Sur,Pedro García,Digital,BYD,Seal,Eléctrico,780000,41765.96,738234.04,628680.31,109553.73
+1456,2025-05-01,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Mazda,CX-5,SUV,610000,26424.05,583575.95,500610.88,82965.07
+1457,2024-03-25,Acayucan,Sur,Sofía Martínez,Piso de venta,Toyota,Corolla,Sedán,455000,25435.1,429564.9,379763.62,49801.28
+1458,2025-09-03,Acayucan,Sur,Carlos Hernández,Flotilla,Mazda,CX-5,SUV,610000,5593.15,604406.85,532458.69,71948.16
+1459,2025-02-25,Minatitlán,Sur,Pedro García,Digital,BYD,Seal,Eléctrico,780000,29339.35,750660.65,610258.85,140401.8
+1460,2024-07-31,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Toyota,Avanza,SUV,378000,17048.08,360951.92,317173.48,43778.44
+1461,2024-05-06,Xalapa,Centro,Camila Reyes,Flotilla,Toyota,Corolla,Sedán,455000,24674.83,430325.17,375576.5,54748.67
+1462,2025-12-11,Minatitlán,Sur,Pedro García,Piso de venta,Toyota,Corolla,Sedán,455000,20852.9,434147.1,374405.94,59741.16
+1463,2024-07-04,Veracruz,Centro,Mariana Flores,Flotilla,Mazda,CX-5,SUV,610000,40877.84,569122.16,495568.97,73553.19
+1464,2025-10-04,Xalapa,Centro,Camila Reyes,Flotilla,Nissan,Versa,Sedán,390000,13934.0,376066.0,345972.57,30093.43
+1465,2024-10-15,Minatitlán,Sur,Pedro García,Flotilla,BYD,Seal,Eléctrico,780000,36084.24,743915.76,605235.06,138680.7
+1466,2024-07-09,Minatitlán,Sur,Pedro García,Flotilla,Toyota,Corolla,Sedán,455000,14828.92,440171.08,383286.92,56884.16
+1467,2024-01-27,Veracruz,Centro,Diego Torres,Piso de venta,Toyota,Avanza,SUV,378000,5429.36,372570.64,316637.37,55933.27
+1468,2024-06-04,Coatzacoalcos,Sur,Ana López,Flotilla,BYD,Seal,Eléctrico,780000,12814.35,767185.65,655764.2,111421.45
+1469,2024-06-19,Veracruz,Centro,Diego Torres,Referido,Mazda,CX-5,SUV,610000,11563.04,598436.96,518070.16,80366.8
+1470,2025-10-05,Veracruz,Centro,Mariana Flores,Piso de venta,Toyota,Avanza,SUV,378000,20178.98,357821.02,311763.68,46057.34
+1471,2024-05-02,Acayucan,Sur,Carlos Hernández,Referido,BYD,Dolphin,Eléctrico,535000,32974.74,502025.26,432917.61,69107.65
+1472,2025-11-30,Minatitlán,Sur,Pedro García,Piso de venta,BYD,Seal,Eléctrico,780000,19192.93,760807.07,615274.03,145533.04
+1473,2024-11-06,Minatitlán,Sur,Pedro García,Flotilla,Toyota,Avanza,SUV,378000,22065.74,355934.26,308883.87,47050.39
+1474,2025-06-29,Coatzacoalcos,Sur,Ana López,Piso de venta,Mazda,CX-5,SUV,610000,38633.2,571366.8,482032.2,89334.6
+1475,2025-02-21,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Toyota,Corolla,Sedán,455000,27042.61,427957.39,367858.42,60098.97
+1476,2025-08-23,Veracruz,Centro,Diego Torres,Digital,Nissan,Versa,Sedán,390000,17793.0,372207.0,341891.74,30315.26
+1477,2024-10-03,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Toyota,Hilux,Pickup,590000,15561.63,574438.37,475188.18,99250.19
+1478,2025-10-07,Acayucan,Sur,Carlos Hernández,Digital,Toyota,Hilux,Pickup,590000,38200.01,551799.99,459833.73,91966.26
+1479,2024-10-22,Minatitlán,Sur,Valeria Cruz,Piso de venta,Suzuki,Swift,Hatchback,340000,2728.74,337271.26,292665.13,44606.13
+1480,2024-08-21,Coatzacoalcos,Sur,Ana López,Piso de venta,Toyota,Hilux,Pickup,590000,36437.86,553562.14,465173.6,88388.54
+1481,2024-04-09,Veracruz,Centro,Diego Torres,Referido,BYD,Dolphin,Eléctrico,535000,8595.86,526404.14,454094.81,72309.33
+1482,2024-04-23,Veracruz,Centro,Mariana Flores,Referido,Mazda,CX-5,SUV,610000,10943.33,599056.67,515085.64,83971.03
+1483,2024-10-13,Minatitlán,Sur,Valeria Cruz,Digital,Nissan,Versa,Sedán,390000,2178.5,387821.5,350147.67,37673.83
+1484,2024-02-08,Veracruz,Centro,Mariana Flores,Digital,BYD,Dolphin,Eléctrico,535000,34118.71,500881.29,413445.94,87435.35
+1485,2024-08-08,Minatitlán,Sur,Valeria Cruz,Piso de venta,Toyota,Avanza,SUV,378000,22814.75,355185.25,313133.94,42051.31
+1486,2024-07-08,Xalapa,Centro,Luis Mendoza,Flotilla,Nissan,Versa,Sedán,390000,7926.77,382073.23,337508.57,44564.66
+1487,2025-11-05,Coatzacoalcos,Sur,Ana López,Piso de venta,Mazda,CX-5,SUV,610000,32444.14,577555.86,509483.14,68072.72
+1488,2024-04-21,Acayucan,Sur,Carlos Hernández,Referido,Mazda,CX-5,SUV,610000,26835.93,583164.07,509030.37,74133.7
+1489,2025-07-18,Minatitlán,Sur,Valeria Cruz,Referido,BYD,Dolphin,Eléctrico,535000,27659.88,507340.12,438555.81,68784.31
+1490,2025-11-06,Coatzacoalcos,Sur,Jorge Ramírez,Piso de venta,BYD,Seal,Eléctrico,780000,30979.76,749020.24,634220.96,114799.28
+1491,2024-11-02,Coatzacoalcos,Sur,Ana López,Digital,Toyota,Corolla,Sedán,455000,3054.15,451945.85,395274.65,56671.2
+1492,2024-07-05,Coatzacoalcos,Sur,Jorge Ramírez,Flotilla,Suzuki,Swift,Hatchback,340000,13856.67,326143.33,293201.14,32942.19
+1493,2024-04-21,Xalapa,Centro,Luis Mendoza,Flotilla,Toyota,Hilux,Pickup,590000,18068.04,571931.96,499681.42,72250.54
+1494,2025-09-16,Minatitlán,Sur,Valeria Cruz,Flotilla,Mazda,CX-5,SUV,610000,13687.53,596312.47,513629.99,82682.48
+1495,2025-11-10,Coatzacoalcos,Sur,Jorge Ramírez,Referido,Nissan,Versa,Sedán,390000,26097.46,363902.54,333701.67,30200.87
+1496,2024-12-03,Xalapa,Centro,Luis Mendoza,Piso de venta,BYD,Seal,Eléctrico,780000,2567.87,777432.13,632696.78,144735.35
+1497,2025-12-30,Acayucan,Sur,Carlos Hernández,Referido,Toyota,Hilux,Pickup,590000,25522.17,564477.83,491314.6,73163.23
+1498,2024-04-21,Veracruz,Centro,Diego Torres,Flotilla,Toyota,Avanza,SUV,378000,3758.45,374241.55,327828.45,46413.1
+1499,2025-09-02,Coatzacoalcos,Sur,Ana López,Digital,BYD,Seal,Eléctrico,780000,53080.84,726919.16,600533.82,126385.34
+1500,2024-07-24,Veracruz,Centro,Diego Torres,Piso de venta,Mazda,CX-5,SUV,610000,10762.03,599237.97,512117.97,87120.0
